@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>NDL Structured Layout Viewer</title>
+<script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+
+<style>
+body { display: flex; font-family: sans-serif; }
+#pageCanvas {
+    border: 1px solid #ccc;
+    margin-right: 20px;
+}
+#textPanel {
+    width: 40%;
+    overflow-y: auto;
+    height: 95vh;
+    padding-left: 10px;
+}
+.block-item {
+    margin-bottom: 20px;
+}
+.block-item:hover {
+    background-color: #eef;
+}
+</style>
+</head>
+
+<body>
+
+<div id="app">
+
+  <canvas id="pageCanvas" width="700" height="1000"></canvas>
+
+  <div id="textPanel">
+    <h2>{{ pageLabel }}</h2>
+
+    <div v-for="(blk, b) in blocks" :key="b" class="block-item"
+         @mouseenter="highlightBlock(b)"
+         @mouseleave="clearHighlight">
+
+      <h4>Block {{ b+1 }} / Type: {{ blk.type }}</h4>
+
+      <div v-for="(line, i) in blk.lines" :key="i">
+        <p>{{ line.STRING }}</p>
+      </div>
+
+      <hr>
+    </div>
+
+  </div>
+
+</div>
+
+<script src="viewer.js"></script>
+</body>
+</html>
