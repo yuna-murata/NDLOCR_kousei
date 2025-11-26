@@ -1,0 +1,43 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000022.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.223">
+      <LINE TYPE="本文" X="2763" Y="624" WIDTH="91" HEIGHT="1338" CONF="0.889" ORDER="0" STRING="山びとは、 轆轤ひきつゝあやしまず。 わがつく" />
+      <LINE TYPE="本文" X="2707" Y="739" WIDTH="55" HEIGHT="450" CONF="0.598" ORDER="1" STRING="息の 大きと息を" />
+      <LINE TYPE="本文" X="2501" Y="727" WIDTH="84" HEIGHT="1226" CONF="0.897" ORDER="4" STRING="誰びとに われ憚りて、 もの言はむ。 かそけき" />
+      <LINE TYPE="本文" X="2446" Y="729" WIDTH="53" HEIGHT="511" CONF="0.821" ORDER="5" STRING="家に、 山びとゝをり" />
+      <LINE TYPE="本文" X="2234" Y="721" WIDTH="84" HEIGHT="1226" CONF="0.908" ORDER="8" STRING="澤蟹をもてあそぶ子に 錢くれて、 赤きたなそ" />
+      <LINE TYPE="本文" X="2177" Y="726" WIDTH="53" HEIGHT="505" CONF="0.827" ORDER="9" STRING="こを 我は見にけり" />
+      <LINE TYPE="本文" X="1972" Y="713" WIDTH="85" HEIGHT="1225" CONF="0.911" ORDER="10" STRING="わらはべのひとり遊びや。 日の昏るゝ澤のたぎ" />
+      <LINE TYPE="本文" X="1915" Y="714" WIDTH="55" HEIGHT="567" CONF="0.824" ORDER="11" STRING="ちに、 うつゝなくあり" />
+      <SHAPE>
+        <POLYGON POINTS="1891,621,1891,1967,2847,1967,2847,621" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.864">
+      <LINE TYPE="本文" X="1613" Y="747" WIDTH="54" HEIGHT="1216" CONF="0.853" ORDER="12" STRING="友なしに 遊べる子かも。 うち對ふ 山も 父" />
+      <LINE TYPE="本文" X="1530" Y="752" WIDTH="45" HEIGHT="565" CONF="0.821" ORDER="15" STRING="母も、 みなもだしたり" />
+      <SHAPE>
+        <POLYGON POINTS="1530,747,1530,1963,1665,1963,1665,747" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.853">
+      <LINE TYPE="本文" X="1331" Y="983" WIDTH="47" HEIGHT="873" CONF="0.811" ORDER="17" STRING="戾るとき、 よびとめて手にくれたのは、" />
+      <LINE TYPE="本文" X="1250" Y="986" WIDTH="50" HEIGHT="856" CONF="0.833" ORDER="19" STRING="木ぼっ こであつた。 木地屋でなくては" />
+      <LINE TYPE="本文" X="1171" Y="991" WIDTH="50" HEIGHT="863" CONF="0.845" ORDER="20" STRING="つくりさうもない、 如何にもてづいな、" />
+      <LINE TYPE="本文" X="1090" Y="990" WIDTH="46" HEIGHT="851" CONF="0.884" ORDER="21" STRING="親しみのある、 童子といふ名のふさは" />
+      <LINE TYPE="本文" X="1009" Y="990" WIDTH="41" HEIGHT="352" CONF="0.879" ORDER="22" STRING="しい人形である。" />
+      <SHAPE>
+        <POLYGON POINTS="1010,982,1010,1855,1375,1855,1375,982" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.825">
+      <LINE TYPE="本文" X="804" Y="755" WIDTH="47" HEIGHT="1224" CONF="0.827" ORDER="23" STRING="木ぼっこの目鼻を見れば、 けうとさよ。 すべな" />
+      <LINE TYPE="本文" X="720" Y="642" WIDTH="42" HEIGHT="681" CONF="0.777" ORDER="25" STRING="き時に、 わが笑ひたり ;1" />
+      <SHAPE>
+        <POLYGON POINTS="722,642,722,1979,850,1979,850,642" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="1135" Y="1344" WIDTH="21" HEIGHT="67" CONF="0.692" />
+    <BLOCK TYPE="ルビ" X="1293" Y="1044" WIDTH="15" HEIGHT="112" CONF="0.223" />
+  </PAGE>
+</OCRDATASET>

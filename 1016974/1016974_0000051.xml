@@ -1,0 +1,38 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000051.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.239">
+      <LINE TYPE="本文" X="2857" Y="698" WIDTH="85" HEIGHT="1361" CONF="0.889" ORDER="0" STRING="枕べのくりやの障子 あかりたり。 疊をうちて、 88" />
+      <LINE TYPE="本文" X="2806" Y="820" WIDTH="47" HEIGHT="275" CONF="0.753" ORDER="1" STRING="鼠をしかる" />
+      <LINE TYPE="本文" X="2594" Y="815" WIDTH="83" HEIGHT="1230" CONF="0.873" ORDER="4" STRING="ひき腮のがらすにあたる風のおと 霜の白みは、" />
+      <LINE TYPE="本文" X="2536" Y="810" WIDTH="53" HEIGHT="392" CONF="0.817" ORDER="5" STRING="夜あけかと思ふ" />
+      <LINE TYPE="本文" X="2328" Y="797" WIDTH="78" HEIGHT="1216" CONF="0.889" ORDER="8" STRING="くりや戶のがらすにうつる こすもすの夜目の" />
+      <LINE TYPE="本文" X="2267" Y="798" WIDTH="53" HEIGHT="627" CONF="0.834" ORDER="9" STRING="そよぎは、 明け近からし" />
+      <LINE TYPE="本文" X="2062" Y="783" WIDTH="85" HEIGHT="1223" CONF="0.882" ORDER="11" STRING="息ざしの 土に觸りたる外のけはひ 誰かい寢" />
+      <LINE TYPE="本文" X="2003" Y="786" WIDTH="59" HEIGHT="567" CONF="0.841" ORDER="12" STRING="らし。 わが軒のうちに" />
+      <SHAPE>
+        <POLYGON POINTS="1992,701,1992,2053,2937,2053,2937,701" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.862">
+      <LINE TYPE="タイトル本文" X="1454" Y="960" WIDTH="58" HEIGHT="285" CONF="0.770" ORDER="15" STRING="蒜 葉 の" />
+      <SHAPE>
+        <POLYGON POINTS="1454,960,1454,1245,1512,1245,1512,960" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.367">
+      <LINE TYPE="本文" X="1225" Y="1012" WIDTH="55" HEIGHT="516" CONF="0.710" ORDER="16" STRING="叱ることありて後" />
+      <LINE TYPE="本文" X="1005" Y="770" WIDTH="68" HEIGHT="1224" CONF="0.837" ORDER="18" STRING="薩摩より、 汝がふみ來到る。 ふみの上に、 淚お" />
+      <LINE TYPE="本文" X="923" Y="781" WIDTH="49" HEIGHT="505" CONF="0.853" ORDER="20" STRING="として喜ぶ。 われは" />
+      <SHAPE>
+        <POLYGON POINTS="922,775,922,1993,1240,1993,1240,775" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.464">
+      <LINE TYPE="本文" X="746" Y="1011" WIDTH="50" HEIGHT="271" CONF="0.598" ORDER="25" STRING="蒜 葉 の" />
+      <SHAPE>
+        <POLYGON POINTS="670,660,670,1281,796,1281,796,660" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="1064" Y="1313" WIDTH="19" HEIGHT="79" CONF="0.698" />
+  </PAGE>
+</OCRDATASET>

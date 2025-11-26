@@ -1,0 +1,41 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000092.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.806">
+      <LINE TYPE="本文" X="2860" Y="602" WIDTH="53" HEIGHT="1346" CONF="0.782" ORDER="0" STRING="吹きとよむ桑の中路の向ひ風 眩はしもよ。 若 170" />
+      <LINE TYPE="本文" X="2780" Y="715" WIDTH="44" HEIGHT="216" CONF="0.733" ORDER="3" STRING="葉の光り" />
+      <SHAPE>
+        <POLYGON POINTS="2780,599,2780,1946,2914,1946,2914,599" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.825">
+      <LINE TYPE="タイトル本文" X="2545" Y="949" WIDTH="53" HEIGHT="183" CONF="0.770" ORDER="7" STRING="荒 蕪" />
+      <SHAPE>
+        <POLYGON POINTS="2545,949,2545,1132,2598,1132,2598,949" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.533">
+      <LINE TYPE="本文" X="2334" Y="707" WIDTH="45" HEIGHT="1231" CONF="0.893" ORDER="8" STRING="草のなか 光りさだまるきんぽうげ。 いちじる" />
+      <LINE TYPE="本文" X="2250" Y="709" WIDTH="45" HEIGHT="630" CONF="0.823" ORDER="10" STRING="しもな。 群れゆらぐ 花" />
+      <LINE TYPE="本文" X="2068" Y="706" WIDTH="46" HEIGHT="1222" CONF="0.873" ORDER="13" STRING="きんぽうげ さわだつ花はほのかなれど、 たゞ" />
+      <LINE TYPE="本文" X="1987" Y="711" WIDTH="42" HEIGHT="686" CONF="0.857" ORDER="14" STRING="こゝもとに、 ま晝日は照る" />
+      <SHAPE>
+        <POLYGON POINTS="1989,702,1989,1936,2378,1936,2378,702" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.278">
+      <LINE TYPE="本文" X="1540" Y="717" WIDTH="53" HEIGHT="1225" CONF="0.868" ORDER="17" STRING="きんぽうげ、 むら〓〓黃なり。 風のむた その" />
+      <LINE TYPE="本文" X="1448" Y="714" WIDTH="52" HEIGHT="753" CONF="0.826" ORDER="21" STRING="花ゆらぐ。 いろひ かげろひ" />
+      <LINE TYPE="本文" X="1271" Y="715" WIDTH="62" HEIGHT="1247" CONF="0.767" ORDER="25" STRING="草かげに、 九品佛はいましつれ。 〃 現しくゆれて、" />
+      <LINE TYPE="本文" X="1186" Y="717" WIDTH="44" HEIGHT="397" CONF="0.820" ORDER="27" STRING="きんぽうげの花" />
+      <LINE TYPE="タイトル本文" X="960" Y="954" WIDTH="44" HEIGHT="183" CONF="0.527" ORDER="31" STRING="麥 畑" />
+      <LINE TYPE="本文" X="745" Y="721" WIDTH="57" HEIGHT="1231" CONF="0.796" ORDER="34" STRING="かゞやかに 穗並みゆすれて、 吹きとほる 麥" />
+      <LINE TYPE="本文" X="660" Y="605" WIDTH="52" HEIGHT="690" CONF="0.698" ORDER="37" STRING="原の底の風はほとれり 171" />
+      <SHAPE>
+        <POLYGON POINTS="663,638,663,1968,1592,1968,1592,638" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="1317" Y="1022" WIDTH="23" HEIGHT="158" CONF="0.636" />
+    <BLOCK TYPE="ルビ" X="801" Y="1915" WIDTH="25" HEIGHT="41" CONF="0.606" />
+    <BLOCK TYPE="ルビ" X="2905" Y="1545" WIDTH="20" HEIGHT="44" CONF="0.249" />
+  </PAGE>
+</OCRDATASET>

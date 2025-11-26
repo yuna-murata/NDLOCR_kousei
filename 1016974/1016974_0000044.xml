@@ -1,0 +1,48 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000044.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.451">
+      <LINE TYPE="タイトル本文" X="2819" Y="954" WIDTH="65" HEIGHT="278" CONF="0.789" ORDER="3" STRING="み ぞ れ" />
+      <SHAPE>
+        <POLYGON POINTS="2818,649,2818,1234,2960,1234,2960,649" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.876">
+      <LINE TYPE="本文" X="2633" Y="761" WIDTH="58" HEIGHT="1224" CONF="0.912" ORDER="4" STRING="よろこびて さびしくなれり。 庭松に 霙のそ" />
+      <LINE TYPE="本文" X="2562" Y="765" WIDTH="47" HEIGHT="446" CONF="0.848" ORDER="5" STRING="ゝぐ時うつりつゝ" />
+      <SHAPE>
+        <POLYGON POINTS="2562,761,2562,1985,2690,1985,2690,761" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.771">
+      <LINE TYPE="本文" X="2373" Y="753" WIDTH="58" HEIGHT="1226" CONF="0.892" ORDER="7" STRING="國さかり この二十年を見ざりけり。 目を見あ" />
+      <LINE TYPE="本文" X="2296" Y="757" WIDTH="51" HEIGHT="629" CONF="0.855" ORDER="8" STRING="ひつゝあるは すべなし" />
+      <SHAPE>
+        <POLYGON POINTS="2299,754,2299,1980,2430,1980,2430,754" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.830">
+      <LINE TYPE="本文" X="2108" Y="747" WIDTH="57" HEIGHT="1228" CONF="0.913" ORDER="10" STRING="をぢなきわらはべにて 我がありしかば、 我を" />
+      <LINE TYPE="本文" X="2034" Y="753" WIDTH="59" HEIGHT="508" CONF="0.708" ORDER="13" STRING="愛しと言ひし人ばも" />
+      <SHAPE>
+        <POLYGON POINTS="2036,744,2036,1977,2163,1977,2163,744" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.305">
+      <LINE TYPE="本文" X="1543" Y="746" WIDTH="47" HEIGHT="1220" CONF="0.874" ORDER="17" STRING="つぶ〓〓に かたらひ居りて飽かなくに、 年深" />
+      <LINE TYPE="本文" X="1457" Y="741" WIDTH="43" HEIGHT="512" CONF="0.787" ORDER="19" STRING="き町のとゞろき聞ゆ" />
+      <LINE TYPE="本文" X="1278" Y="545" WIDTH="51" HEIGHT="1416" CONF="0.751" ORDER="15" STRING="若き時 旅路にありしものがたり 忘れずあり" />
+      <LINE TYPE="本文" X="1196" Y="741" WIDTH="45" HEIGHT="636" CONF="0.834" ORDER="24" STRING="けり。 われも わが友も" />
+      <LINE TYPE="本文" X="1017" Y="742" WIDTH="47" HEIGHT="1226" CONF="0.882" ORDER="26" STRING="過ぎにし年をかたらへば、 はかなさよ。 牀の黃" />
+      <LINE TYPE="本文" X="933" Y="741" WIDTH="45" HEIGHT="573" CONF="0.826" ORDER="27" STRING="菊の 現しくもあらず" />
+      <LINE TYPE="本文" X="755" Y="742" WIDTH="48" HEIGHT="1227" CONF="0.888" ORDER="30" STRING="酒たしむ人になりたる友の顏 いまだわかみと" />
+      <LINE TYPE="本文" X="668" Y="623" WIDTH="49" HEIGHT="626" CONF="0.815" ORDER="32" STRING="言に出でゝほめ つ 75" />
+      <SHAPE>
+        <POLYGON POINTS="671,584,671,1977,1590,1977,1590,584" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2924" Y="649" WIDTH="37" HEIGHT="30" CONF="0.353" />
+    <BLOCK TYPE="ルビ" X="975" Y="903" WIDTH="26" HEIGHT="43" CONF="0.578" />
+    <BLOCK TYPE="ルビ" X="2079" Y="747" WIDTH="25" HEIGHT="43" CONF="0.268" />
+    <BLOCK TYPE="ルビ" X="2924" Y="649" WIDTH="37" HEIGHT="30" CONF="0.202" />
+  </PAGE>
+</OCRDATASET>

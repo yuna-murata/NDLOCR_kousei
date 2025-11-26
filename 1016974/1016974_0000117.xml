@@ -1,0 +1,33 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000117.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.833">
+      <LINE TYPE="タイトル本文" X="1459" Y="892" WIDTH="71" HEIGHT="632" CONF="0.701" ORDER="1" STRING="焚きあましその一" />
+      <SHAPE>
+        <POLYGON POINTS="1459,892,1459,1524,1530,1524,1530,892" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.842">
+      <LINE TYPE="本文" X="1276" Y="704" WIDTH="73" HEIGHT="1242" CONF="0.884" ORDER="2" STRING="竹の葉に 如月の雪ふりおぼ れ、 明くる光りに" />
+      <LINE TYPE="本文" X="1189" Y="711" WIDTH="54" HEIGHT="697" CONF="0.831" ORDER="3" STRING="心いためり 「、、西山」 ニ首" />
+      <SHAPE>
+        <POLYGON POINTS="1189,705,1189,1946,1346,1946,1346,705" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.800">
+      <LINE TYPE="本文" X="1009" Y="714" WIDTH="75" HEIGHT="1236" CONF="0.881" ORDER="6" STRING="大空のもとにかすみて、 あか〓〓と くれゆく" />
+      <LINE TYPE="本文" X="923" Y="716" WIDTH="55" HEIGHT="581" CONF="0.837" ORDER="7" STRING="山にむかふ さびしさ" />
+      <SHAPE>
+        <POLYGON POINTS="925,713,925,1952,1082,1952,1082,713" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.804">
+      <LINE TYPE="本文" X="744" Y="717" WIDTH="78" HEIGHT="1238" CONF="0.876" ORDER="10" STRING="木の葉散るなかにつくりぬ。 わが夜牀。 うづみ" />
+      <LINE TYPE="本文" X="657" Y="600" WIDTH="62" HEIGHT="820" CONF="0.779" ORDER="12" STRING="はてねと、 目をとぢて居り 221" />
+      <SHAPE>
+        <POLYGON POINTS="657,603,657,1955,829,1955,829,603" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="657" Y="601" WIDTH="55" HEIGHT="23" CONF="0.376" />
+    <BLOCK TYPE="ルビ" X="816" Y="1622" WIDTH="19" HEIGHT="91" CONF="0.430" />
+  </PAGE>
+</OCRDATASET>

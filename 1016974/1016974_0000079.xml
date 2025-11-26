@@ -1,0 +1,29 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000079.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.358">
+      <LINE TYPE="本文" X="2801" Y="612" WIDTH="48" HEIGHT="1341" CONF="0.834" ORDER="0" STRING="七ぐさの 今日は明くる日。 里なかのわらべ に 144" />
+      <LINE TYPE="本文" X="2717" Y="729" WIDTH="55" HEIGHT="579" CONF="0.662" ORDER="4" STRING="問へば、 道饗へに行く" />
+      <LINE TYPE="本文" X="2535" Y="728" WIDTH="50" HEIGHT="1231" CONF="0.834" ORDER="7" STRING="もの忘れをして 我は居にけり。 夫婦神も、 目" />
+      <LINE TYPE="本文" X="2450" Y="730" WIDTH="47" HEIGHT="809" CONF="0.807" ORDER="8" STRING="を見あひつゝ 笑み居たまへり" />
+      <LINE TYPE="本文" X="2272" Y="727" WIDTH="50" HEIGHT="1228" CONF="0.803" ORDER="9" STRING="村の子は、 女夫のくなどの 肩擁きています心" />
+      <LINE TYPE="本文" X="2190" Y="730" WIDTH="42" HEIGHT="512" CONF="0.789" ORDER="10" STRING="を よく知りにけり" />
+      <LINE TYPE="本文" X="2029" Y="727" WIDTH="49" HEIGHT="1224" CONF="0.841" ORDER="12" STRING="供へ物 五厘が鹽を買ひにけり。 こゝの道祖を" />
+      <LINE TYPE="本文" X="1945" Y="727" WIDTH="45" HEIGHT="456" CONF="0.818" ORDER="13" STRING="はやさむ。 われも" />
+      <SHAPE>
+        <POLYGON POINTS="1941,618,1941,1963,2847,1963,2847,618" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.790">
+      <LINE TYPE="本文" X="1064" Y="732" WIDTH="68" HEIGHT="916" CONF="0.738" ORDER="19" STRING="正 六 年 -百十二首- 大" />
+      <SHAPE>
+        <POLYGON POINTS="1064,732,1064,1647,1131,1647,1131,732" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2799" Y="614" WIDTH="56" HEIGHT="25" CONF="0.280" />
+    <BLOCK TYPE="ルビ" X="2582" Y="1635" WIDTH="18" HEIGHT="147" CONF="0.573" />
+    <BLOCK TYPE="ルビ" X="2075" Y="1799" WIDTH="21" HEIGHT="82" CONF="0.492" />
+    <BLOCK TYPE="ルビ" X="2323" Y="1033" WIDTH="15" HEIGHT="70" CONF="0.349" />
+    <BLOCK TYPE="ルビ" X="2316" Y="1563" WIDTH="23" HEIGHT="20" CONF="0.304" />
+    <BLOCK TYPE="ルビ" X="2319" Y="1073" WIDTH="22" HEIGHT="506" CONF="0.286" />
+  </PAGE>
+</OCRDATASET>

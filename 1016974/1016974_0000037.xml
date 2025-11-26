@@ -1,0 +1,37 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000037.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.327">
+      <LINE TYPE="本文" X="2819" Y="670" WIDTH="79" HEIGHT="1340" CONF="0.836" ORDER="0" STRING="島をみなの、 戾りしあとの靜けさや。 緣のあか 60" />
+      <LINE TYPE="本文" X="2755" Y="787" WIDTH="54" HEIGHT="629" CONF="0.759" ORDER="1" STRING="りに、 しりのかたつけり" />
+      <LINE TYPE="本文" X="2561" Y="712" WIDTH="77" HEIGHT="1247" CONF="0.845" ORDER="4" STRING="かべ茅ゆ洩れゆく煙 ひとりなる心をたもつ。" />
+      <LINE TYPE="本文" X="2504" Y="778" WIDTH="45" HEIGHT="333" CONF="0.748" ORDER="5" STRING="ゆふべ久しく" />
+      <LINE TYPE="本文" X="2326" Y="999" WIDTH="61" HEIGHT="856" CONF="0.868" ORDER="7" STRING="壁は、 茅の葺きおろしである。 内地の" />
+      <LINE TYPE="本文" X="2253" Y="995" WIDTH="55" HEIGHT="718" CONF="0.812" ORDER="8" STRING="古語のまゝえつりと言うてゐる。" />
+      <LINE TYPE="本文" X="2069" Y="659" WIDTH="77" HEIGHT="1320" CONF="0.817" ORDER="9" STRING="目ざめつゝ聽けば、 さびしも。 壁茅のさやぎは" />
+      <LINE TYPE="本文" X="2001" Y="817" WIDTH="50" HEIGHT="623" CONF="0.755" ORDER="12" STRING="いまだ夜ぶかくありけり" />
+      <SHAPE>
+        <POLYGON POINTS="1995,652,1995,2007,2893,2007,2893,652" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.338">
+      <LINE TYPE="本文" X="1547" Y="673" WIDTH="76" HEIGHT="1291" CONF="0.865" ORDER="15" STRING="人の住むところは見えず。 荒濱に向きてすわれ" />
+      <LINE TYPE="本文" X="1469" Y="751" WIDTH="51" HEIGHT="385" CONF="0.668" ORDER="17" STRING="り。 刳り舟二つ" />
+      <LINE TYPE="本文" X="1288" Y="624" WIDTH="72" HEIGHT="1350" CONF="0.829" ORDER="21" STRING="絲滿の家むらに來れば、 人はなし。 家五つあり" />
+      <LINE TYPE="本文" X="1205" Y="761" WIDTH="51" HEIGHT="504" CONF="0.780" ORDER="25" STRING="て、 山羊一つなけり" />
+      <LINE TYPE="本文" X="1106" Y="993" WIDTH="58" HEIGHT="820" CONF="0.886" ORDER="28" STRING="絲滿。 絲滿人を、 方言風の言ひ方で、" />
+      <LINE TYPE="本文" X="1027" Y="995" WIDTH="59" HEIGHT="851" CONF="0.904" ORDER="29" STRING="かう言ふ。 絲滿の町から、 一軒二軒五" />
+      <LINE TYPE="本文" X="946" Y="1000" WIDTH="56" HEIGHT="851" CONF="0.904" ORDER="30" STRING="六軒 出れふに來る。 寂しい磯ばた·島" />
+      <LINE TYPE="本文" X="866" Y="1001" WIDTH="55" HEIGHT="847" CONF="0.912" ORDER="31" STRING="かげなどに小屋がけして、 時を定めて" />
+      <LINE TYPE="本文" X="785" Y="999" WIDTH="58" HEIGHT="848" CONF="0.908" ORDER="32" STRING="來ては歸る。 一年中の大方は、 そこで" />
+      <LINE TYPE="本文" X="704" Y="999" WIDTH="43" HEIGHT="256" CONF="0.611" ORDER="33" STRING="暮してゐる。" />
+      <SHAPE>
+        <POLYGON POINTS="689,619,689,1971,1615,1971,1615,619" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="685" Y="645" WIDTH="35" HEIGHT="27" CONF="0.262" />
+    <BLOCK TYPE="ルビ" X="989" Y="1201" WIDTH="16" HEIGHT="70" CONF="0.590" />
+    <BLOCK TYPE="ルビ" X="1334" Y="750" WIDTH="22" HEIGHT="205" CONF="0.567" />
+    <BLOCK TYPE="ルビ" X="2299" Y="1262" WIDTH="18" HEIGHT="122" CONF="0.531" />
+    <BLOCK TYPE="ルビ" X="2054" Y="1188" WIDTH="21" HEIGHT="12" CONF="0.228" />
+  </PAGE>
+</OCRDATASET>

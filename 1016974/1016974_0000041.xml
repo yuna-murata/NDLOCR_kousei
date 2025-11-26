@@ -1,0 +1,24 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000041.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.218">
+      <LINE TYPE="本文" X="2832" Y="682" WIDTH="77" HEIGHT="1345" CONF="0.832" ORDER="0" STRING="面むかへば、 たゞちに信じ、 ひたぶるに心をゆ 68" />
+      <LINE TYPE="本文" X="2760" Y="809" WIDTH="52" HEIGHT="627" CONF="0.818" ORDER="1" STRING="るす すべなきわがさが" />
+      <LINE TYPE="本文" X="2568" Y="799" WIDTH="69" HEIGHT="1218" CONF="0.855" ORDER="4" STRING="とまりゆく音と聞きつゝ 目に見えぬ時計の お" />
+      <LINE TYPE="本文" X="2501" Y="800" WIDTH="47" HEIGHT="568" CONF="0.823" ORDER="6" STRING="もてに、 ひた向ひ居り" />
+      <LINE TYPE="本文" X="2308" Y="785" WIDTH="74" HEIGHT="1224" CONF="0.832" ORDER="9" STRING="いきどほる心おちつく すべなさや。 門弟子ひ" />
+      <LINE TYPE="本文" X="2244" Y="793" WIDTH="47" HEIGHT="507" CONF="0.823" ORDER="13" STRING="とり 今宵とめたり" />
+      <LINE TYPE="本文" X="2046" Y="738" WIDTH="76" HEIGHT="1269" CONF="0.870" ORDER="15" STRING="もろともに 若きうれひはとひしかど、 人の悔" />
+      <LINE TYPE="本文" X="1982" Y="787" WIDTH="51" HEIGHT="443" CONF="0.827" ORDER="16" STRING="しき年にはなりつ" />
+      <SHAPE>
+        <POLYGON POINTS="1979,672,1979,2026,2905,2026,2905,672" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.766">
+      <LINE TYPE="本文" X="1175" Y="785" WIDTH="69" HEIGHT="973" CONF="0.719" ORDER="22" STRING="正 九 年 -四十九首- 大" />
+      <SHAPE>
+        <POLYGON POINTS="1176,786,1176,1758,1243,1758,1243,786" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="2899" Y="813" WIDTH="23" HEIGHT="46" CONF="0.428" />
+  </PAGE>
+</OCRDATASET>

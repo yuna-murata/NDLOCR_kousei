@@ -1,0 +1,46 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000119.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.747">
+      <LINE TYPE="本文" X="2871" Y="616" WIDTH="53" HEIGHT="1351" CONF="0.841" ORDER="0" STRING="庭のくま ひそやかに鳴く蟲あるも、 今あぢは 224" />
+      <LINE TYPE="本文" X="2791" Y="740" WIDTH="47" HEIGHT="507" CONF="0.768" ORDER="1" STRING="へる悔いにしたしき" />
+      <SHAPE>
+        <POLYGON POINTS="2792,613,2792,1967,2921,1967,2921,613" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.686">
+      <LINE TYPE="本文" X="2601" Y="727" WIDTH="56" HEIGHT="1235" CONF="0.908" ORDER="4" STRING="ひそやかにぬればさびしも。 たそがれの窓の夕" />
+      <LINE TYPE="本文" X="2524" Y="723" WIDTH="48" HEIGHT="573" CONF="0.813" ORDER="5" STRING="かげ 月あるに似たり" />
+      <SHAPE>
+        <POLYGON POINTS="2524,722,2524,1962,2656,1962,2656,722" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.324">
+      <LINE TYPE="本文" X="2337" Y="714" WIDTH="60" HEIGHT="1241" CONF="0.899" ORDER="8" STRING="靑やまの草葉のしたに、 ながゝりし心のすゑも" />
+      <LINE TYPE="本文" X="2258" Y="773" WIDTH="49" HEIGHT="1047" CONF="0.884" ORDER="9" STRING="みだれずあらむ 「宮崎信三、 死んだにきまつた後」" />
+      <LINE TYPE="本文" X="2071" Y="707" WIDTH="59" HEIGHT="1233" CONF="0.871" ORDER="10" STRING="あはれなる後見ゆるかも。 朝宮に、 祇園をろが" />
+      <LINE TYPE="本文" X="1989" Y="705" WIDTH="57" HEIGHT="1134" CONF="0.900" ORDER="11" STRING="む匂へる處女 「母のつきそひに、京都大學病院にゐた頃」" />
+      <SHAPE>
+        <POLYGON POINTS="1994,702,1994,1953,2395,1953,2395,702" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.229">
+      <LINE TYPE="本文" X="1506" Y="727" WIDTH="48" HEIGHT="1232" CONF="0.848" ORDER="12" STRING="ひやゝけき朝の露原 あしにふみ、 なにか え" />
+      <LINE TYPE="本文" X="1422" Y="724" WIDTH="46" HEIGHT="575" CONF="0.826" ORDER="13" STRING="がたきしたごゝろやむ" />
+      <LINE TYPE="本文" X="1243" Y="728" WIDTH="46" HEIGHT="1246" CONF="0.878" ORDER="16" STRING="京のやま。 まどかにはるゝ見わたしに、 なにぞ、" />
+      <LINE TYPE="本文" X="1157" Y="725" WIDTH="45" HEIGHT="516" CONF="0.761" ORDER="18" STRING="淚のやまずながるゝ" />
+      <LINE TYPE="本文" X="977" Y="725" WIDTH="48" HEIGHT="1224" CONF="0.857" ORDER="21" STRING="秋の空 神樂个丘の松原の、 け近く晴るゝ見つ" />
+      <LINE TYPE="本文" X="893" Y="731" WIDTH="41" HEIGHT="269" CONF="0.445" ORDER="23" STRING="ゝさびしき" />
+      <LINE TYPE="注" X="754" Y="1031" WIDTH="24" HEIGHT="77" CONF="0.299" ORDER="26" STRING="ケアゲ" />
+      <LINE TYPE="本文" X="708" Y="727" WIDTH="60" HEIGHT="1221" CONF="0.734" ORDER="27" STRING="この道や 蹴上の道。 近江へと いやとほ〓〓" />
+      <LINE TYPE="本文" X="626" Y="603" WIDTH="61" HEIGHT="640" CONF="0.741" ORDER="31" STRING="Lo あひがたきかも 225" />
+      <SHAPE>
+        <POLYGON POINTS="623,626,623,1967,1543,1967,1543,626" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2870" Y="613" WIDTH="54" HEIGHT="25" CONF="0.402" />
+    <BLOCK TYPE="ルビ" X="2123" Y="1005" WIDTH="23" HEIGHT="515" CONF="0.450" />
+    <BLOCK TYPE="ルビ" X="2122" Y="1431" WIDTH="20" HEIGHT="90" CONF="0.355" />
+    <BLOCK TYPE="ルビ" X="754" Y="1031" WIDTH="24" HEIGHT="77" CONF="0.305" />
+    <BLOCK TYPE="ルビ" X="2129" Y="1010" WIDTH="20" HEIGHT="37" CONF="0.233" />
+  </PAGE>
+</OCRDATASET>

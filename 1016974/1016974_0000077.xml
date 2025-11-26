@@ -1,0 +1,46 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000077.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.300">
+      <LINE TYPE="本文" X="2796" Y="600" WIDTH="61" HEIGHT="1301" CONF="0.856" ORDER="0" STRING="年玉は もてあそび物めきて見ゆ。 机に竝べ、 140" />
+      <LINE TYPE="本文" X="2718" Y="717" WIDTH="45" HEIGHT="394" CONF="0.676" ORDER="2" STRING="すべながりつゝ" />
+      <LINE TYPE="本文" X="2542" Y="715" WIDTH="47" HEIGHT="1222" CONF="0.891" ORDER="5" STRING="金太郞よ 起きねと 夜はによびたれば、 湯に" />
+      <LINE TYPE="本文" X="2458" Y="720" WIDTH="44" HEIGHT="803" CONF="0.856" ORDER="6" STRING="や行かすと ねむりつゝ聞けり" />
+      <LINE TYPE="本文" X="2280" Y="715" WIDTH="51" HEIGHT="1221" CONF="0.907" ORDER="8" STRING="人こぞる湯ぶねの上のがすの燈を 年かはる時" />
+      <LINE TYPE="本文" X="2193" Y="716" WIDTH="53" HEIGHT="446" CONF="0.598" ORDER="9" STRING="と 瞻りつゝ居り" />
+      <LINE TYPE="本文" X="2018" Y="707" WIDTH="50" HEIGHT="1225" CONF="0.884" ORDER="13" STRING="湯のそとに、 はなしつゝ洗ふ人の聲 げに 事" />
+      <LINE TYPE="本文" X="1935" Y="709" WIDTH="43" HEIGHT="453" CONF="0.842" ORDER="14" STRING="多き年なりしかも" />
+      <SHAPE>
+        <POLYGON POINTS="1927,613,1927,1942,2856,1942,2856,613" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.261">
+      <LINE TYPE="本文" X="1496" Y="723" WIDTH="73" HEIGHT="1220" CONF="0.902" ORDER="17" STRING="五錢が花を求めて 歸るなり、 年の夜 霜の お" />
+      <LINE TYPE="本文" X="1413" Y="730" WIDTH="42" HEIGHT="273" CONF="0.823" ORDER="18" STRING="りの盛りに" />
+      <SHAPE>
+        <POLYGON POINTS="1412,723,1412,1944,1567,1944,1567,723" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.806">
+      <LINE TYPE="本文" X="1235" Y="730" WIDTH="73" HEIGHT="1223" CONF="0.911" ORDER="21" STRING="わが部屋に、 時計の夜はの響きはも。 大つごも" />
+      <LINE TYPE="本文" X="1154" Y="732" WIDTH="49" HEIGHT="454" CONF="0.854" ORDER="22" STRING="りの湯より戾れば" />
+      <SHAPE>
+        <POLYGON POINTS="1153,727,1153,1953,1307,1953,1307,727" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.772">
+      <LINE TYPE="本文" X="976" Y="735" WIDTH="76" HEIGHT="1224" CONF="0.921" ORDER="25" STRING="年の夜は 明くる近きに、 水仙の立ちのすがた" />
+      <LINE TYPE="本文" X="894" Y="736" WIDTH="46" HEIGHT="456" CONF="0.817" ORDER="26" STRING="をつくろひゐる も" />
+      <SHAPE>
+        <POLYGON POINTS="896,733,896,1960,1050,1960,1050,733" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.827">
+      <LINE TYPE="本文" X="711" Y="743" WIDTH="78" HEIGHT="1234" CONF="0.901" ORDER="30" STRING="年の夜を寢むと言ひつゝ 火をいけるこたつは、" />
+      <LINE TYPE="本文" X="627" Y="629" WIDTH="54" HEIGHT="627" CONF="0.827" ORDER="31" STRING="灰のしとりしるしも 141" />
+      <SHAPE>
+        <POLYGON POINTS="627,641,627,1977,786,1977,786,641" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="626" Y="629" WIDTH="50" HEIGHT="27" CONF="0.378" />
+  </PAGE>
+</OCRDATASET>

@@ -1,0 +1,31 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000122.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.207">
+      <LINE TYPE="本文" X="2906" Y="587" WIDTH="47" HEIGHT="1348" CONF="0.845" ORDER="0" STRING="あはむ日のなしとおもはず。 ふみわたる茅生の 230" />
+      <LINE TYPE="本文" X="2819" Y="764" WIDTH="44" HEIGHT="573" CONF="0.756" ORDER="1" STRING="ほどろに 心たゆたふ" />
+      <LINE TYPE="本文" X="2642" Y="699" WIDTH="45" HEIGHT="1235" CONF="0.872" ORDER="4" STRING="秋の山 なく鳥もなし。 わが道は、 朝けの雲に" />
+      <LINE TYPE="本文" X="2556" Y="699" WIDTH="44" HEIGHT="337" CONF="0.733" ORDER="5" STRING="末べこもれり" />
+      <LINE TYPE="本文" X="2376" Y="696" WIDTH="44" HEIGHT="1193" CONF="0.879" ORDER="8" STRING="石川や 二里も 三里も、 若草の堤ぬらして、" />
+      <LINE TYPE="本文" X="2293" Y="698" WIDTH="40" HEIGHT="337" CONF="0.795" ORDER="9" STRING="雨はれにけり" />
+      <LINE TYPE="本文" X="2110" Y="695" WIDTH="45" HEIGHT="1235" CONF="0.876" ORDER="10" STRING="はた〓〓と翼うち過ぐ。 あはと見る まなぢは" />
+      <LINE TYPE="本文" X="2026" Y="697" WIDTH="44" HEIGHT="577" CONF="0.811" ORDER="11" STRING="るかに きその鳥行く" />
+      <SHAPE>
+        <POLYGON POINTS="2026,680,2026,1940,2956,1940,2956,680" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.390">
+      <LINE TYPE="本文" X="1495" Y="687" WIDTH="59" HEIGHT="1173" CONF="0.891" ORDER="14" STRING="冬ぐさの堤日あたり 遠く行く旅のしばしを" />
+      <LINE TYPE="本文" X="1411" Y="689" WIDTH="44" HEIGHT="332" CONF="0.751" ORDER="16" STRING="人とやすらふ" />
+      <LINE TYPE="本文" X="1230" Y="686" WIDTH="60" HEIGHT="1232" CONF="0.902" ORDER="19" STRING="萩が花はつかに白し。 ひとりゐる 山のみ寺の" />
+      <LINE TYPE="本文" X="1146" Y="694" WIDTH="52" HEIGHT="776" CONF="0.874" ORDER="20" STRING="たそがれの庭 균 山の善 峯 き" />
+      <LINE TYPE="本文" X="964" Y="689" WIDTH="62" HEIGHT="1247" CONF="0.914" ORDER="21" STRING="山の石 とゞろ〓〓と落ち來る。 これを前に見、" />
+      <LINE TYPE="本文" X="879" Y="691" WIDTH="54" HEIGHT="913" CONF="0.882" ORDER="22" STRING="酒をたのしむ 「人に役せられて」ニ首" />
+      <LINE TYPE="本文" X="703" Y="693" WIDTH="59" HEIGHT="1230" CONF="0.904" ORDER="24" STRING="旅にゐて、 さむき夜牀のくらがりに、 うしろめ" />
+      <LINE TYPE="本文" X="614" Y="582" WIDTH="55" HEIGHT="690" CONF="0.758" ORDER="30" STRING="たしも。 いねしづむ胸 231" />
+      <SHAPE>
+        <POLYGON POINTS="621,618,621,1949,1562,1949,1562,618" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="611" Y="577" WIDTH="61" HEIGHT="29" CONF="0.283" />
+  </PAGE>
+</OCRDATASET>

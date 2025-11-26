@@ -1,0 +1,44 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000134.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.640">
+      <SHAPE>
+        <POLYGON POINTS="2956,638,2956,777,2995,777,2995,638" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.897">
+      <LINE TYPE="本文" X="2831" Y="724" WIDTH="65" HEIGHT="1209" CONF="0.918" ORDER="2" STRING="他の同人の方々にも、此際長らくの厚誼を謝して、一本づ" />
+      <LINE TYPE="本文" X="2759" Y="726" WIDTH="44" HEIGHT="460" CONF="0.907" ORDER="3" STRING="ゝを獻じたいと思ふ。" />
+      <LINE TYPE="本文" X="2648" Y="720" WIDTH="65" HEIGHT="1230" CONF="0.919" ORDER="4" STRING="かうして、幸福な歌人としての生活を續けて居るうちに、" />
+      <LINE TYPE="本文" X="2558" Y="715" WIDTH="60" HEIGHT="1180" CONF="0.926" ORDER="5" STRING="ゆくりない機緣が、「あらゝぎ」を遠のく方へ私を導いた。" />
+      <LINE TYPE="本文" X="2468" Y="716" WIDTH="61" HEIGHT="1230" CONF="0.921" ORDER="6" STRING="さうして再、文學の上では相談相手のない、ひとりぼっちに、" />
+      <LINE TYPE="本文" X="2376" Y="710" WIDTH="64" HEIGHT="1216" CONF="0.926" ORDER="7" STRING="還つた。 けれども、長い「あらゝぎ」生活の間に、や ゝ腰もき" />
+      <LINE TYPE="本文" X="2282" Y="713" WIDTH="65" HEIGHT="1207" CONF="0.922" ORDER="8" STRING="まつて來た。 これからだ、と言ふ氣がする。 しかし考へ" />
+      <LINE TYPE="本文" X="2191" Y="715" WIDTH="65" HEIGHT="1208" CONF="0.927" ORDER="9" STRING="て見ると、寂しくなる。 わたしの文學は畢竟、枝蛙の藝道" />
+      <LINE TYPE="本文" X="2100" Y="708" WIDTH="64" HEIGHT="1211" CONF="0.926" ORDER="10" STRING="である。 どこまで行きとほす事が出來るか、又かうした" />
+      <LINE TYPE="本文" X="2007" Y="702" WIDTH="68" HEIGHT="1208" CONF="0.915" ORDER="11" STRING="歌集も、も一度出す心持ちになる時が來るか、どうか。 恥" />
+      <SHAPE>
+        <POLYGON POINTS="2010,704,2010,1967,2964,1967,2964,704" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.975">
+      <LINE TYPE="本文" X="1551" Y="715" WIDTH="59" HEIGHT="1177" CONF="0.928" ORDER="12" STRING="かしながら、私には、さうした「か ね言」をする元氣がない。" />
+      <LINE TYPE="本文" X="1458" Y="716" WIDTH="64" HEIGHT="1260" CONF="0.935" ORDER="13" STRING="今度、此集をつくるにも、おほよそは、金太郞一人の努力に、" />
+      <LINE TYPE="本文" X="1366" Y="715" WIDTH="61" HEIGHT="1213" CONF="0.934" ORDER="14" STRING="任せきつて居た。 私はたゞその中から、出來るだけ多く" />
+      <LINE TYPE="本文" X="1275" Y="715" WIDTH="59" HEIGHT="1210" CONF="0.929" ORDER="15" STRING="删つたゞけである。 巖にしがみついて居る蠣貝をひつ" />
+      <LINE TYPE="本文" X="1185" Y="719" WIDTH="59" HEIGHT="1214" CONF="0.935" ORDER="16" STRING="ぺがす樣にして、それでも、若い頃の作物の十の九までは" />
+      <LINE TYPE="本文" X="1091" Y="715" WIDTH="60" HEIGHT="1217" CONF="0.930" ORDER="17" STRING="棄てゝしまうた。 さうして殘つた中にも、なほして出さ" />
+      <LINE TYPE="本文" X="1003" Y="721" WIDTH="59" HEIGHT="1211" CONF="0.930" ORDER="18" STRING="ねば、目のあてられないものが、尙多かつた。 併し、あまり" />
+      <LINE TYPE="本文" X="909" Y="720" WIDTH="63" HEIGHT="1217" CONF="0.937" ORDER="19" STRING="時のかけ離れ過ぎたものは、今のいきかたから見れば、寧" />
+      <LINE TYPE="本文" X="818" Y="722" WIDTH="60" HEIGHT="1211" CONF="0.926" ORDER="20" STRING="ろ作りかへても、物にはならぬのである。 だから、さうし" />
+      <LINE TYPE="本文" X="727" Y="724" WIDTH="60" HEIGHT="1214" CONF="0.926" ORDER="21" STRING="た古い部分のものには、出來るだけ目を塞いで、手を入れ" />
+      <LINE TYPE="本文" X="636" Y="634" WIDTH="57" HEIGHT="1306" CONF="0.903" ORDER="22" STRING="ずに置 たた わりあひに今の心もちにはひつて居る近 15" />
+      <SHAPE>
+        <POLYGON POINTS="638,632,638,1957,1605,1957,1605,632" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="859" Y="2261" WIDTH="15" HEIGHT="13" CONF="0.253" />
+    <BLOCK TYPE="ノンブル" X="2956" Y="638" WIDTH="39" HEIGHT="139" CONF="0.233" />
+    <BLOCK TYPE="ノンブル" X="2958" Y="638" WIDTH="37" HEIGHT="27" CONF="0.229" />
+    <BLOCK TYPE="ルビ" X="2529" Y="1177" WIDTH="23" HEIGHT="41" CONF="0.691" />
+  </PAGE>
+</OCRDATASET>

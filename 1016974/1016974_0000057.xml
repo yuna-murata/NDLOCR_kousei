@@ -1,0 +1,56 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000057.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.387">
+      <LINE TYPE="タイトル本文" X="2746" Y="943" WIDTH="55" HEIGHT="225" CONF="0.647" ORDER="4" STRING="ひ め" />
+      <SHAPE>
+        <POLYGON POINTS="2745,637,2745,1169,2886,1169,2886,637" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.941">
+      <LINE TYPE="本文" X="2520" Y="983" WIDTH="47" HEIGHT="870" CONF="0.899" ORDER="5" STRING="私の姉なるその母 と、 十一二の頃から、" />
+      <LINE TYPE="本文" X="2438" Y="983" WIDTH="49" HEIGHT="866" CONF="0.918" ORDER="6" STRING="私の生家に來てゐた女姪福井富美子は、" />
+      <LINE TYPE="本文" X="2361" Y="980" WIDTH="46" HEIGHT="854" CONF="0.917" ORDER="7" STRING="去年女學校もすまして、 今年十九にな" />
+      <LINE TYPE="本文" X="2285" Y="984" WIDTH="41" HEIGHT="457" CONF="0.919" ORDER="8" STRING="つてゐたのであつた。" />
+      <SHAPE>
+        <POLYGON POINTS="2288,979,2288,1855,2565,1855,2565,979" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.793">
+      <LINE TYPE="本文" X="2031" Y="738" WIDTH="62" HEIGHT="1226" CONF="0.813" ORDER="9" STRING="わが家のひとり處女の、 常默すさびしきさがを モダ" />
+      <LINE TYPE="本文" X="1955" Y="801" WIDTH="50" HEIGHT="393" CONF="0.641" ORDER="13" STRING="叱りけり。 わが" />
+      <SHAPE>
+        <POLYGON POINTS="1956,738,1956,1962,2100,1962,2100,738" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.237">
+      <LINE TYPE="本文" X="1530" Y="761" WIDTH="69" HEIGHT="1226" CONF="0.897" ORDER="14" STRING="をとめはも。 肩の太りのおもりかに、 情づかず" />
+      <LINE TYPE="本文" X="1444" Y="761" WIDTH="50" HEIGHT="577" CONF="0.870" ORDER="15" STRING="見えし その後姿はも" />
+      <LINE TYPE="本文" X="1264" Y="763" WIDTH="71" HEIGHT="1224" CONF="0.916" ORDER="16" STRING="われの家にをとめとなりて、 糾ね髮 たけなる" />
+      <LINE TYPE="本文" X="1180" Y="765" WIDTH="52" HEIGHT="636" CONF="0.884" ORDER="17" STRING="ものを 死なせつるかも" />
+      <SHAPE>
+        <POLYGON POINTS="1180,756,1180,1994,1601,1994,1601,756" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.772">
+      <LINE TYPE="本文" X="1005" Y="769" WIDTH="71" HEIGHT="1224" CONF="0.913" ORDER="19" STRING="茨田野の水涌き濁る塚原を、 處女の家と 思ひ" />
+      <LINE TYPE="本文" X="919" Y="771" WIDTH="45" HEIGHT="217" CONF="0.842" ORDER="20" STRING="堪へめや" />
+      <SHAPE>
+        <POLYGON POINTS="921,767,921,1996,1074,1996,1074,767" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.840">
+      <LINE TYPE="本文" X="743" Y="774" WIDTH="71" HEIGHT="1223" CONF="0.911" ORDER="24" STRING="あきらめてをり と告げ來る 汝が母のすくな" />
+      <LINE TYPE="本文" X="651" Y="656" WIDTH="67" HEIGHT="810" CONF="0.860" ORDER="28" STRING="きことばゝ、 人を哭かしむ 101" />
+      <SHAPE>
+        <POLYGON POINTS="653,659,653,1997,813,1997,813,659" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2832" Y="638" WIDTH="55" HEIGHT="22" CONF="0.324" />
+    <BLOCK TYPE="ノンブル" X="650" Y="656" WIDTH="53" HEIGHT="23" CONF="0.317" />
+    <BLOCK TYPE="ルビ" X="1492" Y="1120" WIDTH="22" HEIGHT="90" CONF="0.722" />
+    <BLOCK TYPE="ルビ" X="1046" Y="769" WIDTH="26" HEIGHT="89" CONF="0.706" />
+    <BLOCK TYPE="ルビ" X="2083" Y="1393" WIDTH="21" HEIGHT="102" CONF="0.586" />
+    <BLOCK TYPE="ルビ" X="1326" Y="1538" WIDTH="22" HEIGHT="47" CONF="0.541" />
+    <BLOCK TYPE="ルビ" X="1596" Y="1784" WIDTH="23" HEIGHT="21" CONF="0.445" />
+  </PAGE>
+</OCRDATASET>

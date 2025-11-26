@@ -1,0 +1,33 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000045.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.256">
+      <LINE TYPE="本文" X="2898" Y="662" WIDTH="70" HEIGHT="1344" CONF="0.890" ORDER="0" STRING="宵あさく 〓あがりし闇のそ ら なほ雪あると 76" />
+      <LINE TYPE="本文" X="2830" Y="839" WIDTH="42" HEIGHT="338" CONF="0.707" ORDER="1" STRING="仰ぎけるかも" />
+      <LINE TYPE="本文" X="2632" Y="772" WIDTH="65" HEIGHT="1225" CONF="0.881" ORDER="5" STRING="あはずありし時の思ひあり。 夜の街 小路のあ" />
+      <LINE TYPE="本文" X="2567" Y="775" WIDTH="46" HEIGHT="511" CONF="0.833" ORDER="6" STRING="かり、 大路にとゞく" />
+      <LINE TYPE="本文" X="2365" Y="768" WIDTH="70" HEIGHT="1218" CONF="0.898" ORDER="8" STRING="雨のゝち あかりとぼしきぬかり道に、 心たゆ" />
+      <LINE TYPE="本文" X="2302" Y="765" WIDTH="47" HEIGHT="509" CONF="0.805" ORDER="9" STRING="みのしるきをおぼゆ" />
+      <LINE TYPE="本文" X="2107" Y="756" WIDTH="66" HEIGHT="1228" CONF="0.904" ORDER="11" STRING="星滿ちて 霜氣霽れたる空濶し。 値ひがたき世" />
+      <LINE TYPE="本文" X="2038" Y="758" WIDTH="44" HEIGHT="571" CONF="0.809" ORDER="13" STRING="あふこともあらむ に" />
+      <SHAPE>
+        <POLYGON POINTS="2035,659,2035,2005,2962,2005,2962,659" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.411">
+      <LINE TYPE="本文" X="1518" Y="764" WIDTH="63" HEIGHT="1224" CONF="0.912" ORDER="14" STRING="行きとほる 家竝みのほかげ明ければ、 人いり" />
+      <LINE TYPE="本文" X="1440" Y="773" WIDTH="43" HEIGHT="509" CONF="0.777" ORDER="15" STRING="こぞる家 多く見ゆ" />
+      <LINE TYPE="本文" X="1258" Y="775" WIDTH="60" HEIGHT="1218" CONF="0.888" ORDER="17" STRING="夜の町に、 室の花うるわらはべの その手かじ" />
+      <LINE TYPE="本文" X="1173" Y="770" WIDTH="45" HEIGHT="511" CONF="0.803" ORDER="18" STRING="けて、 花たばね居り" />
+      <LINE TYPE="本文" X="993" Y="771" WIDTH="61" HEIGHT="1222" CONF="0.907" ORDER="21" STRING="道なかに 花賣れりけり。 別れ來し心つゝしみ" />
+      <LINE TYPE="本文" X="907" Y="778" WIDTH="46" HEIGHT="466" CONF="0.733" ORDER="22" STRING="花もとめたり に" />
+      <LINE TYPE="本文" X="745" Y="774" WIDTH="63" HEIGHT="1224" CONF="0.882" ORDER="25" STRING="過ぐる日は、 はるけきかもと 言ひしかば、 人" />
+      <LINE TYPE="本文" X="653" Y="658" WIDTH="62" HEIGHT="865" CONF="0.814" ORDER="27" STRING="はすなはち はるけくなりつ 77" />
+      <SHAPE>
+        <POLYGON POINTS="664,678,664,2006,1585,2006,1585,678" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="1307" Y="1064" WIDTH="19" HEIGHT="40" CONF="0.551" />
+    <BLOCK TYPE="ルビ" X="1572" Y="1127" WIDTH="21" HEIGHT="25" CONF="0.446" />
+    <BLOCK TYPE="ルビ" X="2671" Y="1789" WIDTH="26" HEIGHT="75" CONF="0.370" />
+  </PAGE>
+</OCRDATASET>

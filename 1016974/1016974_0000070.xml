@@ -1,0 +1,28 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000070.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.856">
+      <LINE TYPE="タイトル本文" X="1371" Y="903" WIDTH="62" HEIGHT="284" CONF="0.797" ORDER="1" STRING="富 金 町" />
+      <SHAPE>
+        <POLYGON POINTS="1371,903,1371,1187,1433,1187,1433,903" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.475">
+      <LINE TYPE="本文" X="1189" Y="723" WIDTH="70" HEIGHT="1217" CONF="0.891" ORDER="2" STRING="この家の針子は いち日笑ひ居り。 こがらしゆ" />
+      <LINE TYPE="本文" X="1104" Y="723" WIDTH="51" HEIGHT="450" CONF="0.873" ORDER="4" STRING="する障子のなか に" />
+      <LINE TYPE="本文" X="925" Y="724" WIDTH="75" HEIGHT="1222" CONF="0.897" ORDER="6" STRING="晝さめて こたつに聞けば、 まだやめず。 弟子" />
+      <LINE TYPE="本文" X="846" Y="726" WIDTH="53" HEIGHT="692" CONF="0.827" ORDER="7" STRING="をたしなむる家刀自のこゑ" />
+      <SHAPE>
+        <POLYGON POINTS="849,719,849,1950,1254,1950,1254,719" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.882">
+      <LINE TYPE="本文" X="665" Y="730" WIDTH="72" HEIGHT="1221" CONF="0.837" ORDER="8" STRING="馴れつゝも わびしくありけり。 家刀自 喰は" />
+      <LINE TYPE="本文" X="575" Y="614" WIDTH="56" HEIGHT="687" CONF="0.822" ORDER="11" STRING="する飯を三年はみつゝ 127" />
+      <SHAPE>
+        <POLYGON POINTS="575,612,575,1951,750,1951,750,612" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="573" Y="613" WIDTH="52" HEIGHT="24" CONF="0.219" />
+    <BLOCK TYPE="ルビ" X="897" Y="1140" WIDTH="20" HEIGHT="92" CONF="0.672" />
+  </PAGE>
+</OCRDATASET>

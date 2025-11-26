@@ -1,0 +1,45 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000108.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.541">
+      <LINE TYPE="本文" X="2886" Y="591" WIDTH="65" HEIGHT="1351" CONF="0.839" ORDER="0" STRING="心 ふと ものにたゆたひ、 耳こらす。 椿の下 202" />
+      <LINE TYPE="本文" X="2816" Y="715" WIDTH="45" HEIGHT="331" CONF="0.750" ORDER="3" STRING="の暗き水おと" />
+      <LINE TYPE="本文" X="2621" Y="699" WIDTH="64" HEIGHT="1237" CONF="0.879" ORDER="6" STRING="霙ふる雜木のなかに、 鍬うてる いとゞ 女夫" />
+      <LINE TYPE="本文" X="2547" Y="707" WIDTH="48" HEIGHT="452" CONF="0.831" ORDER="8" STRING="の唄の かそけき" />
+      <SHAPE>
+        <POLYGON POINTS="2549,594,2549,1943,2945,1943,2945,594" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.815">
+      <LINE TYPE="タイトル本文" X="2316" Y="886" WIDTH="66" HEIGHT="290" CONF="0.769" ORDER="11" STRING="秦 寺 太" />
+      <SHAPE>
+        <POLYGON POINTS="2316,886,2316,1176,2382,1176,2382,886" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.804">
+      <LINE TYPE="本文" X="2090" Y="688" WIDTH="66" HEIGHT="1233" CONF="0.864" ORDER="12" STRING="常磐木のみどりたゆたに、 わたつみの太秦寺 の" />
+      <LINE TYPE="本文" X="2020" Y="686" WIDTH="50" HEIGHT="397" CONF="0.807" ORDER="13" STRING="晝 の しづけさ" />
+      <SHAPE>
+        <POLYGON POINTS="2025,686,2025,1920,2153,1920,2153,686" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.522">
+      <LINE TYPE="本文" X="1474" Y="689" WIDTH="63" HEIGHT="1229" CONF="0.893" ORDER="16" STRING="二人あることもおぼえず。 しんとして いさご" />
+      <LINE TYPE="本文" X="1388" Y="691" WIDTH="52" HEIGHT="570" CONF="0.862" ORDER="18" STRING="のうへに 鵄一羽ゐる" />
+      <LINE TYPE="本文" X="1213" Y="689" WIDTH="58" HEIGHT="1233" CONF="0.910" ORDER="19" STRING="おそろしき しゞまなりきな。 梢より、 はたと" />
+      <LINE TYPE="本文" X="1125" Y="765" WIDTH="49" HEIGHT="621" CONF="0.852" ORDER="21" STRING="一葉は おちてけるかな" />
+      <LINE TYPE="本文" X="947" Y="694" WIDTH="58" HEIGHT="1229" CONF="0.905" ORDER="24" STRING="ほれ〓〓と人にむかへば、 晝遠し。 寺井のくる" />
+      <LINE TYPE="本文" X="864" Y="691" WIDTH="45" HEIGHT="451" CONF="0.844" ORDER="25" STRING="ま 草ふかく鳴る" />
+      <LINE TYPE="本文" X="687" Y="694" WIDTH="58" HEIGHT="1247" CONF="0.230" ORDER="27" STRING="まさびしくこもらふ命 草ふかき鐘の音しづみ、" />
+      <SHAPE>
+        <POLYGON POINTS="598,660,598,1943,1538,1943,1538,660" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.314">
+      <LINE TYPE="本文" X="597" Y="578" WIDTH="49" HEIGHT="509" CONF="0.810" ORDER="30" STRING="行きふりにけり 203" />
+      <SHAPE>
+        <POLYGON POINTS="598,572,598,1939,745,1939,745,572" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="1266" Y="2366" WIDTH="63" HEIGHT="59" CONF="0.260" />
+  </PAGE>
+</OCRDATASET>

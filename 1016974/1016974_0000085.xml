@@ -1,0 +1,43 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000085.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.200">
+      <LINE TYPE="本文" X="2928" Y="607" WIDTH="55" HEIGHT="1348" CONF="0.865" ORDER="0" STRING="片枝のすがれは、 まほに あらはに見ゆ。 日だ 156" />
+      <LINE TYPE="本文" X="2846" Y="727" WIDTH="50" HEIGHT="693" CONF="0.824" ORDER="1" STRING="まりに照る 夾竹桃のはな" />
+      <LINE TYPE="本文" X="2684" Y="956" WIDTH="56" HEIGHT="959" CONF="0.778" ORDER="5" STRING="十月十二日、 もとの生徒の、 自殺" />
+      <LINE TYPE="本文" X="2600" Y="956" WIDTH="44" HEIGHT="406" CONF="0.789" ORDER="7" STRING="した噂を聞く、" />
+      <LINE TYPE="本文" X="2416" Y="717" WIDTH="51" HEIGHT="1226" CONF="0.868" ORDER="10" STRING="血あえたる汝がむくろを、 いぬじもの 道にす" />
+      <LINE TYPE="本文" X="2337" Y="719" WIDTH="43" HEIGHT="563" CONF="0.840" ORDER="11" STRING="てつゝ 人そしりけり" />
+      <SHAPE>
+        <POLYGON POINTS="2330,604,2330,1953,2981,1953,2981,604" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.833">
+      <LINE TYPE="タイトル本文" X="1405" Y="951" WIDTH="52" HEIGHT="451" CONF="0.663" ORDER="15" STRING="左千夫翁五年忌" />
+      <SHAPE>
+        <POLYGON POINTS="1405,951,1405,1402,1457,1402,1457,951" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.234">
+      <LINE TYPE="本文" X="1218" Y="717" WIDTH="78" HEIGHT="1220" CONF="0.905" ORDER="16" STRING="水むけの茶碗の湛 へ 搖れしるし。 備れる墓の" />
+      <LINE TYPE="本文" X="1134" Y="725" WIDTH="53" HEIGHT="502" CONF="0.700" ORDER="18" STRING="ぬしと なりませり" />
+      <LINE TYPE="本文" X="957" Y="724" WIDTH="73" HEIGHT="1224" CONF="0.917" ORDER="20" STRING="吹きとほる風のそよめき、 線香は、 ほむら立ち" />
+      <LINE TYPE="本文" X="874" Y="724" WIDTH="53" HEIGHT="576" CONF="0.829" ORDER="21" STRING="來も。 卒都婆のまへに" />
+      <SHAPE>
+        <POLYGON POINTS="874,716,874,1951,1304,1951,1304,716" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.356">
+      <LINE TYPE="本文" X="695" Y="728" WIDTH="75" HEIGHT="1225" CONF="0.917" ORDER="24" STRING="包み紙の赤きが濡れて、 塚のうへにくゆり久し" />
+      <LINE TYPE="本文" X="613" Y="612" WIDTH="49" HEIGHT="514" CONF="0.779" ORDER="25" STRING="も。 線香のたば 157" />
+      <SHAPE>
+        <POLYGON POINTS="613,608,613,1951,763,1951,763,608" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2932" Y="607" WIDTH="52" HEIGHT="30" CONF="0.281" />
+    <BLOCK TYPE="ルビ" X="1274" Y="1124" WIDTH="22" HEIGHT="44" CONF="0.530" />
+    <BLOCK TYPE="ルビ" X="2464" Y="808" WIDTH="25" HEIGHT="253" CONF="0.369" />
+    <BLOCK TYPE="ルビ" X="1183" Y="1854" WIDTH="28" HEIGHT="77" CONF="0.355" />
+    <BLOCK TYPE="ルビ" X="1288" Y="1670" WIDTH="23" HEIGHT="44" CONF="0.333" />
+    <BLOCK TYPE="ルビ" X="2467" Y="1018" WIDTH="22" HEIGHT="42" CONF="0.314" />
+  </PAGE>
+</OCRDATASET>

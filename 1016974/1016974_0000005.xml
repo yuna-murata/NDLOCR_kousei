@@ -1,0 +1,72 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000005.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.317">
+      <SHAPE>
+        <POLYGON POINTS="2875,553,2875,579,2898,579,2898,553" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.477">
+      <SHAPE>
+        <POLYGON POINTS="655,563,655,592,678,592,678,563" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.876">
+      <LINE TYPE="本文" X="2860" Y="829" WIDTH="45" HEIGHT="1324" CONF="0.902" ORDER="3" STRING="郡上八幡 (七 首) 一〇二" />
+      <LINE TYPE="本文" X="2779" Y="826" WIDTH="47" HEIGHT="1328" CONF="0.909" ORDER="4" STRING="始羅の山 (三十九首) 一〇" />
+      <LINE TYPE="本文" X="2699" Y="839" WIDTH="47" HEIGHT="1317" CONF="0.893" ORDER="5" STRING="周忌 (一) 首) 二五" />
+      <LINE TYPE="本文" X="2619" Y="828" WIDTH="47" HEIGHT="1328" CONF="0.908" ORDER="6" STRING="冬木原 (十 首) 二六 一" />
+      <LINE TYPE="本文" X="2538" Y="823" WIDTH="49" HEIGHT="1331" CONF="0.915" ORDER="7" STRING="枯 四 首) ニ 九 山" />
+      <LINE TYPE="本文" X="2460" Y="827" WIDTH="48" HEIGHT="1325" CONF="0.908" ORDER="8" STRING="隣 (一 首 三二 春" />
+      <LINE TYPE="本文" X="2379" Y="828" WIDTH="50" HEIGHT="1321" CONF="0.904" ORDER="9" STRING="正月、 梧平に寄す (六 首 三" />
+      <LINE TYPE="本文" X="2302" Y="829" WIDTH="46" HEIGHT="1325" CONF="0.897" ORDER="10" STRING="朝 七七 首 三三 山" />
+      <SHAPE>
+        <POLYGON POINTS="2305,820,2305,2160,2901,2160,2901,820" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.875">
+      <LINE TYPE="タイトル本文" X="2197" Y="772" WIDTH="49" HEIGHT="223" CONF="0.817" ORDER="12" STRING="大正七年" />
+      <SHAPE>
+        <POLYGON POINTS="2197,772,2197,995,2246,995,2246,772" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.894">
+      <LINE TYPE="本文" X="2106" Y="826" WIDTH="48" HEIGHT="1329" CONF="0.905" ORDER="13" STRING="金富町 (五 首 一二七" />
+      <LINE TYPE="本文" X="2026" Y="831" WIDTH="50" HEIGHT="1325" CONF="0.910" ORDER="14" STRING="(三 首) 一二八 花 お" />
+      <LINE TYPE="本文" X="1943" Y="824" WIDTH="51" HEIGHT="1329" CONF="0.919" ORDER="15" STRING="村 の子 (二 首 一二〇" />
+      <LINE TYPE="本文" X="1865" Y="827" WIDTH="51" HEIGHT="1322" CONF="0.901" ORDER="16" STRING="(五 首 一三二 雪" />
+      <SHAPE>
+        <POLYGON POINTS="1868,823,1868,2156,2151,2156,2151,823" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.906">
+      <LINE TYPE="本文" X="1658" Y="832" WIDTH="58" HEIGHT="1324" CONF="0.911" ORDER="17" STRING="堀の內 (一 首) 1112" />
+      <LINE TYPE="本文" X="1576" Y="831" WIDTH="63" HEIGHT="1328" CONF="0.922" ORDER="18" STRING="(九 首) 三三 端 山" />
+      <LINE TYPE="本文" X="1497" Y="832" WIDTH="62" HEIGHT="1330" CONF="0.931" ORDER="19" STRING="大つごもり (六 首) 三" />
+      <LINE TYPE="本文" X="1416" Y="837" WIDTH="64" HEIGHT="1325" CONF="0.937" ORDER="20" STRING="(十八首)· 三八 除 夜" />
+      <LINE TYPE="本文" X="1339" Y="838" WIDTH="60" HEIGHT="1325" CONF="0.930" ORDER="21" STRING="だうろく神まつり (七 首 三三" />
+      <SHAPE>
+        <POLYGON POINTS="1342,827,1342,2165,1707,2165,1707,827" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.886">
+      <LINE TYPE="タイトル本文" X="1236" Y="781" WIDTH="47" HEIGHT="222" CONF="0.827" ORDER="23" STRING="大正六年" />
+      <SHAPE>
+        <POLYGON POINTS="1236,781,1236,1003,1283,1003,1283,781" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.939">
+      <LINE TYPE="本文" X="1145" Y="838" WIDTH="62" HEIGHT="1326" CONF="0.922" ORDER="24" STRING="(十一首) 一七七 霜" />
+      <LINE TYPE="本文" X="1065" Y="839" WIDTH="64" HEIGHT="1325" CONF="0.926" ORDER="26" STRING="および海 一七 首) 〓 山" />
+      <LINE TYPE="本文" X="982" Y="838" WIDTH="65" HEIGHT="1325" CONF="0.927" ORDER="27" STRING="四 首 一三、 熊 野" />
+      <LINE TYPE="本文" X="906" Y="841" WIDTH="63" HEIGHT="1323" CONF="0.929" ORDER="28" STRING="名 1/2 首)· 一三 濱" />
+      <LINE TYPE="本文" X="825" Y="839" WIDTH="62" HEIGHT="1324" CONF="0.930" ORDER="29" STRING="夾竹桃 (八 首) 一四" />
+      <LINE TYPE="本文" X="748" Y="842" WIDTH="60" HEIGHT="1324" CONF="0.927" ORDER="30" STRING="ある生徒(一 首) 一五六" />
+      <LINE TYPE="本文" X="668" Y="839" WIDTH="61" HEIGHT="1328" CONF="0.921" ORDER="31" STRING="左千夫翁五年忌 (七 首) 電" />
+      <SHAPE>
+        <POLYGON POINTS="671,832,671,2169,1200,2169,1200,832" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="655" Y="563" WIDTH="23" HEIGHT="29" CONF="0.478" />
+    <BLOCK TYPE="ノンブル" X="2875" Y="553" WIDTH="23" HEIGHT="26" CONF="0.456" />
+  </PAGE>
+</OCRDATASET>

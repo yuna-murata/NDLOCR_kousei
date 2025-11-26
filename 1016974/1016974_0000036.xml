@@ -1,0 +1,59 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000036.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.749">
+      <LINE TYPE="本文" X="2863" Y="678" WIDTH="72" HEIGHT="1345" CONF="0.780" ORDER="0" STRING="洋なかの島に越え來て ひそかなり。 この島人 58" />
+      <LINE TYPE="本文" X="2794" Y="801" WIDTH="46" HEIGHT="507" CONF="0.820" ORDER="1" STRING="は、 知らずやあらむ" />
+      <SHAPE>
+        <POLYGON POINTS="2791,677,2791,2023,2935,2023,2935,677" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.902">
+      <LINE TYPE="本文" X="2564" Y="1027" WIDTH="49" HEIGHT="849" CONF="0.890" ORDER="4" STRING="地べたから十步二十步、 深いのになる" />
+      <LINE TYPE="本文" X="2481" Y="1026" WIDTH="56" HEIGHT="850" CONF="0.879" ORDER="5" STRING="と、 四五十步もおりねばならぬ水汲み" />
+      <LINE TYPE="本文" X="2405" Y="1023" WIDTH="53" HEIGHT="872" CONF="0.857" ORDER="6" STRING="場さへ、 稀ではない。 降り井·穴井など、 カアアナカア" />
+      <LINE TYPE="本文" X="2334" Y="1018" WIDTH="42" HEIGHT="306" CONF="0.877" ORDER="7" STRING="方言では言ふ。" />
+      <SHAPE>
+        <POLYGON POINTS="2337,1019,2337,1892,2612,1892,2612,1019" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.893">
+      <LINE TYPE="本文" X="2078" Y="778" WIDTH="59" HEIGHT="1216" CONF="0.848" ORDER="8" STRING="をとめ居て、 ことばあらそふ聲すなり。 穴井の" />
+      <LINE TYPE="本文" X="2005" Y="774" WIDTH="65" HEIGHT="456" CONF="0.808" ORDER="9" STRING="底の くらき水影 ミヅカゲ" />
+      <SHAPE>
+        <POLYGON POINTS="2008,773,2008,2000,2138,2000,2138,773" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.839">
+      <LINE TYPE="本文" X="1547" Y="741" WIDTH="80" HEIGHT="1220" CONF="0.923" ORDER="11" STRING="處女のかぐろき髮を あはれと思ふ。 穴井の底" />
+      <LINE TYPE="本文" X="1460" Y="742" WIDTH="52" HEIGHT="451" CONF="0.850" ORDER="12" STRING="ゆ、 水汲みのぼる" />
+      <SHAPE>
+        <POLYGON POINTS="1463,739,1463,1962,1625,1962,1625,739" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.781">
+      <LINE TYPE="本文" X="1287" Y="748" WIDTH="79" HEIGHT="1226" CONF="0.905" ORDER="15" STRING="島の井に 水を戴くをとめのころも。 その襟細" />
+      <LINE TYPE="本文" X="1202" Y="754" WIDTH="47" HEIGHT="389" CONF="0.867" ORDER="16" STRING="き胸は濡れたり" />
+      <SHAPE>
+        <POLYGON POINTS="1203,749,1203,1977,1365,1977,1365,749" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.636">
+      <LINE TYPE="本文" X="1025" Y="755" WIDTH="77" HEIGHT="1225" CONF="0.909" ORDER="18" STRING="鳴く鳥の聲 いちじるくかはりたり。 沖繩じま" />
+      <LINE TYPE="本文" X="939" Y="765" WIDTH="55" HEIGHT="508" CONF="0.848" ORDER="19" STRING="に、 我は居りと思ふ" />
+      <SHAPE>
+        <POLYGON POINTS="950,756,950,1982,1101,1982,1101,756" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.744">
+      <LINE TYPE="本文" X="764" Y="770" WIDTH="82" HEIGHT="1218" CONF="0.914" ORDER="22" STRING="あまたゐる山羊みな鳴きて 喧 しきが、 ひた寂" />
+      <LINE TYPE="本文" X="677" Y="676" WIDTH="57" HEIGHT="605" CONF="0.863" ORDER="23" STRING="しもよ。 島人の宿に 59" />
+      <SHAPE>
+        <POLYGON POINTS="680,703,680,1989,847,1989,847,703" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="829" Y="1523" WIDTH="27" HEIGHT="90" CONF="0.556" />
+    <BLOCK TYPE="ルビ" X="2448" Y="1543" WIDTH="19" HEIGHT="229" CONF="0.350" />
+    <BLOCK TYPE="ルビ" X="2926" Y="801" WIDTH="24" HEIGHT="38" CONF="0.335" />
+    <BLOCK TYPE="ルビ" X="1179" Y="1003" WIDTH="20" HEIGHT="24" CONF="0.206" />
+  </PAGE>
+</OCRDATASET>

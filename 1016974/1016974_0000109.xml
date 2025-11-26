@@ -1,0 +1,48 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000109.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.580">
+      <LINE TYPE="本文" X="2901" Y="619" WIDTH="52" HEIGHT="30" CONF="0.502" ORDER="2" STRING="2 4" />
+      <LINE TYPE="タイトル本文" X="2811" Y="926" WIDTH="60" HEIGHT="290" CONF="0.631" ORDER="5" STRING="鹽 原" />
+      <SHAPE>
+        <POLYGON POINTS="2810,620,2810,1217,2953,1217,2953,620" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.540">
+      <LINE TYPE="本文" X="2621" Y="731" WIDTH="59" HEIGHT="1256" CONF="0.890" ORDER="6" STRING="馬おひて 那須野の闇にあひし子よ。 かの子は、" />
+      <LINE TYPE="本文" X="2546" Y="791" WIDTH="44" HEIGHT="462" CONF="0.846" ORDER="7" STRING="家に還らずあらむ" />
+      <SHAPE>
+        <POLYGON POINTS="2558,729,2558,1989,2678,1989,2678,729" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.227">
+      <LINE TYPE="本文" X="2359" Y="727" WIDTH="56" HEIGHT="1235" CONF="0.892" ORDER="10" STRING="わがねむる部屋をかこめる 高山の霜をおもひ" />
+      <LINE TYPE="本文" X="2281" Y="727" WIDTH="48" HEIGHT="512" CONF="0.874" ORDER="11" STRING="て、 燈を消しにけり" />
+      <LINE TYPE="本文" X="2091" Y="718" WIDTH="59" HEIGHT="1237" CONF="0.866" ORDER="13" STRING="神のごと 山は晴れたり。 夜もすがら おもひ" />
+      <LINE TYPE="本文" X="2017" Y="721" WIDTH="47" HEIGHT="514" CONF="0.866" ORDER="14" STRING="たはれし心ながらに" />
+      <SHAPE>
+        <POLYGON POINTS="2016,715,2016,1964,2412,1964,2412,715" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.328">
+      <LINE TYPE="本文" X="1476" Y="727" WIDTH="63" HEIGHT="1235" CONF="0.890" ORDER="16" STRING="にはとりの蹈みちらしたる芋の莖 泣きつゝと" />
+      <LINE TYPE="本文" X="1393" Y="728" WIDTH="48" HEIGHT="457" CONF="0.858" ORDER="17" STRING="る か。 山の處女ら" />
+      <LINE TYPE="本文" X="1213" Y="726" WIDTH="65" HEIGHT="1261" CONF="0.889" ORDER="19" STRING="朝日照る山のさびしさ。 向つ峰に斧うつをとこ。" />
+      <LINE TYPE="本文" X="1131" Y="734" WIDTH="42" HEIGHT="393" CONF="0.845" ORDER="20" STRING="こちむきてゐよ" />
+      <LINE TYPE="本文" X="952" Y="736" WIDTH="66" HEIGHT="1237" CONF="0.896" ORDER="22" STRING="かくしつゝ、 いつまでくだち行く身ぞや。 那須" />
+      <LINE TYPE="本文" X="866" Y="735" WIDTH="52" HEIGHT="577" CONF="0.846" ORDER="23" STRING="野のうねり 遠薄あり" />
+      <SHAPE>
+        <POLYGON POINTS="859,720,859,1988,1536,1988,1536,720" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.248">
+      <LINE TYPE="タイトル本文" X="691" Y="977" WIDTH="50" HEIGHT="311" CONF="0.643" ORDER="27" STRING="生 徒 一" />
+      <SHAPE>
+        <POLYGON POINTS="601,622,601,1287,742,1287,742,622" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="599" Y="621" WIDTH="58" HEIGHT="27" CONF="0.674" />
+    <BLOCK TYPE="ノンブル" X="1550" Y="2339" WIDTH="19" HEIGHT="17" CONF="0.206" />
+    <BLOCK TYPE="ルビ" X="918" Y="1096" WIDTH="22" HEIGHT="112" CONF="0.769" />
+    <BLOCK TYPE="ルビ" X="1278" Y="1519" WIDTH="19" HEIGHT="19" CONF="0.333" />
+  </PAGE>
+</OCRDATASET>

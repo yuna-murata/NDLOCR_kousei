@@ -1,0 +1,44 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000138.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.274">
+      <SHAPE>
+        <POLYGON POINTS="2932,696,2932,718,2971,718,2971,696" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.976">
+      <LINE TYPE="本文" X="2897" Y="778" WIDTH="66" HEIGHT="1238" CONF="0.857" ORDER="1" STRING="こんな點などでは、全く立ち場を異にして居ながらも、 善" />
+      <LINE TYPE="本文" X="2803" Y="779" WIDTH="74" HEIGHT="1212" CONF="0.902" ORDER="2" STRING="麻呂さんのやつて居るろうま字書きの歌や、譯詩などの" />
+      <LINE TYPE="本文" X="2713" Y="775" WIDTH="71" HEIGHT="1219" CONF="0.914" ORDER="3" STRING="方が、正しい道を目がけてゐるものと思ふ。 「わかれば、句" />
+      <LINE TYPE="本文" X="2618" Y="771" WIDTH="72" HEIGHT="1218" CONF="0.905" ORDER="4" STRING="讀はいらない」などゝ考へてゐるのは、國語表示法は素よ" />
+      <LINE TYPE="本文" X="2539" Y="767" WIDTH="61" HEIGHT="816" CONF="0.885" ORDER="5" STRING="り、自己表現の爲に悲しまねばならぬ。" />
+      <LINE TYPE="本文" X="2434" Y="769" WIDTH="70" HEIGHT="1212" CONF="0.917" ORDER="6" STRING="それに又、私の、かうしたじれつたい·めんどうな爲事にい" />
+      <LINE TYPE="本文" X="2342" Y="766" WIDTH="74" HEIGHT="1214" CONF="0.914" ORDER="7" STRING="たつく理由が、も一つあるのである。 其は、歌の樣式の固" />
+      <LINE TYPE="本文" X="2253" Y="757" WIDTH="75" HEIGHT="1217" CONF="0.903" ORDER="8" STRING="定を、自由な推移に導く豫期から出てゐる。 五七五七七" />
+      <LINE TYPE="本文" X="2163" Y="758" WIDTH="71" HEIGHT="1209" CONF="0.922" ORDER="9" STRING="の形を基準にして、書きもし、讀み下しもする爲に、自然の" />
+      <LINE TYPE="本文" X="2068" Y="750" WIDTH="73" HEIGHT="1218" CONF="0.922" ORDER="10" STRING="拍子は既に變つて居ても、やはり、句跨りと思ひ〓〓、讀ん" />
+      <LINE TYPE="本文" X="1979" Y="749" WIDTH="71" HEIGHT="1214" CONF="0.905" ORDER="11" STRING="だり、感じたりして居る。 これは表示法から來る讀み方" />
+      <SHAPE>
+        <POLYGON POINTS="1983,749,1983,2007,2962,2007,2962,749" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.958">
+      <LINE TYPE="本文" X="1603" Y="718" WIDTH="65" HEIGHT="1206" CONF="0.927" ORDER="12" STRING="の固定なのである。 私どもはどうしても、これだけは、わ" />
+      <LINE TYPE="本文" X="1513" Y="714" WIDTH="66" HEIGHT="1226" CONF="0.931" ORDER="13" STRING="れ〓〓 の時代の協力によつて救ひ出さなければならぬ。" />
+      <LINE TYPE="本文" X="1420" Y="715" WIDTH="66" HEIGHT="1214" CONF="0.933" ORDER="14" STRING="歌の生命の爲である。 われ〓〓の愛執を持つ詩形の、自" />
+      <LINE TYPE="本文" X="1328" Y="714" WIDTH="47" HEIGHT="514" CONF="0.911" ORDER="15" STRING="在なる發生の爲である。" />
+      <LINE TYPE="本文" X="1237" Y="716" WIDTH="67" HEIGHT="1214" CONF="0.924" ORDER="16" STRING="私は、地震直後のすさみきつた心で、町々を行きながら、滑" />
+      <LINE TYPE="本文" X="1148" Y="718" WIDTH="63" HEIGHT="1215" CONF="0.929" ORDER="17" STRING="らかな拍子に寄せられない感動を表すものとしてのー" />
+      <LINE TYPE="本文" X="1052" Y="718" WIDTH="65" HEIGHT="1210" CONF="0.936" ORDER="18" STRING="出來るだけ、歌に近い形を持ちながら、-歌の行きつくべ" />
+      <LINE TYPE="本文" X="964" Y="721" WIDTH="62" HEIGHT="1212" CONF="0.924" ORDER="19" STRING="きものを考へた。 さうして、四句詩形を以てする發想に" />
+      <LINE TYPE="本文" X="870" Y="722" WIDTH="65" HEIGHT="1212" CONF="0.931" ORDER="20" STRING="考へた。 併しそれとても、成心を加へ過ぎて、自在を缺い" />
+      <LINE TYPE="本文" X="781" Y="726" WIDTH="61" HEIGHT="1212" CONF="0.912" ORDER="21" STRING="てゐる。 私は、かうして、いろ〓〓 な休止點を表示してゐ" />
+      <LINE TYPE="本文" X="687" Y="641" WIDTH="63" HEIGHT="1300" CONF="0.883" ORDER="22" STRING="中に、自然に、次の詩形の、短歌から生れて來るのを、易く 23" />
+      <SHAPE>
+        <POLYGON POINTS="689,647,689,1945,1661,1945,1661,647" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2932" Y="696" WIDTH="39" HEIGHT="22" CONF="0.585" />
+    <BLOCK TYPE="ノンブル" X="2616" Y="2211" WIDTH="23" HEIGHT="22" CONF="0.506" />
+    <BLOCK TYPE="ノンブル" X="682" Y="635" WIDTH="37" HEIGHT="29" CONF="0.419" />
+  </PAGE>
+</OCRDATASET>

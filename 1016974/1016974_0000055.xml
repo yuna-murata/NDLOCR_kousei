@@ -1,0 +1,39 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000055.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.312">
+      <LINE TYPE="本文" X="2862" Y="671" WIDTH="71" HEIGHT="1340" CONF="0.810" ORDER="0" STRING="待ちがたく 心はさだまる。 庭冷えて 露くだ 96" />
+      <LINE TYPE="本文" X="2792" Y="794" WIDTH="47" HEIGHT="567" CONF="0.845" ORDER="1" STRING="る夜となりにけるかも" />
+      <LINE TYPE="本文" X="2600" Y="783" WIDTH="64" HEIGHT="1219" CONF="0.856" ORDER="3" STRING="さ夜深く 風吹き起れり。 待ち明す 心ともあ" />
+      <LINE TYPE="本文" X="2527" Y="783" WIDTH="47" HEIGHT="508" CONF="0.858" ORDER="4" STRING="らず。 大路のうへに" />
+      <LINE TYPE="本文" X="2334" Y="771" WIDTH="82" HEIGHT="1224" CONF="0.821" ORDER="5" STRING="額のうへに くらくそよげる城山の 梢を見れ" />
+      <LINE TYPE="本文" X="2266" Y="775" WIDTH="51" HEIGHT="509" CONF="0.797" ORDER="6" STRING="ば、 夜はさかりなり" />
+      <LINE TYPE="本文" X="2078" Y="766" WIDTH="56" HEIGHT="1220" CONF="0.865" ORDER="8" STRING="篠垣の夜深きそよぎ 道側に、 立ちまどろめる" />
+      <LINE TYPE="本文" X="2007" Y="772" WIDTH="42" HEIGHT="268" CONF="0.740" ORDER="9" STRING="心倦みつゝ" />
+      <SHAPE>
+        <POLYGON POINTS="2004,658,2004,2010,2928,2010,2928,658" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.223">
+      <LINE TYPE="本文" X="1528" Y="729" WIDTH="51" HEIGHT="1226" CONF="0.877" ORDER="15" STRING="はるけき 辻ゆ來向ふ車の燈 音なきはしりを" />
+      <LINE TYPE="本文" X="1441" Y="732" WIDTH="45" HEIGHT="397" CONF="0.832" ORDER="16" STRING="瞻る夜はふけぬ" />
+      <LINE TYPE="本文" X="1264" Y="730" WIDTH="51" HEIGHT="1220" CONF="0.828" ORDER="21" STRING="をちこちの家に、 ま遠に うつ時計。 大路の夜" />
+      <LINE TYPE="本文" X="1177" Y="739" WIDTH="48" HEIGHT="505" CONF="0.824" ORDER="22" STRING="くだつを知れり の" />
+      <LINE TYPE="本文" X="1003" Y="735" WIDTH="53" HEIGHT="1222" CONF="0.885" ORDER="29" STRING="夜なか迄 家には來ずて、 わが目避く汝がある" />
+      <LINE TYPE="本文" X="920" Y="736" WIDTH="41" HEIGHT="451" CONF="0.855" ORDER="30" STRING="きを 思ひ苦しも" />
+      <SHAPE>
+        <POLYGON POINTS="913,727,913,2228,1592,2228,1592,727" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.407">
+      <LINE TYPE="タイトル本文" X="735" Y="971" WIDTH="46" HEIGHT="316" CONF="0.671" ORDER="38" STRING="寄 陳 思 物" />
+      <SHAPE>
+        <POLYGON POINTS="656,619,656,1288,782,1288,782,619" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="653" Y="619" WIDTH="37" HEIGHT="31" CONF="0.470" />
+    <BLOCK TYPE="ノンブル" X="1611" Y="2412" WIDTH="37" HEIGHT="34" CONF="0.257" />
+    <BLOCK TYPE="ルビ" X="1483" Y="736" WIDTH="22" HEIGHT="25" CONF="0.460" />
+    <BLOCK TYPE="ルビ" X="2126" Y="1414" WIDTH="21" HEIGHT="44" CONF="0.247" />
+    <BLOCK TYPE="ルビ" X="1057" Y="1633" WIDTH="15" HEIGHT="20" CONF="0.242" />
+  </PAGE>
+</OCRDATASET>

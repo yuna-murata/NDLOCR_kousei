@@ -1,0 +1,40 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000106.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.581">
+      <LINE TYPE="本文" X="2789" Y="899" WIDTH="62" HEIGHT="61" CONF="0.433" ORDER="2" STRING="錢" />
+      <SHAPE>
+        <POLYGON POINTS="2789,588,2789,961,2924,961,2924,588" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.478">
+      <LINE TYPE="本文" X="2602" Y="711" WIDTH="53" HEIGHT="1230" CONF="0.873" ORDER="7" STRING="たなぞこに 燦然としてうづたかき。 こ れ わ" />
+      <LINE TYPE="本文" X="2522" Y="708" WIDTH="48" HEIGHT="637" CONF="0.864" ORDER="8" STRING="が金と あからめもせず" />
+      <LINE TYPE="本文" X="2337" Y="704" WIDTH="53" HEIGHT="1170" CONF="0.874" ORDER="9" STRING="道を行くかひなたゆさも こゝろよし。 この" />
+      <LINE TYPE="本文" X="2258" Y="707" WIDTH="45" HEIGHT="694" CONF="0.848" ORDER="11" STRING="わが金の もちおもりはも" />
+      <LINE TYPE="注" X="2106" Y="1842" WIDTH="28" HEIGHT="80" CONF="0.282" ORDER="12" STRING="シ マ" />
+      <LINE TYPE="本文" X="2071" Y="702" WIDTH="55" HEIGHT="1232" CONF="0.828" ORDER="13" STRING="目ふたげば、 くわう〓〓として照り來る。 紫 摩" />
+      <LINE TYPE="本文" X="1992" Y="699" WIDTH="63" HEIGHT="456" CONF="0.735" ORDER="14" STRING="黄金の金貨の光り" />
+      <SHAPE>
+        <POLYGON POINTS="1994,697,1994,1940,2655,1940,2655,697" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.261">
+      <LINE TYPE="本文" X="1488" Y="698" WIDTH="50" HEIGHT="1229" CONF="0.874" ORDER="16" STRING="たなそこのにほひは、 人に告げざらむ。 金貨も" />
+      <LINE TYPE="本文" X="1402" Y="756" WIDTH="48" HEIGHT="517" CONF="0.821" ORDER="18" STRING="汗をかきにけるかな" />
+      <LINE TYPE="本文" X="1219" Y="929" WIDTH="54" HEIGHT="798" CONF="0.704" ORDER="21" STRING="海軍中尉三矢五郞氏の心を" />
+      <LINE TYPE="本文" X="1130" Y="938" WIDTH="47" HEIGHT="310" CONF="0.781" ORDER="24" STRING="かなしみて" />
+      <LINE TYPE="本文" X="959" Y="698" WIDTH="53" HEIGHT="1168" CONF="0.847" ORDER="27" STRING="わたつみの海にいでたる富津の崎 日ねもす" />
+      <LINE TYPE="本文" X="873" Y="699" WIDTH="45" HEIGHT="512" CONF="0.853" ORDER="31" STRING="まほに霞むしづけさ" />
+      <LINE TYPE="本文" X="696" Y="695" WIDTH="54" HEIGHT="1231" CONF="0.862" ORDER="33" STRING="そのむくろ覓むと わがいはゞ、 わたなかの八" />
+      <LINE TYPE="本文" X="609" Y="579" WIDTH="52" HEIGHT="872" CONF="0.844" ORDER="35" STRING="尋さひもち こたへなむかも 199" />
+      <SHAPE>
+        <POLYGON POINTS="612,608,612,1935,1546,1935,1546,608" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="柱" X="2788" Y="589" WIDTH="132" HEIGHT="372" CONF="0.319" />
+    <BLOCK TYPE="ノンブル" X="2868" Y="589" WIDTH="56" HEIGHT="36" CONF="0.389" />
+    <BLOCK TYPE="ルビ" X="1008" Y="1353" WIDTH="23" HEIGHT="79" CONF="0.661" />
+    <BLOCK TYPE="ルビ" X="741" Y="1005" WIDTH="20" HEIGHT="20" CONF="0.482" />
+    <BLOCK TYPE="ルビ" X="2106" Y="1842" WIDTH="28" HEIGHT="80" CONF="0.386" />
+  </PAGE>
+</OCRDATASET>

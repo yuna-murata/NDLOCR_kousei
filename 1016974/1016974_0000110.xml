@@ -1,0 +1,51 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000110.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.846">
+      <LINE TYPE="本文" X="2911" Y="636" WIDTH="59" HEIGHT="1301" CONF="0.853" ORDER="0" STRING="夜目しろく 萩が花散る道ふめば、 かの子は 206" />
+      <LINE TYPE="本文" X="2834" Y="759" WIDTH="48" HEIGHT="517" CONF="0.778" ORDER="1" STRING="母の喪にゆきにけり" />
+      <SHAPE>
+        <POLYGON POINTS="2837,637,2837,1939,2968,1939,2968,637" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.815">
+      <LINE TYPE="タイトル本文" X="2616" Y="987" WIDTH="47" HEIGHT="327" CONF="0.678" ORDER="5" STRING="徒 二 生" />
+      <SHAPE>
+        <POLYGON POINTS="2616,986,2616,1315,2664,1315,2664,986" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.730">
+      <LINE TYPE="本文" X="2377" Y="744" WIDTH="59" HEIGHT="1259" CONF="0.875" ORDER="6" STRING="白玉をあやぶみ擁き 寢ざめして、 春の朝けに、" />
+      <LINE TYPE="本文" X="2305" Y="748" WIDTH="43" HEIGHT="398" CONF="0.801" ORDER="7" STRING="目うるめる子ら" />
+      <SHAPE>
+        <POLYGON POINTS="2308,743,2308,2003,2434,2003,2434,743" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.821">
+      <LINE TYPE="本文" X="2109" Y="741" WIDTH="61" HEIGHT="1176" CONF="0.870" ORDER="11" STRING="このねぬる朝けの風のこゝちよき。 寢おきの" />
+      <LINE TYPE="本文" X="2036" Y="735" WIDTH="49" HEIGHT="578" CONF="0.805" ORDER="12" STRING="顏の ほのあかみたる" />
+      <SHAPE>
+        <POLYGON POINTS="2037,734,2037,1920,2169,1920,2169,734" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.398">
+      <LINE TYPE="本文" X="1498" Y="739" WIDTH="74" HEIGHT="1234" CONF="0.908" ORDER="15" STRING="こゝちよき春のねざめのなつかしさ。 片時をし" />
+      <LINE TYPE="本文" X="1413" Y="739" WIDTH="51" HEIGHT="455" CONF="0.807" ORDER="16" STRING="み、 子らが遊べる" />
+      <LINE TYPE="本文" X="1231" Y="738" WIDTH="78" HEIGHT="1238" CONF="0.910" ORDER="19" STRING="砂原に砂あび 腰をうづめゐつ。 たはぶれの手" />
+      <LINE TYPE="本文" X="1149" Y="743" WIDTH="55" HEIGHT="637" CONF="0.859" ORDER="20" STRING="を ふ と 止めぬ。 子ら" />
+      <LINE TYPE="本文" X="965" Y="746" WIDTH="77" HEIGHT="1236" CONF="0.902" ORDER="22" STRING="わが子らは 遊びほけたる目を過る何かおふと" />
+      <LINE TYPE="本文" X="881" Y="751" WIDTH="50" HEIGHT="507" CONF="0.846" ORDER="23" STRING="て、 おほゞれてをり" />
+      <SHAPE>
+        <POLYGON POINTS="622,684,622,1993,1573,1993,1573,684" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.760">
+      <LINE TYPE="本文" X="703" Y="749" WIDTH="72" HEIGHT="1234" CONF="0.888" ORDER="26" STRING="わが雲雀 今日はおどけず。 しかすがに つ" />
+      <LINE TYPE="本文" X="612" Y="629" WIDTH="59" HEIGHT="817" CONF="0.844" ORDER="27" STRING="ましやかにふるまひにけり 207" />
+      <SHAPE>
+        <POLYGON POINTS="615,631,615,1983,773,1983,773,631" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="611" Y="628" WIDTH="53" HEIGHT="26" CONF="0.269" />
+    <BLOCK TYPE="ルビ" X="1033" Y="1595" WIDTH="22" HEIGHT="43" CONF="0.532" />
+  </PAGE>
+</OCRDATASET>

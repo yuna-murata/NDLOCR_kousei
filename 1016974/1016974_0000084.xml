@@ -1,0 +1,44 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000084.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.385">
+      <LINE TYPE="タイトル本文" X="2832" Y="933" WIDTH="64" HEIGHT="288" CONF="0.643" ORDER="3" STRING="竹 桃 夾" />
+      <SHAPE>
+        <POLYGON POINTS="2831,618,2831,1222,2974,1222,2974,618" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.287">
+      <LINE TYPE="本文" X="2645" Y="734" WIDTH="58" HEIGHT="1223" CONF="0.905" ORDER="4" STRING="さめ〓〓と 今朝は霧ふる夾竹桃。 片枝の荒れ" />
+      <LINE TYPE="本文" X="2573" Y="734" WIDTH="46" HEIGHT="449" CONF="0.826" ORDER="5" STRING="に、 花はあかるき" />
+      <LINE TYPE="本文" X="2381" Y="752" WIDTH="66" HEIGHT="1191" CONF="0.688" ORDER="8" STRING="群花の垂り著けれど、 まともには、 色おとろへ" />
+      <LINE TYPE="本文" X="2308" Y="720" WIDTH="50" HEIGHT="398" CONF="0.874" ORDER="9" STRING="ず。 夾竹桃の花" />
+      <LINE TYPE="本文" X="2119" Y="714" WIDTH="60" HEIGHT="1225" CONF="0.906" ORDER="11" STRING="わが庭に、 夾竹桃はしなえたり。 ほこりをあび" />
+      <LINE TYPE="本文" X="2049" Y="724" WIDTH="44" HEIGHT="388" CONF="0.827" ORDER="12" STRING="て、 町より戾る" />
+      <SHAPE>
+        <POLYGON POINTS="2047,713,2047,1958,2750,1958,2750,713" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.451">
+      <LINE TYPE="本文" X="1487" Y="706" WIDTH="67" HEIGHT="1170" CONF="0.915" ORDER="14" STRING="夕かげの庭のおくかの 隈深く片あかりして" />
+      <LINE TYPE="本文" X="1402" Y="709" WIDTH="46" HEIGHT="336" CONF="0.806" ORDER="16" STRING="夾竹桃はある" />
+      <LINE TYPE="本文" X="1227" Y="711" WIDTH="71" HEIGHT="1230" CONF="0.769" ORDER="19" STRING="たま〓〓に目屬りやすらふ。 いぶせさは、 夾竹" />
+      <LINE TYPE="本文" X="1140" Y="712" WIDTH="46" HEIGHT="456" CONF="0.829" ORDER="21" STRING="桃の花にさだまり" />
+      <LINE TYPE="本文" X="962" Y="716" WIDTH="66" HEIGHT="1167" CONF="0.906" ORDER="23" STRING="古がめに一枝をりさし はれ〓〓し。 庭にも" />
+      <LINE TYPE="本文" X="879" Y="717" WIDTH="50" HEIGHT="518" CONF="0.837" ORDER="24" STRING="內にも、 夾竹桃の花" />
+      <SHAPE>
+        <POLYGON POINTS="613,668,613,1955,1553,1955,1553,668" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.548">
+      <LINE TYPE="本文" X="697" Y="723" WIDTH="70" HEIGHT="1223" CONF="0.899" ORDER="26" STRING="提燈のあかりのゝぼる闇の空 そこに さわめ" />
+      <LINE TYPE="本文" X="610" Y="603" WIDTH="53" HEIGHT="517" CONF="0.673" ORDER="29" STRING="く 夾竹桃の花 155" />
+      <SHAPE>
+        <POLYGON POINTS="605,598,605,1947,765,1947,765,598" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2923" Y="617" WIDTH="55" HEIGHT="29" CONF="0.586" />
+    <BLOCK TYPE="ノンブル" X="601" Y="599" WIDTH="66" HEIGHT="30" CONF="0.255" />
+    <BLOCK TYPE="ルビ" X="2440" Y="720" WIDTH="26" HEIGHT="343" CONF="0.532" />
+    <BLOCK TYPE="ルビ" X="2441" Y="733" WIDTH="26" HEIGHT="329" CONF="0.327" />
+    <BLOCK TYPE="ルビ" X="2440" Y="1018" WIDTH="24" HEIGHT="45" CONF="0.224" />
+  </PAGE>
+</OCRDATASET>

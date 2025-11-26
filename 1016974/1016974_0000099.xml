@@ -1,0 +1,53 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000099.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.228">
+      <LINE TYPE="本文" X="2832" Y="597" WIDTH="52" HEIGHT="1347" CONF="0.848" ORDER="0" STRING="峰ごしに 鳴く鳥居つゝ 時久し。 山ふところ 184" />
+      <LINE TYPE="本文" X="2754" Y="724" WIDTH="44" HEIGHT="508" CONF="0.739" ORDER="2" STRING="に、 日はあたり居り" />
+      <LINE TYPE="本文" X="2568" Y="716" WIDTH="48" HEIGHT="1187" CONF="0.890" ORDER="5" STRING="足柄の金時山に 入り居りと 誰知らましや。" />
+      <LINE TYPE="本文" X="2487" Y="723" WIDTH="42" HEIGHT="328" CONF="0.841" ORDER="6" STRING="この草のなか" />
+      <LINE TYPE="本文" X="2305" Y="714" WIDTH="49" HEIGHT="1229" CONF="0.890" ORDER="7" STRING="峰遠く 鳴きつゝわたる鳥の聲。 なぞへを登る" />
+      <LINE TYPE="本文" X="2223" Y="715" WIDTH="45" HEIGHT="392" CONF="0.835" ORDER="8" STRING="影は、 我がなり" />
+      <LINE TYPE="本文" X="2039" Y="709" WIDTH="50" HEIGHT="1231" CONF="0.859" ORDER="11" STRING="這ひ松の這ひの上りや。 はる〓〓に 目をまか" />
+      <LINE TYPE="本文" X="1960" Y="714" WIDTH="46" HEIGHT="510" CONF="0.790" ORDER="13" STRING="せつゝ、 山腹に居り" />
+      <SHAPE>
+        <POLYGON POINTS="1960,600,1960,1947,2883,1947,2883,600" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.210">
+      <LINE TYPE="本文" X="1470" Y="717" WIDTH="57" HEIGHT="1247" CONF="0.904" ORDER="15" STRING="をちこちに 棚田いとなみ、 足柄の山の斜面に、" />
+      <LINE TYPE="本文" X="1385" Y="716" WIDTH="40" HEIGHT="338" CONF="0.794" ORDER="16" STRING="人うごく見ゆ" />
+      <SHAPE>
+        <POLYGON POINTS="1387,712,1387,1964,1523,1964,1523,712" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.670">
+      <LINE TYPE="本文" X="1205" Y="723" WIDTH="53" HEIGHT="1187" CONF="0.880" ORDER="17" STRING="向つ峰の撫の梢の 霧ごもり、 今はしづまる。" />
+      <LINE TYPE="本文" X="1120" Y="726" WIDTH="41" HEIGHT="273" CONF="0.807" ORDER="19" STRING="夕空のもと" />
+      <SHAPE>
+        <POLYGON POINTS="1125,721,1125,1914,1263,1914,1263,721" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.708">
+      <LINE TYPE="本文" X="945" Y="732" WIDTH="55" HEIGHT="1228" CONF="0.879" ORDER="20" STRING="ころぶせば 膚にさはらぬ風ありて、 まのあた" />
+      <LINE TYPE="本文" X="860" Y="735" WIDTH="42" HEIGHT="512" CONF="0.833" ORDER="21" STRING="りなる草の穂は搖る" />
+      <SHAPE>
+        <POLYGON POINTS="861,728,861,1959,997,1959,997,728" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.769">
+      <LINE TYPE="本文" X="680" Y="736" WIDTH="57" HEIGHT="1228" CONF="0.854" ORDER="24" STRING="日の後のうすあかるみに、 山の湯へ 手拭さげ" />
+      <LINE TYPE="注" X="620" Y="613" WIDTH="26" HEIGHT="30" CONF="0.204" ORDER="27" STRING="185" />
+      <LINE TYPE="本文" X="591" Y="611" WIDTH="46" HEIGHT="576" CONF="0.816" ORDER="28" STRING="て、 人來たるなり" />
+      <SHAPE>
+        <POLYGON POINTS="593,609,593,1961,734,1961,734,609" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="2087" Y="1118" WIDTH="22" HEIGHT="41" CONF="0.607" />
+    <BLOCK TYPE="ルビ" X="2002" Y="958" WIDTH="20" HEIGHT="91" CONF="0.576" />
+    <BLOCK TYPE="ルビ" X="722" Y="857" WIDTH="22" HEIGHT="42" CONF="0.427" />
+    <BLOCK TYPE="ルビ" X="1250" Y="848" WIDTH="20" HEIGHT="155" CONF="0.401" />
+    <BLOCK TYPE="ルビ" X="1253" Y="848" WIDTH="22" HEIGHT="1049" CONF="0.302" />
+    <BLOCK TYPE="ルビ" X="1252" Y="848" WIDTH="18" HEIGHT="157" CONF="0.263" />
+    <BLOCK TYPE="ルビ" X="1249" Y="842" WIDTH="23" HEIGHT="1068" CONF="0.243" />
+  </PAGE>
+</OCRDATASET>

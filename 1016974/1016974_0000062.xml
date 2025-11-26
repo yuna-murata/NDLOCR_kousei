@@ -1,0 +1,49 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000062.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.666">
+      <LINE TYPE="本文" X="2773" Y="791" WIDTH="54" HEIGHT="572" CONF="0.762" ORDER="0" STRING="え て、 かげろふ日の 面" />
+      <LINE TYPE="本文" X="2844" Y="672" WIDTH="69" HEIGHT="1342" CONF="0.810" ORDER="5" STRING="裾野原 野の上に遠き人の行き いつまでも見" />
+      <SHAPE>
+        <POLYGON POINTS="2773,672,2773,2013,2914,2013,2914,672" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.263">
+      <LINE TYPE="本文" X="2578" Y="782" WIDTH="84" HEIGHT="1221" CONF="0.768" ORDER="8" STRING="諸縣の山にすぐなる柚の道。 疑はなくに は" />
+      <LINE TYPE="本文" X="2519" Y="778" WIDTH="42" HEIGHT="213" CONF="0.713" ORDER="10" STRING="夕づけり" />
+      <LINE TYPE="本文" X="2316" Y="770" WIDTH="94" HEIGHT="1248" CONF="0.801" ORDER="14" STRING="山下に、 屋庭まひろきひと構へ。 道はおりたり。" />
+      <LINE TYPE="本文" X="2254" Y="770" WIDTH="44" HEIGHT="275" CONF="0.782" ORDER="15" STRING="その夕庭に" />
+      <LINE TYPE="本文" X="2053" Y="761" WIDTH="72" HEIGHT="1226" CONF="0.877" ORDER="18" STRING="山の子は、 後姿さびしも。 風呂たきて、 手拭白" />
+      <LINE TYPE="本文" X="1990" Y="760" WIDTH="47" HEIGHT="512" CONF="0.808" ORDER="19" STRING="く かづきたりけり" />
+      <SHAPE>
+        <POLYGON POINTS="1991,738,1991,2016,2916,2016,2916,738" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.227">
+      <LINE TYPE="本文" X="1495" Y="764" WIDTH="73" HEIGHT="1221" CONF="0.912" ORDER="21" STRING="この家の人の ゆふげにまじりつゝ、 もの言ひ" />
+      <LINE TYPE="本文" X="1410" Y="767" WIDTH="50" HEIGHT="514" CONF="0.850" ORDER="22" STRING="ことなる我と思へり" />
+      <LINE TYPE="本文" X="1232" Y="765" WIDTH="75" HEIGHT="1226" CONF="0.918" ORDER="24" STRING="旅ごゝろのおどろき易きを叱りつゝ 柴火のく" />
+      <LINE TYPE="本文" X="1146" Y="771" WIDTH="53" HEIGHT="571" CONF="0.837" ORDER="25" STRING="づれ 立てなほし居り" />
+      <LINE TYPE="本文" X="971" Y="776" WIDTH="75" HEIGHT="1220" CONF="0.911" ORDER="28" STRING="日のゝちを いきれ殘れり。 茶臼原の夏うぐひ" />
+      <LINE TYPE="本文" X="883" Y="779" WIDTH="52" HEIGHT="510" CONF="0.872" ORDER="30" STRING="すは、 草ごもり鳴く" />
+      <LINE TYPE="本文" X="708" Y="784" WIDTH="72" HEIGHT="1218" CONF="0.908" ORDER="31" STRING="こすもすの蕾かたきに、 手觸りたり。 旅をやめ" />
+      <LINE TYPE="本文" X="617" Y="666" WIDTH="54" HEIGHT="568" CONF="0.759" ORDER="33" STRING="なむ 心を持ちて 111" />
+      <SHAPE>
+        <POLYGON POINTS="621,749,621,2006,1570,2006,1570,749" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.351">
+      <SHAPE>
+        <POLYGON POINTS="616,669,616,1235,669,1235,669,669" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="616" Y="666" WIDTH="55" HEIGHT="24" CONF="0.322" />
+    <BLOCK TYPE="ノンブル" X="2857" Y="672" WIDTH="53" HEIGHT="23" CONF="0.315" />
+    <BLOCK TYPE="ルビ" X="2813" Y="1318" WIDTH="25" HEIGHT="48" CONF="0.537" />
+    <BLOCK TYPE="ルビ" X="2117" Y="1080" WIDTH="20" HEIGHT="68" CONF="0.489" />
+    <BLOCK TYPE="ルビ" X="2642" Y="777" WIDTH="27" HEIGHT="101" CONF="0.478" />
+    <BLOCK TYPE="ルビ" X="2381" Y="769" WIDTH="30" HEIGHT="99" CONF="0.370" />
+    <BLOCK TYPE="ルビ" X="2906" Y="1149" WIDTH="19" HEIGHT="12" CONF="0.324" />
+    <BLOCK TYPE="ルビ" X="2385" Y="828" WIDTH="26" HEIGHT="40" CONF="0.281" />
+    <BLOCK TYPE="ルビ" X="1035" Y="1670" WIDTH="23" HEIGHT="43" CONF="0.279" />
+  </PAGE>
+</OCRDATASET>

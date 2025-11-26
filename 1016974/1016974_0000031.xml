@@ -1,0 +1,49 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000031.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.305">
+      <LINE TYPE="本文" X="2788" Y="642" WIDTH="80" HEIGHT="1345" CONF="0.861" ORDER="0" STRING="道なかに、 明りさしたる家稀に、 起きてもの言 48" />
+      <LINE TYPE="本文" X="2728" Y="770" WIDTH="48" HEIGHT="329" CONF="0.752" ORDER="1" STRING="ふ聲の靜けさ" />
+      <LINE TYPE="本文" X="2528" Y="756" WIDTH="71" HEIGHT="1221" CONF="0.861" ORDER="4" STRING="町中に、 鷄鳴きにけり。 空際のあかりまされる" />
+      <LINE TYPE="本文" X="2464" Y="757" WIDTH="48" HEIGHT="451" CONF="0.782" ORDER="5" STRING="は、 夜深かるらし" />
+      <LINE TYPE="本文" X="2265" Y="751" WIDTH="69" HEIGHT="1220" CONF="0.906" ORDER="8" STRING="犬の子の鳴き寄る聲の 死にやすき生きのをに" />
+      <LINE TYPE="本文" X="2200" Y="752" WIDTH="47" HEIGHT="571" CONF="0.832" ORDER="9" STRING="思ふ戀ひは、 さびしも" />
+      <LINE TYPE="本文" X="2006" Y="742" WIDTH="67" HEIGHT="1218" CONF="0.897" ORDER="12" STRING="遂げがたき心なりけり。 ありさりて、 空しとぞ" />
+      <LINE TYPE="本文" X="1936" Y="743" WIDTH="51" HEIGHT="510" CONF="0.807" ORDER="13" STRING="思ふ。 雪のうは解け" />
+      <SHAPE>
+        <POLYGON POINTS="1931,601,1931,1987,2848,1987,2848,601" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.695">
+      <LINE TYPE="本文" X="1590" Y="659" WIDTH="50" HEIGHT="1273" CONF="0.834" ORDER="17" STRING="軒ごもりに 秋の地蟲の聲ならで、 つたはり來" />
+      <LINE TYPE="本文" X="1504" Y="716" WIDTH="45" HEIGHT="454" CONF="0.762" ORDER="18" STRING="るは、 人鼾くらし" />
+      <SHAPE>
+        <POLYGON POINTS="1503,656,1503,1933,1638,1933,1638,656" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.326">
+      <LINE TYPE="本文" X="1328" Y="716" WIDTH="50" HEIGHT="1216" CONF="0.876" ORDER="20" STRING="うるはしき子の 遊びとよもす家のうちに、 心" />
+      <LINE TYPE="本文" X="1243" Y="715" WIDTH="43" HEIGHT="626" CONF="0.835" ORDER="21" STRING="やすけき人となりぬらむ" />
+      <LINE TYPE="本文" X="1068" Y="710" WIDTH="50" HEIGHT="1243" CONF="0.829" ORDER="23" STRING="直面に たゝひ滿ちたる暗き水。 思ひ堪へなむ。" />
+      <LINE TYPE="本文" X="982" Y="714" WIDTH="44" HEIGHT="394" CONF="0.796" ORDER="24" STRING="ひとりなる心に" />
+      <SHAPE>
+        <POLYGON POINTS="981,705,981,1952,1376,1952,1376,705" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.629">
+      <LINE TYPE="本文" X="806" Y="715" WIDTH="49" HEIGHT="1237" CONF="0.868" ORDER="26" STRING="水の面の暗きうねりの上あかり はるけき人は、" />
+      <LINE TYPE="本文" X="719" Y="601" WIDTH="44" HEIGHT="506" CONF="0.744" ORDER="28" STRING="我を死なしめむ 49" />
+      <SHAPE>
+        <POLYGON POINTS="721,599,721,1955,854,1955,854,599" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="1108" Y="711" WIDTH="21" HEIGHT="107" CONF="0.549" />
+    <BLOCK TYPE="ルビ" X="849" Y="834" WIDTH="23" HEIGHT="44" CONF="0.516" />
+    <BLOCK TYPE="ルビ" X="1547" Y="948" WIDTH="20" HEIGHT="43" CONF="0.492" />
+    <BLOCK TYPE="ルビ" X="2583" Y="827" WIDTH="31" HEIGHT="689" CONF="0.485" />
+    <BLOCK TYPE="ルビ" X="2581" Y="1471" WIDTH="22" HEIGHT="43" CONF="0.452" />
+    <BLOCK TYPE="ルビ" X="1636" Y="1200" WIDTH="19" HEIGHT="18" CONF="0.449" />
+    <BLOCK TYPE="ルビ" X="2585" Y="823" WIDTH="29" HEIGHT="691" CONF="0.446" />
+    <BLOCK TYPE="ルビ" X="1625" Y="659" WIDTH="21" HEIGHT="561" CONF="0.282" />
+    <BLOCK TYPE="ルビ" X="2594" Y="825" WIDTH="24" HEIGHT="48" CONF="0.259" />
+  </PAGE>
+</OCRDATASET>

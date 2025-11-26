@@ -1,0 +1,59 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000038.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.442">
+      <LINE TYPE="タイトル本文" X="2742" Y="936" WIDTH="56" HEIGHT="59" CONF="0.395" ORDER="3" STRING="夜" />
+      <SHAPE>
+        <POLYGON POINTS="2742,631,2742,995,2881,995,2881,631" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.942">
+      <LINE TYPE="本文" X="2523" Y="976" WIDTH="60" HEIGHT="852" CONF="0.904" ORDER="4" STRING="下伊那の奥、 矢矧川の峽野に、 海と言" />
+      <LINE TYPE="本文" X="2445" Y="978" WIDTH="58" HEIGHT="849" CONF="0.919" ORDER="5" STRING="ふ在所がある。 家三軒、 皆 縣道に向" />
+      <LINE TYPE="本文" X="2359" Y="979" WIDTH="57" HEIGHT="845" CONF="0.923" ORDER="6" STRING="いて居る。 中に、 一人の翁がある。 何" />
+      <LINE TYPE="本文" X="2274" Y="971" WIDTH="57" HEIGHT="867" CONF="0.920" ORDER="7" STRING="時頃からか狂ひ出して、 夜でも晝でも、" />
+      <LINE TYPE="本文" X="2189" Y="967" WIDTH="57" HEIGHT="853" CONF="0.926" ORDER="8" STRING="河原に出てゐる。 色々の形の石を拾う" />
+      <LINE TYPE="本文" X="2104" Y="965" WIDTH="56" HEIGHT="869" CONF="0.920" ORDER="9" STRING="て來ては、 此小名の兩境に竝べて置く。" />
+      <LINE TYPE="本文" X="2013" Y="960" WIDTH="62" HEIGHT="847" CONF="0.934" ORDER="10" STRING="其一つひとつに、 知つた限りの聖聚 の" />
+      <LINE TYPE="本文" X="1929" Y="957" WIDTH="62" HEIGHT="854" CONF="0.922" ORDER="11" STRING="姿を、 觀じて居るのだと聞いた。 どれ" />
+      <SHAPE>
+        <POLYGON POINTS="1933,958,1933,1835,2582,1835,2582,958" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.895">
+      <LINE TYPE="本文" X="1516" Y="969" WIDTH="58" HEIGHT="846" CONF="0.888" ORDER="12" STRING="を何佛·何大士と思ひ辨つことの出來る" />
+      <LINE TYPE="本文" X="1436" Y="973" WIDTH="50" HEIGHT="558" CONF="0.882" ORDER="13" STRING="のは、 其翁ばかりである。" />
+      <SHAPE>
+        <POLYGON POINTS="1437,969,1437,1817,1575,1817,1575,969" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.716">
+      <LINE TYPE="本文" X="1243" Y="737" WIDTH="70" HEIGHT="1218" CONF="0.905" ORDER="15" STRING="ながき夜の ねむりの後も、 なほ夜なる 月 お" />
+      <LINE TYPE="本文" X="1159" Y="745" WIDTH="51" HEIGHT="506" CONF="0.852" ORDER="16" STRING="し照れり。 河原菅原" />
+      <SHAPE>
+        <POLYGON POINTS="1160,738,1160,1955,1312,1955,1312,738" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.353">
+      <LINE TYPE="本文" X="981" Y="742" WIDTH="72" HEIGHT="1217" CONF="0.908" ORDER="19" STRING="川原の樗の隈の繁み〓〓に、 夜ごゑの鳥は、 い" />
+      <LINE TYPE="本文" X="896" Y="746" WIDTH="49" HEIGHT="334" CONF="0.869" ORDER="20" STRING="寢あぐむらし" />
+      <SHAPE>
+        <POLYGON POINTS="898,743,898,1961,1051,1961,1051,743" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.777">
+      <LINE TYPE="本文" X="721" Y="752" WIDTH="73" HEIGHT="1215" CONF="0.880" ORDER="22" STRING="川原田に住みつゝ曇る月の色 稻の花香の、" />
+      <LINE TYPE="本文" X="630" Y="628" WIDTH="54" HEIGHT="454" CONF="0.855" ORDER="23" STRING="どみたるかも 63" />
+      <SHAPE>
+        <POLYGON POINTS="633,626,633,1967,804,1967,804,626" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2843" Y="631" WIDTH="39" HEIGHT="25" CONF="0.593" />
+    <BLOCK TYPE="ルビ" X="2152" Y="1277" WIDTH="20" HEIGHT="79" CONF="0.710" />
+    <BLOCK TYPE="ルビ" X="1029" Y="921" WIDTH="26" HEIGHT="266" CONF="0.694" />
+    <BLOCK TYPE="ルビ" X="2565" Y="1495" WIDTH="22" HEIGHT="243" CONF="0.666" />
+    <BLOCK TYPE="ルビ" X="1567" Y="1424" WIDTH="18" HEIGHT="37" CONF="0.488" />
+    <BLOCK TYPE="ルビ" X="791" Y="1753" WIDTH="21" HEIGHT="23" CONF="0.487" />
+    <BLOCK TYPE="ルビ" X="1029" Y="919" WIDTH="21" HEIGHT="66" CONF="0.230" />
+    <BLOCK TYPE="ルビ" X="1028" Y="917" WIDTH="32" HEIGHT="1040" CONF="0.222" />
+  </PAGE>
+</OCRDATASET>

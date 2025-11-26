@@ -1,0 +1,50 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000023.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.846">
+      <LINE TYPE="本文" X="2760" Y="634" WIDTH="53" HEIGHT="1336" CONF="0.874" ORDER="0" STRING="山道に しば〓〓たゝずむ。 目にとめて見らく 32" />
+      <LINE TYPE="本文" X="2677" Y="812" WIDTH="49" HEIGHT="568" CONF="0.840" ORDER="1" STRING="さびしき木ぼっこの顏" />
+      <SHAPE>
+        <POLYGON POINTS="2680,633,2680,1970,2813,1970,2813,633" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.534">
+      <SHAPE>
+        <POLYGON POINTS="2532,805,2532,857,2554,857,2554,805" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.799">
+      <LINE TYPE="本文" X="2335" Y="744" WIDTH="54" HEIGHT="1220" CONF="0.847" ORDER="6" STRING="山峽の激ちの波のほの明り われを呼ぶ人の聲" />
+      <LINE TYPE="本文" X="2255" Y="747" WIDTH="41" HEIGHT="212" CONF="0.760" ORDER="8" STRING="を聞けり" />
+      <SHAPE>
+        <POLYGON POINTS="2255,741,2255,1964,2398,1964,2398,741" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.858">
+      <LINE TYPE="タイトル本文" X="1464" Y="926" WIDTH="61" HEIGHT="287" CONF="0.790" ORDER="11" STRING="供 養 塔" />
+      <SHAPE>
+        <POLYGON POINTS="1464,926,1464,1213,1525,1213,1525,926" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.893">
+      <LINE TYPE="本文" X="1274" Y="971" WIDTH="43" HEIGHT="851" CONF="0.909" ORDER="12" STRING="數多い馬塚の中に、 ま新しい馬頭觀音" />
+      <LINE TYPE="本文" X="1194" Y="981" WIDTH="46" HEIGHT="839" CONF="0.923" ORDER="13" STRING="の石塔婆の立つてゐるのは、 あはれで" />
+      <LINE TYPE="本文" X="1116" Y="975" WIDTH="43" HEIGHT="847" CONF="0.911" ORDER="14" STRING="ある。 又殆、 峠每に、 旅死にの墓があ" />
+      <LINE TYPE="本文" X="1036" Y="977" WIDTH="43" HEIGHT="860" CONF="0.916" ORDER="15" STRING="る。 中には、 業病の姿を家から隱して、" />
+      <LINE TYPE="本文" X="952" Y="976" WIDTH="47" HEIGHT="864" CONF="0.917" ORDER="16" STRING="死ぬるまでの旅に出た人のなどもある。" />
+      <SHAPE>
+        <POLYGON POINTS="957,970,957,1838,1315,1838,1315,970" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.756">
+      <LINE TYPE="本文" X="764" Y="744" WIDTH="53" HEIGHT="1214" CONF="0.840" ORDER="18" STRING="人も 馬も 道ゆきつかれ死にゝけり。 旅寢か" />
+      <LINE TYPE="本文" X="674" Y="624" WIDTH="46" HEIGHT="688" CONF="0.812" ORDER="21" STRING="さなるほどのかそけさ 33" />
+      <SHAPE>
+        <POLYGON POINTS="674,620,674,1959,815,1959,815,620" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2291" Y="2367" WIDTH="21" HEIGHT="20" CONF="0.455" />
+    <BLOCK TYPE="ルビ" X="2384" Y="799" WIDTH="23" HEIGHT="171" CONF="0.716" />
+    <BLOCK TYPE="ルビ" X="1161" Y="1545" WIDTH="19" HEIGHT="14" CONF="0.404" />
+    <BLOCK TYPE="ルビ" X="2385" Y="924" WIDTH="22" HEIGHT="46" CONF="0.309" />
+  </PAGE>
+</OCRDATASET>

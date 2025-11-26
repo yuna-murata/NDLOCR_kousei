@@ -1,0 +1,51 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000015.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.457">
+      <LINE TYPE="タイトル本文" X="2725" Y="950" WIDTH="59" HEIGHT="281" CONF="0.800" ORDER="4" STRING="氣 多 川" />
+      <SHAPE>
+        <POLYGON POINTS="2728,642,2728,1233,2846,1233,2846,642" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.271">
+      <LINE TYPE="本文" X="2548" Y="763" WIDTH="49" HEIGHT="1221" CONF="0.912" ORDER="5" STRING="きはまりて ものさびしき時すぎて、 麥うらし" />
+      <LINE TYPE="本文" X="2461" Y="762" WIDTH="43" HEIGHT="568" CONF="0.885" ORDER="6" STRING="ひとつ鳴き出でにけり" />
+      <LINE TYPE="本文" X="2283" Y="756" WIDTH="50" HEIGHT="1225" CONF="0.909" ORDER="8" STRING="麥うらしの聲 ひさしくなきつげり。 ひとつと" />
+      <LINE TYPE="本文" X="2198" Y="760" WIDTH="45" HEIGHT="625" CONF="0.818" ORDER="9" STRING="ころの、 をぐらくなれり" />
+      <LINE TYPE="本文" X="2022" Y="756" WIDTH="47" HEIGHT="1221" CONF="0.898" ORDER="12" STRING="むぎうらし ひとつ鳴き居し聲たえて、 ふたゝ" />
+      <LINE TYPE="本文" X="1935" Y="759" WIDTH="44" HEIGHT="627" CONF="0.892" ORDER="13" STRING="びは鳴かず。 山の寂けさ" />
+      <SHAPE>
+        <POLYGON POINTS="1930,750,1930,1987,2608,1987,2608,750" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.318">
+      <LINE TYPE="本文" X="1527" Y="746" WIDTH="65" HEIGHT="1212" CONF="0.931" ORDER="14" STRING="ふるき人 みなから我をそむきけむ 身のさび" />
+      <LINE TYPE="本文" X="1444" Y="745" WIDTH="49" HEIGHT="629" CONF="0.896" ORDER="15" STRING="しさよ。 むぎうらし鳴く" />
+      <LINE TYPE="本文" X="1313" Y="975" WIDTH="51" HEIGHT="853" CONF="0.904" ORDER="16" STRING="麥うらしは、 早蟬。 鳴いて、 麥にみを" />
+      <LINE TYPE="本文" X="1233" Y="975" WIDTH="49" HEIGHT="666" CONF="0.920" ORDER="17" STRING="入れる、 と言ふ考へからの名。" />
+      <SHAPE>
+        <POLYGON POINTS="1232,739,1232,1961,1588,1961,1588,739" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.351">
+      <SHAPE>
+        <POLYGON POINTS="1128,800,1128,847,1149,847,1149,800" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.772">
+      <LINE TYPE="本文" X="1001" Y="743" WIDTH="59" HEIGHT="1221" CONF="0.914" ORDER="21" STRING="山中に今日はあひたる ナカ 唯ひとりのをみな や" />
+      <LINE TYPE="本文" X="917" Y="753" WIDTH="47" HEIGHT="563" CONF="0.890" ORDER="20" STRING="つれて居たりけるかも" />
+      <SHAPE>
+        <POLYGON POINTS="918,741,918,1965,1059,1965,1059,741" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.866">
+      <LINE TYPE="本文" X="743" Y="755" WIDTH="58" HEIGHT="1213" CONF="0.917" ORDER="22" STRING="にぎはしく 人住みにけり。 はるかなる木むら" />
+      <LINE TYPE="本文" X="651" Y="633" WIDTH="53" HEIGHT="633" CONF="0.880" ORDER="23" STRING="の中ゆ 人わらふ聲 17" />
+      <SHAPE>
+        <POLYGON POINTS="651,631,651,1969,801,1969,801,631" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2809" Y="641" WIDTH="38" HEIGHT="26" CONF="0.253" />
+    <BLOCK TYPE="ルビ" X="1041" Y="801" WIDTH="23" HEIGHT="47" CONF="0.407" />
+  </PAGE>
+</OCRDATASET>

@@ -1,0 +1,23 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000010.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.847">
+      <LINE TYPE="タイトル本文" X="1477" Y="981" WIDTH="55" HEIGHT="283" CONF="0.708" ORDER="1" STRING="島 山" />
+      <SHAPE>
+        <POLYGON POINTS="1477,981,1477,1264,1531,1264,1531,981" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.318">
+      <LINE TYPE="本文" X="1289" Y="808" WIDTH="63" HEIGHT="1218" CONF="0.880" ORDER="2" STRING="葛の花 踏みしだかれて、 色あたらし。 この山" />
+      <LINE TYPE="本文" X="1203" Y="809" WIDTH="48" HEIGHT="449" CONF="0.863" ORDER="4" STRING="道を行きし人あり" />
+      <LINE TYPE="本文" X="1026" Y="808" WIDTH="63" HEIGHT="1218" CONF="0.886" ORDER="6" STRING="谷々に、 家居ちりぼひ ひそけさよ。 山の木の" />
+      <LINE TYPE="本文" X="940" Y="810" WIDTH="52" HEIGHT="511" CONF="0.826" ORDER="8" STRING="間に息づく。 われは" />
+      <LINE TYPE="本文" X="769" Y="772" WIDTH="61" HEIGHT="1264" CONF="0.859" ORDER="12" STRING="。山岸に、 晝を 地蟲の鳴き滿ち て、 このしづけ" />
+      <LINE TYPE="本文" X="677" Y="699" WIDTH="55" HEIGHT="688" CONF="0.790" ORDER="14" STRING="さ に 身はつかれたり" />
+      <SHAPE>
+        <POLYGON POINTS="681,687,681,2038,1347,2038,1347,687" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2122" Y="2319" WIDTH="20" HEIGHT="16" CONF="0.222" />
+    <BLOCK TYPE="ルビ" X="821" Y="1228" WIDTH="19" HEIGHT="25" CONF="0.302" />
+  </PAGE>
+</OCRDATASET>

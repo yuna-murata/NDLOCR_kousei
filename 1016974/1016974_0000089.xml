@@ -1,0 +1,57 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000089.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.760">
+      <LINE TYPE="本文" X="2877" Y="603" WIDTH="66" HEIGHT="1348" CONF="0.864" ORDER="0" STRING="曉近き瀁田の畦の 列並みに 螢はおきて、 火 164" />
+      <LINE TYPE="本文" X="2803" Y="726" WIDTH="40" HEIGHT="334" CONF="0.760" ORDER="2" STRING="をともしをり" />
+      <SHAPE>
+        <POLYGON POINTS="2804,599,2804,1951,2945,1951,2945,599" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.727">
+      <LINE TYPE="本文" X="2621" Y="728" WIDTH="52" HEIGHT="1225" CONF="0.886" ORDER="4" STRING="さみだれの夜ふけて敲く 誰ならむ。 まらうど" />
+      <LINE TYPE="本文" X="2534" Y="727" WIDTH="49" HEIGHT="627" CONF="0.817" ORDER="5" STRING="ならば、 明日來りたまへ" />
+      <SHAPE>
+        <POLYGON POINTS="2535,722,2535,1954,2673,1954,2673,722" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.523">
+      <LINE TYPE="本文" X="2357" Y="728" WIDTH="54" HEIGHT="1225" CONF="0.888" ORDER="8" STRING="さ夜風のとよみのなかに、 窓の火の消えで殘れ" />
+      <LINE TYPE="本文" X="2273" Y="726" WIDTH="42" HEIGHT="569" CONF="0.831" ORDER="9" STRING="る たふとくありけり" />
+      <SHAPE>
+        <POLYGON POINTS="2274,724,2274,1955,2410,1955,2410,724" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.690">
+      <LINE TYPE="本文" X="2091" Y="723" WIDTH="54" HEIGHT="1232" CONF="0.854" ORDER="11" STRING="鼠子の一夜のあれ に 寢そびれて、 曉はやく起" />
+      <LINE TYPE="本文" X="2004" Y="727" WIDTH="43" HEIGHT="331" CONF="0.805" ORDER="12" STRING="き て、 飯たく" />
+      <SHAPE>
+        <POLYGON POINTS="2003,722,2003,1957,2155,1957,2155,722" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.234">
+      <LINE TYPE="本文" X="1480" Y="727" WIDTH="72" HEIGHT="1235" CONF="0.786" ORDER="14" STRING="めう〓〓と あな うまくさき湯氣ふきて、 朝" />
+      <LINE TYPE="本文" X="1394" Y="725" WIDTH="59" HEIGHT="638" CONF="0.794" ORDER="15" STRING="餉白飯 シライヒ 熟みにけるかも" />
+      <LINE TYPE="本文" X="1217" Y="728" WIDTH="63" HEIGHT="1225" CONF="0.875" ORDER="18" STRING="くりやべのしづけき夜らのさびしもよ。 よべの" />
+      <LINE TYPE="本文" X="1131" Y="728" WIDTH="52" HEIGHT="575" CONF="0.833" ORDER="19" STRING="鼠の こよひはあれず" />
+      <LINE TYPE="本文" X="952" Y="730" WIDTH="66" HEIGHT="1230" CONF="0.867" ORDER="22" STRING="ゆふあへの胡瓜もみ瓜 醋にひでゝ、 まだしき" />
+      <LINE TYPE="本文" X="867" Y="729" WIDTH="50" HEIGHT="457" CONF="0.873" ORDER="24" STRING="味を 喜びまほる" />
+      <SHAPE>
+        <POLYGON POINTS="868,720,868,1969,1559,1969,1559,720" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.507">
+      <SHAPE>
+        <POLYGON POINTS="606,613,606,646,657,646,657,613" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="606" Y="614" WIDTH="51" HEIGHT="31" CONF="0.663" />
+    <BLOCK TYPE="ルビ" X="2052" Y="902" WIDTH="19" HEIGHT="47" CONF="0.587" />
+    <BLOCK TYPE="ルビ" X="2928" Y="738" WIDTH="26" HEIGHT="600" CONF="0.581" />
+    <BLOCK TYPE="ルビ" X="1008" Y="1399" WIDTH="23" HEIGHT="17" CONF="0.436" />
+    <BLOCK TYPE="ルビ" X="1440" Y="731" WIDTH="21" HEIGHT="268" CONF="0.409" />
+    <BLOCK TYPE="ルビ" X="2929" Y="707" WIDTH="27" HEIGHT="631" CONF="0.376" />
+    <BLOCK TYPE="ルビ" X="2150" Y="1943" WIDTH="19" HEIGHT="16" CONF="0.294" />
+    <BLOCK TYPE="ルビ" X="2933" Y="1248" WIDTH="23" HEIGHT="89" CONF="0.262" />
+    <BLOCK TYPE="ルビ" X="1543" Y="1922" WIDTH="26" HEIGHT="43" CONF="0.200" />
+  </PAGE>
+</OCRDATASET>

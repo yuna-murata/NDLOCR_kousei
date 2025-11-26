@@ -1,0 +1,42 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000083.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.723">
+      <LINE TYPE="本文" X="2775" Y="912" WIDTH="63" HEIGHT="287" CONF="0.625" ORDER="4" STRING="熊 野" />
+      <SHAPE>
+        <POLYGON POINTS="2774,603,2774,1199,2897,1199,2897,603" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.249">
+      <LINE TYPE="本文" X="2598" Y="722" WIDTH="46" HEIGHT="1221" CONF="0.865" ORDER="7" STRING="朝海の波のくづれに、 あるく鴉。 こゝの岸より" />
+      <LINE TYPE="本文" X="2514" Y="723" WIDTH="43" HEIGHT="393" CONF="0.872" ORDER="8" STRING="行くわれあるを" />
+      <SHAPE>
+        <POLYGON POINTS="2253,715,2253,1952,2643,1952,2643,715" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.259">
+      <LINE TYPE="本文" X="2325" Y="716" WIDTH="59" HEIGHT="1229" CONF="0.866" ORDER="9" STRING="鳥の鳴く朝山のぼ り、 わたつみのみなぎらふ光" />
+      <LINE TYPE="本文" X="2251" Y="723" WIDTH="44" HEIGHT="447" CONF="0.872" ORDER="10" STRING="りに、 頭をゆする" />
+      <LINE TYPE="本文" X="2072" Y="723" WIDTH="52" HEIGHT="1237" CONF="0.827" ORDER="12" STRING="朝の間の草原のいきれ。 疲れゆく 我を誰知ら" />
+      <LINE TYPE="本文" X="1990" Y="720" WIDTH="44" HEIGHT="396" CONF="0.872" ORDER="13" STRING="항 熊野の道に" />
+      <SHAPE>
+        <POLYGON POINTS="1990,717,1990,1960,2379,1960,2379,717" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.261">
+      <LINE TYPE="本文" X="1482" Y="723" WIDTH="76" HEIGHT="1214" CONF="0.893" ORDER="15" STRING="朝あつき村を來はなれ、 道なかに、 汗をふきつ" />
+      <LINE TYPE="本文" X="1399" Y="730" WIDTH="45" HEIGHT="503" CONF="0.867" ORDER="16" STRING="ものゝさびしさ" />
+      <LINE TYPE="タイトル本文" X="1205" Y="971" WIDTH="49" HEIGHT="232" CONF="0.741" ORDER="19" STRING="名 濱" />
+      <LINE TYPE="本文" X="1021" Y="728" WIDTH="77" HEIGHT="1221" CONF="0.919" ORDER="20" STRING="晝あつき家にこもれば、 濱風の まさごはあが" />
+      <LINE TYPE="本文" X="936" Y="734" WIDTH="50" HEIGHT="448" CONF="0.878" ORDER="21" STRING="る。 竹の簀の子に" />
+      <LINE TYPE="本文" X="757" Y="734" WIDTH="74" HEIGHT="1221" CONF="0.913" ORDER="23" STRING="夕かげの まほなるものか。 をちかたに 洲崎" />
+      <LINE TYPE="本文" X="667" Y="739" WIDTH="53" HEIGHT="511" CONF="0.814" ORDER="28" STRING="の沙の、 靜まれる色" />
+      <SHAPE>
+        <POLYGON POINTS="624,617,624,1961,1558,1961,1558,617" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2845" Y="604" WIDTH="53" HEIGHT="29" CONF="0.301" />
+    <BLOCK TYPE="ノンブル" X="623" Y="616" WIDTH="53" HEIGHT="32" CONF="0.294" />
+    <BLOCK TYPE="ルビ" X="2116" Y="964" WIDTH="23" HEIGHT="85" CONF="0.726" />
+    <BLOCK TYPE="ルビ" X="2117" Y="1687" WIDTH="22" HEIGHT="39" CONF="0.285" />
+  </PAGE>
+</OCRDATASET>

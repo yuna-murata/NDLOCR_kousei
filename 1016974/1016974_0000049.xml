@@ -1,0 +1,21 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000049.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.229">
+      <LINE TYPE="本文" X="2846" Y="694" WIDTH="82" HEIGHT="1336" CONF="0.858" ORDER="0" STRING="たま〓〓は 出でつゝ間ある兄の留守 待つに 84" />
+      <LINE TYPE="本文" X="2778" Y="815" WIDTH="61" HEIGHT="682" CONF="0.837" ORDER="1" STRING="しもあらず 親しみて居り" />
+      <LINE TYPE="本文" X="2583" Y="806" WIDTH="76" HEIGHT="1215" CONF="0.888" ORDER="4" STRING="若げなるおもわは、 今は とゝのほり、 叔母の" />
+      <LINE TYPE="本文" X="2518" Y="808" WIDTH="54" HEIGHT="622" CONF="0.829" ORDER="5" STRING="みことの 母さびいます" />
+      <LINE TYPE="本文" X="2317" Y="798" WIDTH="79" HEIGHT="1216" CONF="0.896" ORDER="8" STRING="遠くより 歸りあつまるはらからに、 事をへむ" />
+      <LINE TYPE="本文" X="2250" Y="799" WIDTH="57" HEIGHT="623" CONF="0.778" ORDER="9" STRING="日かず いくらも殘らず" />
+      <SHAPE>
+        <POLYGON POINTS="2245,667,2245,2039,2926,2039,2926,667" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.773">
+      <LINE TYPE="本文" X="1132" Y="777" WIDTH="71" HEIGHT="1039" CONF="0.671" ORDER="12" STRING="大 正 八 年 -百二十七首-" />
+      <SHAPE>
+        <POLYGON POINTS="1132,777,1132,1816,1203,1816,1203,777" />
+      </SHAPE>
+    </TEXTBLOCK>
+  </PAGE>
+</OCRDATASET>

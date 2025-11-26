@@ -1,0 +1,41 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000112.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.427">
+      <LINE TYPE="タイトル本文" X="2818" Y="892" WIDTH="49" HEIGHT="329" CONF="0.673" ORDER="4" STRING="徒 生 四" />
+      <SHAPE>
+        <POLYGON POINTS="2818,587,2818,1222,2937,1222,2937,587" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.213">
+      <LINE TYPE="本文" X="2627" Y="698" WIDTH="48" HEIGHT="1228" CONF="0.894" ORDER="5" STRING="小鳥 小鳥 あたふた起ちぬ。 かたらひのはて" />
+      <LINE TYPE="本文" X="2541" Y="698" WIDTH="46" HEIGHT="694" CONF="0.870" ORDER="6" STRING="がたさびし。 向日葵の照る" />
+      <LINE TYPE="本文" X="2366" Y="696" WIDTH="48" HEIGHT="1232" CONF="0.892" ORDER="8" STRING="はるしや菊 心まどひにゆらぐらし。 瞳かゞや" />
+      <LINE TYPE="本文" X="2278" Y="697" WIDTH="41" HEIGHT="333" CONF="0.828" ORDER="9" STRING="く少年のむれ" />
+      <LINE TYPE="本文" X="2098" Y="695" WIDTH="48" HEIGHT="1230" CONF="0.892" ORDER="11" STRING="かの子こそ われには似つゝものはいへ。 十年" />
+      <LINE TYPE="本文" X="2012" Y="697" WIDTH="46" HEIGHT="627" CONF="0.859" ORDER="12" STRING="の悔いにしづむ目に來て" />
+      <SHAPE>
+        <POLYGON POINTS="2012,683,2012,1933,2913,1933,2913,683" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.417">
+      <LINE TYPE="本文" X="1442" Y="691" WIDTH="42" HEIGHT="1239" CONF="0.897" ORDER="15" STRING="人の師となりて ふた月。 やう〓〓に あらた" />
+      <LINE TYPE="本文" X="1357" Y="690" WIDTH="42" HEIGHT="581" CONF="0.833" ORDER="16" STRING="まりゆく心 はかなし" />
+      <LINE TYPE="本文" X="1176" Y="688" WIDTH="45" HEIGHT="1236" CONF="0.892" ORDER="19" STRING="わかやかに こゝちはなやぎあるものを。 さび" />
+      <LINE TYPE="本文" X="1091" Y="692" WIDTH="44" HEIGHT="694" CONF="0.865" ORDER="20" STRING="しくなりぬ。 子らを〓へて" />
+      <LINE TYPE="本文" X="908" Y="688" WIDTH="48" HEIGHT="1237" CONF="0.875" ORDER="21" STRING="おろ〓〓 に 淚ごゑして來つる子よ。 さはなわ" />
+      <LINE TYPE="本文" X="825" Y="693" WIDTH="46" HEIGHT="634" CONF="0.836" ORDER="22" STRING="びそね。 われもさびしき" />
+      <SHAPE>
+        <POLYGON POINTS="561,626,561,1934,1477,1934,1477,626" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.625">
+      <LINE TYPE="本文" X="641" Y="694" WIDTH="49" HEIGHT="1228" CONF="0.877" ORDER="24" STRING="いくたびか うたむとあぐる鞭のした、 おぢか" />
+      <LINE TYPE="本文" X="563" Y="567" WIDTH="51" HEIGHT="756" CONF="0.741" ORDER="25" STRING="しこまる子を泣きにけり 211" />
+      <SHAPE>
+        <POLYGON POINTS="563,571,563,1923,690,1923,690,571" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2880" Y="586" WIDTH="58" HEIGHT="21" CONF="0.359" />
+    <BLOCK TYPE="ルビ" X="2677" Y="1294" WIDTH="19" HEIGHT="18" CONF="0.516" />
+  </PAGE>
+</OCRDATASET>

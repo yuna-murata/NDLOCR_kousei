@@ -1,0 +1,58 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000013.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.858">
+      <LINE TYPE="本文" X="2826" Y="626" WIDTH="47" HEIGHT="1339" CONF="0.872" ORDER="0" STRING="△蜑をのこ あびき張る脚すね長に、 あかき禪高 12" />
+      <LINE TYPE="本文" X="2743" Y="738" WIDTH="41" HEIGHT="457" CONF="0.820" ORDER="1" STRING="く、 ゆひ固めたり" />
+      <SHAPE>
+        <POLYGON POINTS="2743,624,2743,1966,2888,1966,2888,624" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.812">
+      <LINE TYPE="本文" X="2565" Y="710" WIDTH="46" HEIGHT="1251" CONF="0.889" ORDER="4" STRING="ああびとる蜑のをとこの赤きへ こ 目にしむ色" />
+      <LINE TYPE="本文" X="2479" Y="745" WIDTH="44" HEIGHT="445" CONF="0.808" ORDER="5" STRING="か。 浪がくれつゝ" />
+      <SHAPE>
+        <POLYGON POINTS="2479,710,2479,1962,2610,1962,2610,710" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.802">
+      <LINE TYPE="本文" X="2304" Y="738" WIDTH="46" HEIGHT="1218" CONF="0.896" ORDER="8" STRING="蜑の子のかづき苦しみ 吐ける息を、 旅にし聞" />
+      <LINE TYPE="本文" X="2221" Y="738" WIDTH="40" HEIGHT="627" CONF="0.874" ORDER="10" STRING="けば、 かそけくありけり" />
+      <SHAPE>
+        <POLYGON POINTS="2223,733,2223,1958,2350,1958,2350,733" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.841">
+      <LINE TYPE="本文" X="2043" Y="702" WIDTH="47" HEIGHT="1255" CONF="0.884" ORDER="11" STRING="〓行きずりの旅と、 われ思ふ。 蜑びとの素肌の に" />
+      <LINE TYPE="本文" X="1958" Y="740" WIDTH="40" HEIGHT="570" CONF="0.834" ORDER="12" STRING="ほひ まさびしくあり" />
+      <SHAPE>
+        <POLYGON POINTS="1959,704,1959,1957,2090,1957,2090,704" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.853">
+      <LINE TYPE="本文" X="1568" Y="742" WIDTH="73" HEIGHT="1219" CONF="0.924" ORDER="15" STRING="赤ふどしのまあたらしさよ。 わかければ、 この" />
+      <LINE TYPE="本文" X="1483" Y="744" WIDTH="54" HEIGHT="628" CONF="0.879" ORDER="16" STRING="蜑の子も、 ものを思へり" />
+      <SHAPE>
+        <POLYGON POINTS="1487,743,1487,1963,1639,1963,1639,743" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.241">
+      <LINE TYPE="本文" X="1305" Y="747" WIDTH="76" HEIGHT="1223" CONF="0.919" ORDER="18" STRING="蜑の子や あかきそびらの盛り肉の、 もり膨れ" />
+      <LINE TYPE="本文" X="1224" Y="755" WIDTH="47" HEIGHT="505" CONF="0.847" ORDER="20" STRING="つゝ、 舟漕ぎにけり" />
+      <LINE TYPE="本文" X="1046" Y="753" WIDTH="70" HEIGHT="1216" CONF="0.923" ORDER="22" STRING="あぢきなく 旅やつゞけむ。 蜑が子の心生きつ" />
+      <LINE TYPE="本文" X="960" Y="761" WIDTH="53" HEIGHT="504" CONF="0.845" ORDER="23" STRING="ゝはたらく 見れば" />
+      <SHAPE>
+        <POLYGON POINTS="961,747,961,1975,1384,1975,1384,747" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.895">
+      <LINE TYPE="本文" X="778" Y="755" WIDTH="72" HEIGHT="1222" CONF="0.902" ORDER="27" STRING="蜑をのこのふるまひ見れば さびしさよ。 脛長" />
+      <LINE TYPE="本文" X="694" Y="641" WIDTH="50" HEIGHT="684" CONF="0.856" ORDER="28" STRING="々 と 砂のうへに居り 13" />
+      <SHAPE>
+        <POLYGON POINTS="696,638,696,1978,848,1978,848,638" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="1373" Y="1573" WIDTH="19" HEIGHT="40" CONF="0.571" />
+    <BLOCK TYPE="ルビ" X="2873" Y="1875" WIDTH="24" HEIGHT="37" CONF="0.465" />
+    <BLOCK TYPE="ルビ" X="2015" Y="1195" WIDTH="19" HEIGHT="16" CONF="0.223" />
+  </PAGE>
+</OCRDATASET>

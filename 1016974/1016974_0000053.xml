@@ -1,0 +1,41 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000053.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.391">
+      <SHAPE>
+        <POLYGON POINTS="2933,689,2933,717,2971,717,2971,689" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.786">
+      <LINE TYPE="タイトル本文" X="2837" Y="1029" WIDTH="46" HEIGHT="272" CONF="0.730" ORDER="4" STRING="兒 島 鹿" />
+      <SHAPE>
+        <POLYGON POINTS="2838,1029,2838,1301,2882,1301,2882,1029" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.403">
+      <LINE TYPE="本文" X="2636" Y="795" WIDTH="73" HEIGHT="1218" CONF="0.901" ORDER="5" STRING="島山のうへに ひろがる笠雲あり。 日の後の空" />
+      <LINE TYPE="本文" X="2571" Y="794" WIDTH="51" HEIGHT="450" CONF="0.857" ORDER="6" STRING="は、 底あかりして" />
+      <LINE TYPE="本文" X="2379" Y="787" WIDTH="65" HEIGHT="1161" CONF="0.904" ORDER="9" STRING="ゑまひのにほひ なほいわけなき子を見まく" />
+      <LINE TYPE="本文" X="2306" Y="782" WIDTH="54" HEIGHT="688" CONF="0.903" ORDER="10" STRING="筑紫には來つ。 心たゆむな" />
+      <LINE TYPE="本文" X="2111" Y="776" WIDTH="72" HEIGHT="1220" CONF="0.893" ORDER="12" STRING="憎みつゝ來し汝がうなじに 骨いでゝ 痩せた" />
+      <LINE TYPE="本文" X="2043" Y="778" WIDTH="67" HEIGHT="507" CONF="0.748" ORDER="13" STRING="る後姿見むと思べ や" />
+      <SHAPE>
+        <POLYGON POINTS="2041,772,2041,2013,2706,2013,2706,772" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.242">
+      <LINE TYPE="本文" X="1529" Y="782" WIDTH="55" HEIGHT="1221" CONF="0.879" ORDER="14" STRING="うなだれて、 汝はあゆめり 渚の道。 憎しと思" />
+      <LINE TYPE="本文" X="1445" Y="787" WIDTH="41" HEIGHT="331" CONF="0.847" ORDER="15" STRING="ふ心にあらず" />
+      <LINE TYPE="本文" X="1264" Y="784" WIDTH="60" HEIGHT="1221" CONF="0.897" ORDER="17" STRING="憎みがたき心はさびし。 島山の綠かげろふ時を" />
+      <LINE TYPE="本文" X="1179" Y="786" WIDTH="46" HEIGHT="215" CONF="0.761" ORDER="18" STRING="經につゝ" />
+      <LINE TYPE="本文" X="1004" Y="785" WIDTH="55" HEIGHT="1219" CONF="0.881" ORDER="21" STRING="汝が心そむけるを知る。 山路ゆき いきどほろ" />
+      <LINE TYPE="本文" X="923" Y="793" WIDTH="47" HEIGHT="684" CONF="0.862" ORDER="22" STRING="しくして、 もの言ひがたし" />
+      <LINE TYPE="本文" X="741" Y="729" WIDTH="59" HEIGHT="1270" CONF="0.843" ORDER="24" STRING="叱りつゝ もの言ふ夜はの牀のうちに、 こたへ" />
+      <LINE TYPE="本文" X="656" Y="676" WIDTH="49" HEIGHT="803" CONF="0.863" ORDER="28" STRING="せぬ子を あやぶみにけり 93" />
+      <SHAPE>
+        <POLYGON POINTS="663,716,663,2014,1590,2014,1590,716" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2933" Y="689" WIDTH="38" HEIGHT="28" CONF="0.481" />
+    <BLOCK TYPE="ルビ" X="2097" Y="839" WIDTH="21" HEIGHT="74" CONF="0.403" />
+  </PAGE>
+</OCRDATASET>

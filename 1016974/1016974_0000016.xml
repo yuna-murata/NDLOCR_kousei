@@ -1,0 +1,34 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000016.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.245">
+      <LINE TYPE="本文" X="2829" Y="636" WIDTH="42" HEIGHT="1338" CONF="0.871" ORDER="4" STRING="これの世は、 さびしきかもよ。 奥山も、 ひとり 18" />
+      <LINE TYPE="本文" X="2744" Y="757" WIDTH="41" HEIGHT="565" CONF="0.854" ORDER="0" STRING="人住む家は さねなし" />
+      <LINE TYPE="本文" X="2564" Y="666" WIDTH="48" HEIGHT="1307" CONF="0.854" ORDER="5" STRING="〓〓氣多川のさやけき見れば、 をち方のかじかの聲" />
+      <LINE TYPE="本文" X="2483" Y="756" WIDTH="42" HEIGHT="510" CONF="0.804" ORDER="6" STRING="は しづけかりけり" />
+      <LINE TYPE="本文" X="2303" Y="724" WIDTH="46" HEIGHT="1249" CONF="0.887" ORDER="9" STRING="ひひがほのいまださびしきいろひかも。 朝の間" />
+      <LINE TYPE="本文" X="2222" Y="752" WIDTH="40" HEIGHT="629" CONF="0.842" ORDER="10" STRING="と思ふ日は 照りみてり" />
+      <LINE TYPE="本文" X="2038" Y="658" WIDTH="56" HEIGHT="1311" CONF="0.783" ORDER="13" STRING="あさ茅原 つばな輝く日の光り まほにし見れ" />
+      <LINE TYPE="本文" X="1963" Y="749" WIDTH="40" HEIGHT="450" CONF="0.745" ORDER="15" STRING="ば、 風そよぎけり" />
+      <SHAPE>
+        <POLYGON POINTS="1957,632,1957,1981,2875,1981,2875,632" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.596">
+      <LINE TYPE="本文" X="1531" Y="702" WIDTH="55" HEIGHT="1225" CONF="0.784" ORDER="21" STRING="家裏に 鳴きつゝうつる鶏の聲。 茅の家壁を風" />
+      <LINE TYPE="本文" X="1460" Y="709" WIDTH="38" HEIGHT="272" CONF="0.800" ORDER="23" STRING="とほり吹く" />
+      <SHAPE>
+        <POLYGON POINTS="1461,611,1461,1926,1615,1926,1615,611" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.378">
+      <SHAPE>
+        <POLYGON POINTS="691,593,691,621,727,621,727,593" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="690" Y="594" WIDTH="37" HEIGHT="26" CONF="0.657" />
+    <BLOCK TYPE="ルビ" X="2085" Y="869" WIDTH="25" HEIGHT="99" CONF="0.639" />
+    <BLOCK TYPE="ルビ" X="1578" Y="1715" WIDTH="18" HEIGHT="18" CONF="0.542" />
+    <BLOCK TYPE="ルビ" X="2612" Y="755" WIDTH="25" HEIGHT="17" CONF="0.355" />
+    <BLOCK TYPE="組織図" X="1461" Y="611" WIDTH="154" HEIGHT="1315" CONF="0.251" />
+  </PAGE>
+</OCRDATASET>

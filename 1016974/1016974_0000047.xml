@@ -1,0 +1,44 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000047.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.563">
+      <LINE TYPE="本文" X="2807" Y="1000" WIDTH="55" HEIGHT="54" CONF="0.550" ORDER="2" STRING="母" />
+      <SHAPE>
+        <POLYGON POINTS="2806,687,2806,1055,2938,1055,2938,687" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.794">
+      <LINE TYPE="本文" X="2611" Y="808" WIDTH="54" HEIGHT="1212" CONF="0.884" ORDER="7" STRING="この心 悔ゆとか言はも。 ひとりの おやをか" />
+      <LINE TYPE="本文" X="2534" Y="801" WIDTH="44" HEIGHT="630" CONF="0.847" ORDER="8" STRING="そけく 死なせたるかも" />
+      <SHAPE>
+        <POLYGON POINTS="2537,800,2537,2020,2664,2020,2664,800" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.595">
+      <LINE TYPE="本文" X="2347" Y="799" WIDTH="60" HEIGHT="1220" CONF="0.846" ORDER="11" STRING="かみそりの銳刃の動きに おどろけど、 目つぶ" />
+      <LINE TYPE="本文" X="2273" Y="797" WIDTH="45" HEIGHT="627" CONF="0.842" ORDER="14" STRING="りがたし。 母を剃りつゝ" />
+      <LINE TYPE="本文" X="2086" Y="788" WIDTH="53" HEIGHT="1221" CONF="0.895" ORDER="16" STRING="あわたゞしく 母がむくろをはふり去る心とも" />
+      <LINE TYPE="本文" X="2009" Y="785" WIDTH="47" HEIGHT="511" CONF="0.827" ORDER="17" STRING="なし。 夜はの霜ふみ" />
+      <SHAPE>
+        <POLYGON POINTS="2010,780,2010,2016,2416,2016,2416,780" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.207">
+      <LINE TYPE="本文" X="1561" Y="769" WIDTH="51" HEIGHT="1217" CONF="0.897" ORDER="19" STRING="見おろせば、 膿涌きにごるさかひ川 この里い" />
+      <LINE TYPE="本文" X="1475" Y="782" WIDTH="45" HEIGHT="444" CONF="0.839" ORDER="21" STRING="でぬ母が世なりし" />
+      <LINE TYPE="本文" X="1301" Y="776" WIDTH="52" HEIGHT="1213" CONF="0.905" ORDER="22" STRING="まれ〓〓は、 土におちつくあわ雪の 消えつゝ" />
+      <LINE TYPE="本文" X="1214" Y="834" WIDTH="45" HEIGHT="508" CONF="0.817" ORDER="23" STRING="庭のまねく濡れたり" />
+      <LINE TYPE="本文" X="1035" Y="776" WIDTH="53" HEIGHT="1212" CONF="0.898" ORDER="26" STRING="苔つかぬ庭のすゑ石 面かわき、 雨あがりつゝ" />
+      <LINE TYPE="本文" X="951" Y="835" WIDTH="44" HEIGHT="272" CONF="0.700" ORDER="27" STRING="晝の久しさ" />
+      <LINE TYPE="本文" X="776" Y="775" WIDTH="52" HEIGHT="1216" CONF="0.907" ORDER="30" STRING="古庭と荒れゆくつぼも ほがらかに、 晝のみ空" />
+      <LINE TYPE="本文" X="689" Y="655" WIDTH="44" HEIGHT="526" CONF="0.810" ORDER="31" STRING="煙さがるも ゆ 81" />
+      <SHAPE>
+        <POLYGON POINTS="693,702,693,2000,1623,2000,1623,702" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2898" Y="690" WIDTH="40" HEIGHT="27" CONF="0.221" />
+    <BLOCK TYPE="ルビ" X="1086" Y="1373" WIDTH="20" HEIGHT="41" CONF="0.499" />
+    <BLOCK TYPE="ルビ" X="1606" Y="1119" WIDTH="19" HEIGHT="92" CONF="0.479" />
+    <BLOCK TYPE="ルビ" X="2405" Y="1101" WIDTH="19" HEIGHT="82" CONF="0.321" />
+    <BLOCK TYPE="ルビ" X="1604" Y="1124" WIDTH="19" HEIGHT="860" CONF="0.204" />
+  </PAGE>
+</OCRDATASET>

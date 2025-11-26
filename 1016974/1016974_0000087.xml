@@ -1,0 +1,53 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000087.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.823">
+      <LINE TYPE="本文" X="2884" Y="602" WIDTH="53" HEIGHT="1349" CONF="0.856" ORDER="0" STRING="はるけく わかれ來にけり。 ま晝日の照りしむ 160" />
+      <LINE TYPE="本文" X="2803" Y="723" WIDTH="45" HEIGHT="511" CONF="0.752" ORDER="2" STRING="街に、 顯つおもかげ" />
+      <SHAPE>
+        <POLYGON POINTS="2802,602,2802,1950,2936,1950,2936,602" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.711">
+      <LINE TYPE="本文" X="2627" Y="724" WIDTH="45" HEIGHT="1217" CONF="0.899" ORDER="5" STRING="ま晝日のかゞやく道に立つほこり 羅紗のざう" />
+      <LINE TYPE="本文" X="2542" Y="723" WIDTH="42" HEIGHT="571" CONF="0.789" ORDER="6" STRING="りの、 目にいちじるし" />
+      <SHAPE>
+        <POLYGON POINTS="2543,694,2543,1942,2672,1942,2672,694" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.804">
+      <LINE TYPE="本文" X="2362" Y="717" WIDTH="44" HEIGHT="1221" CONF="0.885" ORDER="9" STRING="街のはて 一樹の立ちのうちけぶり、 遠目ゆう" />
+      <LINE TYPE="本文" X="2279" Y="722" WIDTH="42" HEIGHT="862" CONF="0.877" ORDER="10" STRING="かり 川あるらしも 「ゆうかり」木の名。" />
+      <SHAPE>
+        <POLYGON POINTS="2280,715,2280,1940,2407,1940,2407,715" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.793">
+      <LINE TYPE="本文" X="2102" Y="717" WIDTH="45" HEIGHT="1223" CONF="0.874" ORDER="13" STRING="目の下に おしなみ光る町の屋根。 こゝに、 ひ" />
+      <LINE TYPE="本文" X="2014" Y="722" WIDTH="44" HEIGHT="566" CONF="0.846" ORDER="14" STRING="とり わかれ來にけり" />
+      <SHAPE>
+        <POLYGON POINTS="2014,716,2014,1942,2148,1942,2148,716" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.217">
+      <LINE TYPE="タイトル本文" X="1392" Y="932" WIDTH="64" HEIGHT="345" CONF="0.648" ORDER="16" STRING="鑚 庵 仰" />
+      <SHAPE>
+        <POLYGON POINTS="1130,739,1130,1971,1443,1971,1443,739" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.237">
+      <LINE TYPE="本文" X="1212" Y="746" WIDTH="69" HEIGHT="1223" CONF="0.875" ORDER="18" STRING="うつり來て 麥原廣原 たゞなかに、 夜もすが" />
+      <LINE TYPE="本文" X="1128" Y="748" WIDTH="47" HEIGHT="509" CONF="0.796" ORDER="19" STRING="ら 燭す庵なりけり" />
+      <LINE TYPE="本文" X="950" Y="744" WIDTH="66" HEIGHT="1227" CONF="0.901" ORDER="21" STRING="豐多摩の麥原のなかに、 さ夜深く覺めてしはぶ" />
+      <LINE TYPE="本文" X="868" Y="750" WIDTH="45" HEIGHT="510" CONF="0.846" ORDER="22" STRING="く。 ともし火のもと" />
+      <LINE TYPE="本文" X="689" Y="755" WIDTH="61" HEIGHT="1219" CONF="0.886" ORDER="24" STRING="こよひ早 夜なか過ぐらし。 東京の 空のあか" />
+      <LINE TYPE="本文" X="596" Y="630" WIDTH="51" HEIGHT="572" CONF="0.688" ORDER="25" STRING="りは薄れたりけり 161" />
+      <SHAPE>
+        <POLYGON POINTS="603,611,603,1980,1290,1980,1290,611" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="1258" Y="1106" WIDTH="24" HEIGHT="82" CONF="0.474" />
+    <BLOCK TYPE="ルビ" X="2849" Y="899" WIDTH="20" HEIGHT="18" CONF="0.457" />
+    <BLOCK TYPE="ルビ" X="1168" Y="867" WIDTH="21" HEIGHT="47" CONF="0.319" />
+    <BLOCK TYPE="ルビ" X="1259" Y="1096" WIDTH="23" HEIGHT="858" CONF="0.203" />
+  </PAGE>
+</OCRDATASET>

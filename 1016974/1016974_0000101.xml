@@ -1,0 +1,42 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000101.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.485">
+      <LINE TYPE="タイトル本文" X="2763" Y="912" WIDTH="62" HEIGHT="281" CONF="0.634" ORDER="5" STRING="七 日 初" />
+      <SHAPE>
+        <POLYGON POINTS="2763,601,2763,1194,2896,1194,2896,601" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.820">
+      <LINE TYPE="本文" X="2530" Y="951" WIDTH="52" HEIGHT="588" CONF="0.605" ORDER="6" STRING="今西甚三郞のために" />
+      <SHAPE>
+        <POLYGON POINTS="2530,950,2530,1539,2582,1539,2582,950" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.490">
+      <LINE TYPE="本文" X="2304" Y="713" WIDTH="62" HEIGHT="1222" CONF="0.885" ORDER="8" STRING="この家の伊豫簾のなかに、 汗かきて 酒のみを" />
+      <LINE TYPE="本文" X="2237" Y="708" WIDTH="41" HEIGHT="393" CONF="0.802" ORDER="10" STRING="らむ心にあらず" />
+      <LINE TYPE="本文" X="2042" Y="700" WIDTH="63" HEIGHT="1226" CONF="0.879" ORDER="16" STRING="わが前に、 ふたり立ち舞ふ をみな子の手ぶり" />
+      <LINE TYPE="本文" X="1968" Y="695" WIDTH="50" HEIGHT="696" CONF="0.875" ORDER="15" STRING="見まもり、 いぶかしくあり" />
+      <SHAPE>
+        <POLYGON POINTS="1969,695,1969,1935,2362,1935,2362,695" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.339">
+      <LINE TYPE="本文" X="1524" Y="721" WIDTH="43" HEIGHT="1224" CONF="0.891" ORDER="17" STRING="今日の日の すべなきかもよ。 おもしろき手ぶ" />
+      <LINE TYPE="本文" X="1436" Y="723" WIDTH="46" HEIGHT="631" CONF="0.844" ORDER="18" STRING="りを見れば、 心哭かれぬ" />
+      <LINE TYPE="本文" X="1260" Y="720" WIDTH="44" HEIGHT="1226" CONF="0.873" ORDER="20" STRING="初七日のほとけを持てり。 この酒に、 今し く" />
+      <LINE TYPE="本文" X="1175" Y="721" WIDTH="42" HEIGHT="689" CONF="0.849" ORDER="22" STRING="るしく 醉ひてあるべしや" />
+      <LINE TYPE="本文" X="993" Y="714" WIDTH="47" HEIGHT="1228" CONF="0.861" ORDER="24" STRING="夕かげに 呆れつゝ居れば、 蜩も 今は聲絕え" />
+      <LINE TYPE="本文" X="910" Y="777" WIDTH="41" HEIGHT="392" CONF="0.670" ORDER="25" STRING="しづまりにけり" />
+      <LINE TYPE="本文" X="731" Y="713" WIDTH="46" HEIGHT="1229" CONF="0.878" ORDER="28" STRING="生き死にの悠なるものか。 うつそみの人のわか" />
+      <LINE TYPE="本文" X="645" Y="590" WIDTH="52" HEIGHT="695" CONF="0.769" ORDER="29" STRING="れに、 目をとぢにつゝ 189" />
+      <SHAPE>
+        <POLYGON POINTS="648,604,648,1967,1570,1967,1570,604" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2845" Y="601" WIDTH="52" HEIGHT="30" CONF="0.304" />
+    <BLOCK TYPE="ルビ" X="776" Y="1006" WIDTH="23" HEIGHT="44" CONF="0.595" />
+    <BLOCK TYPE="ルビ" X="2362" Y="1075" WIDTH="23" HEIGHT="22" CONF="0.590" />
+    <BLOCK TYPE="ルビ" X="1038" Y="1018" WIDTH="21" HEIGHT="26" CONF="0.519" />
+  </PAGE>
+</OCRDATASET>

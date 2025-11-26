@@ -1,0 +1,39 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000131.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.909">
+      <LINE TYPE="本文" X="2926" Y="679" WIDTH="71" HEIGHT="1296" CONF="0.808" ORDER="0" STRING="での一年あまりを、家に居て、所在ない日を送つた。" />
+      <LINE TYPE="本文" X="2832" Y="770" WIDTH="72" HEIGHT="1202" CONF="0.893" ORDER="1" STRING="間に、大阪根岸短歌會の集りに加つて、安江不空さん·花田" />
+      <LINE TYPE="本文" X="2742" Y="764" WIDTH="70" HEIGHT="1210" CONF="0.852" ORDER="2" STRING="比露思さん·外山家人さん等から、今まで思ひ及ばなかつ" />
+      <LINE TYPE="本文" X="2653" Y="759" WIDTH="67" HEIGHT="1022" CONF="0.920" ORDER="3" STRING="た、靜かに、澄んだ境涯のある事を見知らされた。" />
+      <LINE TYPE="本文" X="2556" Y="755" WIDTH="73" HEIGHT="1210" CONF="0.916" ORDER="4" STRING="根岸派の會には、東京をひき拂ふま へ、二度、子規庵での歌" />
+      <LINE TYPE="本文" X="2463" Y="752" WIDTH="71" HEIGHT="1204" CONF="0.929" ORDER="5" STRING="會に出て、晩年の左千夫先生も見、若 い茂吉·千 樫·純·文明の" />
+      <LINE TYPE="本文" X="2392" Y="748" WIDTH="52" HEIGHT="613" CONF="0.898" ORDER="6" STRING="方々の顏をも、記憶してゐる。" />
+      <LINE TYPE="本文" X="2278" Y="745" WIDTH="71" HEIGHT="1208" CONF="0.923" ORDER="7" STRING="その頃、東西の根岸のよりあひに、いつも、第一に出された" />
+      <LINE TYPE="本文" X="2185" Y="740" WIDTH="73" HEIGHT="1212" CONF="0.922" ORDER="8" STRING="當座の題は、「席上卽景」であつた。 此が非常に、私に影響し" />
+      <LINE TYPE="本文" X="2093" Y="741" WIDTH="72" HEIGHT="1223" CONF="0.922" ORDER="9" STRING="た。 併し、鈍根の上に我に執し勝ちの私には、其が急には、" />
+      <LINE TYPE="本文" X="2005" Y="730" WIDTH="70" HEIGHT="1080" CONF="0.896" ORDER="10" STRING="效果を顯さなかつた。 早い話が、子規庵の「當座」に、" />
+      <SHAPE>
+        <POLYGON POINTS="2011,686,2011,1980,2995,1980,2995,686" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.746">
+      <LINE TYPE="本文" X="1528" Y="829" WIDTH="68" HEIGHT="1072" CONF="0.866" ORDER="12" STRING="杉垣の隣のへだて 上じろみ、 夜目ひやゝけし。" />
+      <LINE TYPE="本文" X="1438" Y="832" WIDTH="43" HEIGHT="241" CONF="0.733" ORDER="16" STRING="月の夜の霜" />
+      <LINE TYPE="本文" X="1343" Y="729" WIDTH="68" HEIGHT="1211" CONF="0.930" ORDER="17" STRING="當時非常に若かつた文明さんが、激賞してくれた。 それ" />
+      <LINE TYPE="本文" X="1252" Y="735" WIDTH="69" HEIGHT="1203" CONF="0.932" ORDER="19" STRING="で、其時の幼稚な感謝と、好意とを、後年まで、同氏にむかう" />
+      <LINE TYPE="本文" X="1160" Y="738" WIDTH="68" HEIGHT="1206" CONF="0.929" ORDER="20" STRING="て持ちつゞけた事だ。 が、此歌は實感を逸した形ばかり" />
+      <LINE TYPE="本文" X="1067" Y="739" WIDTH="71" HEIGHT="1205" CONF="0.929" ORDER="21" STRING="のものである。 根岸派の寫生を表面學びながら、實相に" />
+      <LINE TYPE="本文" X="977" Y="736" WIDTH="67" HEIGHT="1210" CONF="0.929" ORDER="22" STRING="迫らないで、輕い詠歎に逃げてゐる。 語の綾で美を盛り" />
+      <LINE TYPE="本文" X="888" Y="740" WIDTH="66" HEIGHT="1208" CONF="0.926" ORDER="23" STRING="立てよう、としてゐる。 歌に出て居る文法意識は、躬治風" />
+      <LINE TYPE="本文" X="795" Y="742" WIDTH="67" HEIGHT="1207" CONF="0.927" ORDER="24" STRING="であり、修辭法は、前明星末期の姿である。 だが、かう言ふ" />
+      <LINE TYPE="本文" X="702" Y="743" WIDTH="70" HEIGHT="1228" CONF="0.925" ORDER="25" STRING="間に、次第に腹の据ゑどころが、段々きまつて行つたのも、" />
+      <LINE TYPE="本文" X="606" Y="656" WIDTH="47" HEIGHT="340" CONF="0.535" ORDER="26" STRING="9 事實である。" />
+      <SHAPE>
+        <POLYGON POINTS="618,646,618,1967,1593,1967,1593,646" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2127" Y="2369" WIDTH="22" HEIGHT="19" CONF="0.356" />
+    <BLOCK TYPE="ルビ" X="2894" Y="1577" WIDTH="18" HEIGHT="12" CONF="0.413" />
+    <BLOCK TYPE="ルビ" X="1584" Y="1284" WIDTH="18" HEIGHT="44" CONF="0.298" />
+  </PAGE>
+</OCRDATASET>

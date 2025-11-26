@@ -1,0 +1,46 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000048.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.819">
+      <LINE TYPE="本文" X="2850" Y="645" WIDTH="68" HEIGHT="1339" CONF="0.852" ORDER="0" STRING="町なかの煤ふる庭は、 ふきの薹たちよごれつゝ 82" />
+      <LINE TYPE="本文" X="2780" Y="828" WIDTH="47" HEIGHT="329" CONF="0.778" ORDER="1" STRING="土からび居り" />
+      <SHAPE>
+        <POLYGON POINTS="2785,645,2785,1985,2915,1985,2915,645" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.786">
+      <LINE TYPE="本文" X="2589" Y="755" WIDTH="58" HEIGHT="1223" CONF="0.887" ORDER="4" STRING="庭の木の立ち枯れ見れば、 白じろと 幹にあま" />
+      <LINE TYPE="本文" X="2512" Y="759" WIDTH="49" HEIGHT="510" CONF="0.848" ORDER="5" STRING="りて、 蟲むれとべり" />
+      <SHAPE>
+        <POLYGON POINTS="2512,754,2512,1980,2646,1980,2646,754" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.262">
+      <LINE TYPE="注" X="2377" Y="753" WIDTH="31" HEIGHT="150" CONF="0.356" ORDER="9" STRING="フタ ナノ カ" />
+      <LINE TYPE="本文" X="2323" Y="768" WIDTH="58" HEIGHT="1201" CONF="0.708" ORDER="11" STRING="二七日 近づきにけり。 家深く 藏に出で入る" />
+      <LINE TYPE="本文" X="2252" Y="752" WIDTH="46" HEIGHT="333" CONF="0.854" ORDER="13" STRING="土戶のひゞき" />
+      <LINE TYPE="本文" X="2058" Y="744" WIDTH="64" HEIGHT="1219" CONF="0.891" ORDER="16" STRING="家ふえてまれにのみ來る鶯の、 かれ 鳴き居り" />
+      <LINE TYPE="本文" X="1991" Y="747" WIDTH="46" HEIGHT="448" CONF="0.822" ORDER="18" STRING="と、 兄の言ひつゝ" />
+      <SHAPE>
+        <POLYGON POINTS="1991,741,1991,1970,2404,1970,2404,741" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.355">
+      <LINE TYPE="本文" X="1548" Y="740" WIDTH="59" HEIGHT="1215" CONF="0.902" ORDER="20" STRING="靜けさは 常としもなし。 店とほく、 とほりて" />
+      <LINE TYPE="本文" X="1462" Y="742" WIDTH="49" HEIGHT="452" CONF="0.798" ORDER="21" STRING="響く ぜに凾の音" />
+      <LINE TYPE="本文" X="1289" Y="743" WIDTH="55" HEIGHT="1215" CONF="0.899" ORDER="24" STRING="さびしさに馴れつゝ住めば、 兄の子のとよもす" />
+      <LINE TYPE="本文" X="1202" Y="742" WIDTH="47" HEIGHT="449" CONF="0.844" ORDER="26" STRING="家を 旅とし思ふ" />
+      <LINE TYPE="本文" X="1028" Y="743" WIDTH="58" HEIGHT="1217" CONF="0.869" ORDER="28" STRING="はらからのかくむ火桶に唇かわ き、 言にあまれ" />
+      <LINE TYPE="本文" X="939" Y="744" WIDTH="45" HEIGHT="386" CONF="0.823" ORDER="29" STRING="る心はたらへり" />
+      <LINE TYPE="本文" X="760" Y="741" WIDTH="60" HEIGHT="1215" CONF="0.888" ORDER="31" STRING="顏ゑみて その言しぶる弟 の こゝろしたしみ" />
+      <LINE TYPE="本文" X="674" Y="616" WIDTH="48" HEIGHT="573" CONF="0.801" ORDER="34" STRING="は、 我よく知れり 83" />
+      <SHAPE>
+        <POLYGON POINTS="682,628,682,1973,1606,1973,1606,628" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="2381" Y="753" WIDTH="27" HEIGHT="150" CONF="0.545" />
+    <BLOCK TYPE="ルビ" X="2377" Y="753" WIDTH="31" HEIGHT="150" CONF="0.460" />
+    <BLOCK TYPE="ルビ" X="1077" Y="1383" WIDTH="21" HEIGHT="43" CONF="0.406" />
+    <BLOCK TYPE="ルビ" X="2902" Y="1537" WIDTH="19" HEIGHT="38" CONF="0.267" />
+    <BLOCK TYPE="ルビ" X="1085" Y="1683" WIDTH="17" HEIGHT="41" CONF="0.217" />
+  </PAGE>
+</OCRDATASET>

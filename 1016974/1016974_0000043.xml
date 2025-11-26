@@ -1,0 +1,43 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000043.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.654">
+      <LINE TYPE="本文" X="2844" Y="695" WIDTH="89" HEIGHT="1339" CONF="0.815" ORDER="0" STRING="ふるさとの町を いとふと思はねば、 人に知ら" />
+      <LINE TYPE="本文" X="2786" Y="810" WIDTH="55" HEIGHT="569" CONF="0.839" ORDER="1" STRING="れぬ思ひの かそけさ" />
+      <SHAPE>
+        <POLYGON POINTS="2788,697,2788,2034,2928,2034,2928,697" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.721">
+      <LINE TYPE="本文" X="2579" Y="801" WIDTH="85" HEIGHT="1219" CONF="0.892" ORDER="4" STRING="ふるさとはさびしかりけり。 いさかへる子ら の" />
+      <LINE TYPE="本文" X="2527" Y="795" WIDTH="54" HEIGHT="513" CONF="0.833" ORDER="5" STRING="言も、 我に似にけり" />
+      <SHAPE>
+        <POLYGON POINTS="2527,795,2527,2021,2661,2021,2661,795" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.790">
+      <LINE TYPE="本文" X="2319" Y="784" WIDTH="82" HEIGHT="1223" CONF="0.885" ORDER="7" STRING="をり〓〓に しいづる我のあやまちを、 笑ふこ" />
+      <LINE TYPE="本文" X="2262" Y="784" WIDTH="49" HEIGHT="571" CONF="0.835" ORDER="8" STRING="となる 家はさびしも" />
+      <SHAPE>
+        <POLYGON POINTS="2263,782,2263,2007,2395,2007,2395,782" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.843">
+      <LINE TYPE="本文" X="2054" Y="771" WIDTH="85" HEIGHT="1225" CONF="0.871" ORDER="11" STRING="久しくはとまらぬ家に、 つゝましく 人ことわ" />
+      <LINE TYPE="本文" X="1997" Y="769" WIDTH="52" HEIGHT="572" CONF="0.855" ORDER="12" STRING="りて、 こもる日つゞく" />
+      <SHAPE>
+        <POLYGON POINTS="1995,767,1995,1997,2137,1997,2137,767" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.469">
+      <LINE TYPE="本文" X="1539" Y="683" WIDTH="48" HEIGHT="1287" CONF="0.852" ORDER="13" STRING="兄の子の遊ぶを見れば、 圓くゐて 阿波のおつ" />
+      <LINE TYPE="本文" X="1453" Y="752" WIDTH="41" HEIGHT="390" CONF="0.826" ORDER="15" STRING="るの話せりけり" />
+      <LINE TYPE="本文" X="1273" Y="759" WIDTH="48" HEIGHT="1215" CONF="0.893" ORDER="18" STRING="いわけなき我を見知りし町びとの、 今はおほよ" />
+      <LINE TYPE="本文" X="1186" Y="751" WIDTH="43" HEIGHT="568" CONF="0.868" ORDER="19" STRING="そ は、 亡くなりにけり" />
+      <SHAPE>
+        <POLYGON POINTS="1186,677,1186,1977,1587,1977,1587,677" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="666" Y="634" WIDTH="43" HEIGHT="28" CONF="0.695" />
+    <BLOCK TYPE="ノンブル" X="472" Y="2322" WIDTH="16" HEIGHT="15" CONF="0.319" />
+  </PAGE>
+</OCRDATASET>

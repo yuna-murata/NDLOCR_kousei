@@ -1,0 +1,41 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000139.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.939">
+      <LINE TYPE="本文" X="2901" Y="674" WIDTH="54" HEIGHT="1330" CONF="0.882" ORDER="0" STRING="見出す事が出來相に思うてゐる。 私は、今も迷うてゐる。 24" />
+      <LINE TYPE="本文" X="2807" Y="766" WIDTH="54" HEIGHT="1217" CONF="0.912" ORDER="1" STRING="これをはじめてから、十年位にはなる。 しかも、思想の休" />
+      <LINE TYPE="本文" X="2718" Y="758" WIDTH="54" HEIGHT="1217" CONF="0.912" ORDER="2" STRING="止と、調子の休止と、いづれを主にしてよいか、それさへま" />
+      <LINE TYPE="本文" X="2625" Y="756" WIDTH="56" HEIGHT="1235" CONF="0.915" ORDER="3" STRING="だ、徹底しきつては居ない。 けれども、一人の努力よりは、" />
+      <LINE TYPE="本文" X="2535" Y="755" WIDTH="54" HEIGHT="1216" CONF="0.916" ORDER="4" STRING="多人數の協同作業が、自然にある道筋を開くべきものと" />
+      <LINE TYPE="本文" X="2442" Y="754" WIDTH="57" HEIGHT="1214" CONF="0.911" ORDER="5" STRING="信じて、一人でも多くのなかまの出來るのを待つ爲に、功" />
+      <LINE TYPE="本文" X="2352" Y="749" WIDTH="55" HEIGHT="1213" CONF="0.915" ORDER="6" STRING="利風に考へる人からは、むだと思はれるはずの爲事をつ" />
+      <LINE TYPE="本文" X="2260" Y="753" WIDTH="55" HEIGHT="1207" CONF="0.915" ORDER="7" STRING="ゞけてゐる。 しかしこの點は、私が自身の歌に「おぼつか" />
+      <LINE TYPE="本文" X="2165" Y="744" WIDTH="55" HEIGHT="1212" CONF="0.919" ORDER="8" STRING="なさ」を持つて居る樣なものではない。 いつかは實現の" />
+      <LINE TYPE="本文" X="2076" Y="742" WIDTH="56" HEIGHT="1212" CONF="0.929" ORDER="9" STRING="出來、さうして、古典としての歌から、自在な詩形の生れて" />
+      <LINE TYPE="本文" X="1992" Y="740" WIDTH="45" HEIGHT="874" CONF="0.909" ORDER="10" STRING="來る事が、信ぜられてならないのである。" />
+      <SHAPE>
+        <POLYGON POINTS="1996,659,1996,1999,2951,1999,2951,659" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.955">
+      <LINE TYPE="本文" X="1674" Y="745" WIDTH="41" HEIGHT="1207" CONF="0.915" ORDER="11" STRING="こんな事に力を入れるのも、或は枝蛙なるが故のことか" />
+      <LINE TYPE="本文" X="1584" Y="743" WIDTH="42" HEIGHT="1214" CONF="0.924" ORDER="12" STRING="も知れない。 けれども、蛙なるが故に、思ひ捐てる事の出" />
+      <LINE TYPE="本文" X="1494" Y="739" WIDTH="43" HEIGHT="765" CONF="0.900" ORDER="13" STRING="事ぬ、日本の詩形の運命なのである。" />
+      <LINE TYPE="本文" X="1403" Y="744" WIDTH="40" HEIGHT="1208" CONF="0.919" ORDER="14" STRING="宮延詩なる大歌系統の詩形が、三十一字に固定して來た" />
+      <LINE TYPE="本文" X="1311" Y="741" WIDTH="41" HEIGHT="1210" CONF="0.918" ORDER="15" STRING="間に、小唄卽民謠は、限りない變化と、自在なる展開を經て" />
+      <LINE TYPE="本文" X="1218" Y="740" WIDTH="41" HEIGHT="1213" CONF="0.921" ORDER="16" STRING="來たのであつた。 ほとんど、民族文學唯一の形式とも思" />
+      <LINE TYPE="本文" X="1127" Y="740" WIDTH="42" HEIGHT="1225" CONF="0.926" ORDER="17" STRING="はれて來た短歌が、生活の拍子にそぐはなくなつたのは、" />
+      <LINE TYPE="本文" X="1035" Y="737" WIDTH="42" HEIGHT="1215" CONF="0.922" ORDER="18" STRING="に、近代の事ではない。 もう、ほんとうの様式、求心的な 單" />
+      <LINE TYPE="本文" X="944" Y="738" WIDTH="42" HEIGHT="1182" CONF="0.917" ORDER="19" STRING="發想を持つものが、歌から生れて來てよいはずである。" />
+      <LINE TYPE="本文" X="851" Y="739" WIDTH="41" HEIGHT="1216" CONF="0.923" ORDER="20" STRING="われ〓〓 の内側の拍子には、遠心的な俳句や、「詩」に 任せき" />
+      <LINE TYPE="本文" X="761" Y="645" WIDTH="42" HEIGHT="814" CONF="0.856" ORDER="21" STRING="れないものが、永久にあると思ふ。 25" />
+      <SHAPE>
+        <POLYGON POINTS="764,678,764,1961,1716,1961,1716,678" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2919" Y="675" WIDTH="36" HEIGHT="27" CONF="0.504" />
+    <BLOCK TYPE="ノンブル" X="770" Y="644" WIDTH="36" HEIGHT="31" CONF="0.251" />
+    <BLOCK TYPE="ルビ" X="2590" Y="989" WIDTH="20" HEIGHT="15" CONF="0.378" />
+    <BLOCK TYPE="ルビ" X="2496" Y="1318" WIDTH="15" HEIGHT="68" CONF="0.331" />
+    <BLOCK TYPE="ルビ" X="2587" Y="1100" WIDTH="20" HEIGHT="24" CONF="0.322" />
+  </PAGE>
+</OCRDATASET>
