@@ -16,7 +16,7 @@ const app = Vue.createApp({
         this.pid = params.get("pid");
         this.page = params.get("page");
 
-        const xmlPath = `../../data/${this.pid}/layout/page_${this.page}.xml`;
+        const xmlPath = `../../data/${this.pid}/${this.pid}_${this.page}.xml`;
 
         const xmlText = await fetch(xmlPath).then(r => r.text());
         this.xml = new DOMParser().parseFromString(xmlText, "text/xml");
