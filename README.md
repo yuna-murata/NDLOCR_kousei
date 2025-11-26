@@ -1,0 +1,1 @@
+# NDLOCR_kousei
