@@ -16,7 +16,7 @@ const app = Vue.createApp({
         this.pid = params.get("pid");
         this.page = params.get("page");
 
-        const xmlPath = `../../data/${this.pid}/${this.pid}_${this.page}.xml`;
+        const xmlPath = `https://github.com/yuna-murata/NDLOCR_kousei/blob/8847f8bf3471d123fdc84a86473e333572e15439/data/${this.pid}/${this.pid}_${this.page}.xml`;
 
         const xmlText = await fetch(xmlPath).then(r => r.text());
         this.xml = new DOMParser().parseFromString(xmlText, "text/xml");
