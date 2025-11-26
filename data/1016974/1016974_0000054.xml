@@ -1,0 +1,44 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000054.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.330">
+      <LINE TYPE="本文" X="2869" Y="652" WIDTH="58" HEIGHT="1333" CONF="0.875" ORDER="0" STRING="庭草に、 やみてはふりつぐつゆの雨 心怒りの 94" />
+      <LINE TYPE="本文" X="2792" Y="767" WIDTH="45" HEIGHT="390" CONF="0.831" ORDER="1" STRING="たゆみ來にけり" />
+      <LINE TYPE="本文" X="2604" Y="761" WIDTH="58" HEIGHT="1218" CONF="0.863" ORDER="4" STRING="わが默す心を知れり。 燈のしたに ひたうつむ" />
+      <LINE TYPE="本文" X="2528" Y="758" WIDTH="47" HEIGHT="571" CONF="0.839" ORDER="5" STRING="き て、 身じろかぬ汝は" />
+      <LINE TYPE="本文" X="2338" Y="683" WIDTH="60" HEIGHT="1289" CONF="0.705" ORDER="7" STRING="虔ましきしゞまに 對ふ汝がうなじに、 一つゐ" />
+      <LINE TYPE="本文" X="2264" Y="756" WIDTH="48" HEIGHT="624" CONF="0.846" ORDER="9" STRING="る蚊を、 わが知りて居り" />
+      <LINE TYPE="本文" X="2079" Y="752" WIDTH="54" HEIGHT="1211" CONF="0.858" ORDER="13" STRING="ころび聲 まさしきものか。 わが聲なり。 怒ら" />
+      <LINE TYPE="本文" X="2003" Y="746" WIDTH="47" HEIGHT="626" CONF="0.883" ORDER="15" STRING="じとする心は おどろく" />
+      <SHAPE>
+        <POLYGON POINTS="1995,639,1995,1989,2927,1989,2927,639" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.256">
+      <LINE TYPE="本文" X="1515" Y="742" WIDTH="70" HEIGHT="1219" CONF="0.927" ORDER="17" STRING="燈のしたに、 怖ぢかしこまる汝が肩を 痩せた" />
+      <LINE TYPE="本文" X="1432" Y="744" WIDTH="50" HEIGHT="569" CONF="0.885" ORDER="18" STRING="りと思ひ、 心さびしも" />
+      <LINE TYPE="本文" X="1251" Y="745" WIDTH="64" HEIGHT="1216" CONF="0.917" ORDER="20" STRING="からくして 面を起す 汝の頰 白くかわきて" />
+      <LINE TYPE="本文" X="1168" Y="807" WIDTH="47" HEIGHT="390" CONF="0.858" ORDER="22" STRING="胸はかりがたし" />
+      <LINE TYPE="本文" X="989" Y="760" WIDTH="68" HEIGHT="1204" CONF="0.888" ORDER="24" STRING="一言を言ひ疏くとせぬ汝の顏 まさに瞻りつゝ" />
+      <LINE TYPE="本文" X="907" Y="811" WIDTH="42" HEIGHT="388" CONF="0.828" ORDER="26" STRING="あやぶみにけり" />
+      <LINE TYPE="本文" X="726" Y="752" WIDTH="73" HEIGHT="1212" CONF="0.896" ORDER="28" STRING="言に出でゝ言はゞゆゝしみ、 搏動る胸を堪へつ" />
+      <LINE TYPE="本文" X="636" Y="640" WIDTH="55" HEIGHT="562" CONF="0.840" ORDER="30" STRING="常の言いへり 95" />
+      <SHAPE>
+        <POLYGON POINTS="639,617,639,1982,1592,1982,1592,617" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="2391" Y="751" WIDTH="25" HEIGHT="580" CONF="0.658" />
+    <BLOCK TYPE="ルビ" X="1302" Y="1095" WIDTH="23" HEIGHT="64" CONF="0.640" />
+    <BLOCK TYPE="ルビ" X="1572" Y="1101" WIDTH="22" HEIGHT="431" CONF="0.563" />
+    <BLOCK TYPE="ルビ" X="1044" Y="1054" WIDTH="27" HEIGHT="734" CONF="0.555" />
+    <BLOCK TYPE="ルビ" X="2568" Y="1233" WIDTH="22" HEIGHT="42" CONF="0.479" />
+    <BLOCK TYPE="ルビ" X="1046" Y="1067" WIDTH="21" HEIGHT="726" CONF="0.476" />
+    <BLOCK TYPE="ルビ" X="2658" Y="879" WIDTH="25" HEIGHT="39" CONF="0.475" />
+    <BLOCK TYPE="ルビ" X="791" Y="1521" WIDTH="20" HEIGHT="99" CONF="0.409" />
+    <BLOCK TYPE="ルビ" X="2392" Y="1291" WIDTH="22" HEIGHT="42" CONF="0.404" />
+    <BLOCK TYPE="ルビ" X="1053" Y="1768" WIDTH="23" HEIGHT="19" CONF="0.404" />
+    <BLOCK TYPE="ルビ" X="1040" Y="1053" WIDTH="19" HEIGHT="22" CONF="0.347" />
+    <BLOCK TYPE="ルビ" X="1046" Y="1057" WIDTH="21" HEIGHT="713" CONF="0.275" />
+    <BLOCK TYPE="ルビ" X="2055" Y="1173" WIDTH="18" HEIGHT="12" CONF="0.230" />
+    <BLOCK TYPE="ルビ" X="1578" Y="1512" WIDTH="18" HEIGHT="21" CONF="0.223" />
+  </PAGE>
+</OCRDATASET>

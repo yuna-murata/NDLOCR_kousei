@@ -1,0 +1,38 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000078.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.251">
+      <LINE TYPE="本文" X="2812" Y="594" WIDTH="49" HEIGHT="1328" CONF="0.835" ORDER="0" STRING="年の夜の明くる待ちつゝ 久しさよ。 こも〓〓 142" />
+      <LINE TYPE="本文" X="2729" Y="711" WIDTH="42" HEIGHT="632" CONF="0.776" ORDER="1" STRING="起きて、 こたつを掘るも" />
+      <LINE TYPE="本文" X="2545" Y="704" WIDTH="47" HEIGHT="1229" CONF="0.860" ORDER="4" STRING="臥て後も しばし起きゐる 年の夜のしづまる" />
+      <LINE TYPE="本文" X="2462" Y="706" WIDTH="44" HEIGHT="515" CONF="0.815" ORDER="6" STRING="街を、 自動車來たる" />
+      <LINE TYPE="本文" X="2284" Y="707" WIDTH="49" HEIGHT="1223" CONF="0.858" ORDER="8" STRING="しづまれる街のはてより、 風のおと 起ると思" />
+      <LINE TYPE="本文" X="2198" Y="708" WIDTH="49" HEIGHT="687" CONF="0.837" ORDER="9" STRING="ひつゝ うつゝなくなれり" />
+      <SHAPE>
+        <POLYGON POINTS="2198,420,2198,1932,2860,1932,2860,420" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.811">
+      <LINE TYPE="本文" X="1416" Y="908" WIDTH="53" HEIGHT="531" CONF="0.673" ORDER="10" STRING="だうろく神まつり" />
+      <SHAPE>
+        <POLYGON POINTS="1416,908,1416,1439,1469,1439,1469,908" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.748">
+      <LINE TYPE="本文" X="1229" Y="721" WIDTH="76" HEIGHT="1220" CONF="0.877" ORDER="12" STRING="乾風の 砂捲く道に日は洩れて、 睦月八日の空" />
+      <LINE TYPE="本文" X="1146" Y="723" WIDTH="40" HEIGHT="213" CONF="0.835" ORDER="13" STRING="片ぐもる" />
+      <SHAPE>
+        <POLYGON POINTS="1147,719,1147,1941,1314,1941,1314,719" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.291">
+      <LINE TYPE="本文" X="963" Y="725" WIDTH="72" HEIGHT="1223" CONF="0.892" ORDER="16" STRING="磯近き冬田に群れ て 鳥鳴けり。 見つゝ 聞き" />
+      <LINE TYPE="本文" X="881" Y="747" WIDTH="53" HEIGHT="575" CONF="0.798" ORDER="19" STRING="つ 道ゆく。 われ は" />
+      <LINE TYPE="本文" X="699" Y="728" WIDTH="76" HEIGHT="1224" CONF="0.881" ORDER="21" STRING="道なかに、 御幣の齋串たちそゝり、 この村深く" />
+      <LINE TYPE="本文" X="620" Y="615" WIDTH="43" HEIGHT="492" CONF="0.752" ORDER="22" STRING="太皷とゞろく 43" />
+      <SHAPE>
+        <POLYGON POINTS="620,614,620,1953,1029,1953,1029,614" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="2325" Y="1908" WIDTH="20" HEIGHT="18" CONF="0.228" />
+  </PAGE>
+</OCRDATASET>

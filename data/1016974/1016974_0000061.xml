@@ -1,0 +1,59 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000061.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.720">
+      <LINE TYPE="本文" X="2854" Y="699" WIDTH="77" HEIGHT="1336" CONF="0.761" ORDER="0" STRING="朝日照る川のま上のひと在所。 臺地の麥原 刈 103" />
+      <LINE TYPE="本文" X="2792" Y="813" WIDTH="46" HEIGHT="330" CONF="0.825" ORDER="1" STRING="りいそぐ見ゆ" />
+      <SHAPE>
+        <POLYGON POINTS="2800,694,2800,2038,2927,2038,2927,694" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.760">
+      <LINE TYPE="本文" X="2591" Y="805" WIDTH="72" HEIGHT="1223" CONF="0.872" ORDER="3" STRING="夏やまの朝のいきれに、 たど〓〓し。 人の命を" />
+      <LINE TYPE="本文" X="2529" Y="804" WIDTH="55" HEIGHT="450" CONF="0.788" ORDER="4" STRING="愛しまずあらめや" />
+      <SHAPE>
+        <POLYGON POINTS="2529,802,2529,2028,2661,2028,2661,802" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.709">
+      <LINE TYPE="本文" X="2333" Y="792" WIDTH="69" HEIGHT="1226" CONF="0.896" ORDER="6" STRING="綠葉のかゞやく森を前に置きて、 ひたすらとあ" />
+      <LINE TYPE="本文" X="2261" Y="796" WIDTH="51" HEIGHT="570" CONF="0.852" ORDER="7" STRING="るくひとりぞ。 われは" />
+      <SHAPE>
+        <POLYGON POINTS="2263,791,2263,2019,2398,2019,2398,791" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.823">
+      <LINE TYPE="本文" X="2069" Y="782" WIDTH="72" HEIGHT="1226" CONF="0.878" ORDER="9" STRING="燒き畑のくろの立ち木の 夕目には、 寂しくゆ" />
+      <LINE TYPE="本文" X="2000" Y="785" WIDTH="54" HEIGHT="453" CONF="0.856" ORDER="10" STRING="らぐ。 赤き〓の笠" />
+      <SHAPE>
+        <POLYGON POINTS="2001,780,2001,2009,2137,2009,2137,780" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.360">
+      <LINE TYPE="本文" X="1469" Y="750" WIDTH="71" HEIGHT="1229" CONF="0.904" ORDER="12" STRING="兒湯の川 長橋わたる。 川の面に、 搖れつゝ光" />
+      <LINE TYPE="本文" X="1389" Y="759" WIDTH="49" HEIGHT="452" CONF="0.863" ORDER="13" STRING="る さゞれ波かも" />
+      <LINE TYPE="本文" X="1204" Y="756" WIDTH="74" HEIGHT="1222" CONF="0.925" ORDER="15" STRING="森深き朝の曇りを あゆみ來て、 しるくし見つ" />
+      <LINE TYPE="本文" X="1124" Y="761" WIDTH="47" HEIGHT="460" CONF="0.863" ORDER="17" STRING="も。 藤のさがりを" />
+      <SHAPE>
+        <POLYGON POINTS="603,690,603,2006,1550,2006,1550,690" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.408">
+      <LINE TYPE="本文" X="945" Y="764" WIDTH="70" HEIGHT="1225" CONF="0.918" ORDER="19" STRING="靑空になびかふ雲 の はろ〓〓し。 ひとりあゆ" />
+      <LINE TYPE="本文" X="862" Y="770" WIDTH="49" HEIGHT="510" CONF="0.848" ORDER="20" STRING="める道に つまづく" />
+      <LINE TYPE="本文" X="684" Y="758" WIDTH="72" HEIGHT="1241" CONF="0.897" ORDER="23" STRING="山原の茅原に しをるゝ晝顏の花。 見過しがた" />
+      <LINE TYPE="本文" X="598" Y="657" WIDTH="53" HEIGHT="567" CONF="0.861" ORDER="25" STRING="く 我ゆきつかる 109" />
+      <SHAPE>
+        <POLYGON POINTS="601,637,601,2001,1012,2001,1012,637" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2876" Y="696" WIDTH="56" HEIGHT="25" CONF="0.297" />
+    <BLOCK TYPE="ルビ" X="2898" Y="1825" WIDTH="26" HEIGHT="93" CONF="0.663" />
+    <BLOCK TYPE="ルビ" X="731" Y="949" WIDTH="22" HEIGHT="90" CONF="0.631" />
+    <BLOCK TYPE="ルビ" X="1534" Y="1538" WIDTH="19" HEIGHT="19" CONF="0.508" />
+    <BLOCK TYPE="ルビ" X="2582" Y="807" WIDTH="17" HEIGHT="21" CONF="0.385" />
+    <BLOCK TYPE="ルビ" X="2896" Y="710" WIDTH="37" HEIGHT="1215" CONF="0.382" />
+    <BLOCK TYPE="ルビ" X="1519" Y="749" WIDTH="30" HEIGHT="817" CONF="0.352" />
+    <BLOCK TYPE="ルビ" X="1514" Y="753" WIDTH="23" HEIGHT="75" CONF="0.346" />
+    <BLOCK TYPE="ルビ" X="756" Y="1677" WIDTH="18" HEIGHT="17" CONF="0.300" />
+  </PAGE>
+</OCRDATASET>

@@ -1,0 +1,48 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000094.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.229">
+      <LINE TYPE="タイトル本文" X="2805" Y="969" WIDTH="49" HEIGHT="250" CONF="0.636" ORDER="4" STRING="午後二時" />
+      <LINE TYPE="本文" X="2613" Y="730" WIDTH="45" HEIGHT="1228" CONF="0.900" ORDER="6" STRING="わが山に戾り來にけり。 くりやべに、 晝を鳴け" />
+      <LINE TYPE="本文" X="2531" Y="730" WIDTH="41" HEIGHT="573" CONF="0.807" ORDER="7" STRING="るは、 こほろぎならむ" />
+      <LINE TYPE="本文" X="2347" Y="724" WIDTH="45" HEIGHT="1232" CONF="0.873" ORDER="10" STRING="ゆくりなく 目につきにけり。 薔薇の後、 庭木" />
+      <LINE TYPE="本文" X="2262" Y="727" WIDTH="42" HEIGHT="571" CONF="0.859" ORDER="11" STRING="のうれの みな綠なる" />
+      <LINE TYPE="本文" X="2082" Y="722" WIDTH="46" HEIGHT="1249" CONF="0.899" ORDER="14" STRING="わが庭のやつでの廣葉 ゆすりたち、 さやかに" />
+      <LINE TYPE="本文" X="1999" Y="784" WIDTH="43" HEIGHT="510" CONF="0.850" ORDER="15" STRING="こゝを風の過ぎゆく" />
+      <SHAPE>
+        <POLYGON POINTS="1993,619,1993,1972,2896,1972,2896,619" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.811">
+      <LINE TYPE="タイトル本文" X="1488" Y="938" WIDTH="54" HEIGHT="474" CONF="0.778" ORDER="19" STRING="いろものせき" />
+      <SHAPE>
+        <POLYGON POINTS="1488,939,1488,1412,1542,1412,1542,939" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.788">
+      <LINE TYPE="本文" X="1286" Y="735" WIDTH="43" HEIGHT="1227" CONF="0.906" ORDER="20" STRING="うすぐらき 場すゑのよせの下座の唄。 聽けば" />
+      <LINE TYPE="本文" X="1202" Y="737" WIDTH="42" HEIGHT="571" CONF="0.854" ORDER="21" STRING="苦しゑ。 その聲よきに" />
+      <SHAPE>
+        <POLYGON POINTS="1204,733,1204,1964,1328,1964,1328,733" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.744">
+      <LINE TYPE="本文" X="1020" Y="735" WIDTH="47" HEIGHT="1229" CONF="0.870" ORDER="24" STRING="白じろと更けぬる よせの疊のうへ。 悄然とき" />
+      <LINE TYPE="本文" X="936" Y="740" WIDTH="43" HEIGHT="510" CONF="0.835" ORDER="25" STRING="てすわりぬ。 われは" />
+      <SHAPE>
+        <POLYGON POINTS="936,735,936,1964,1071,1964,1071,735" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.707">
+      <LINE TYPE="本文" X="756" Y="730" WIDTH="51" HEIGHT="1232" CONF="0.776" ORDER="27" STRING="衢風砂吹き入れて、 はなしかの高座のまたゝき" />
+      <LINE TYPE="本文" X="676" Y="622" WIDTH="52" HEIGHT="625" CONF="0.665" ORDER="29" STRING="さびしくありけり 175" />
+      <SHAPE>
+        <POLYGON POINTS="677,612,677,1961,805,1961,805,612" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="679" Y="615" WIDTH="52" HEIGHT="31" CONF="0.270" />
+    <BLOCK TYPE="ノンブル" X="2857" Y="616" WIDTH="52" HEIGHT="31" CONF="0.238" />
+    <BLOCK TYPE="ルビ" X="804" Y="729" WIDTH="25" HEIGHT="111" CONF="0.767" />
+    <BLOCK TYPE="ルビ" X="1061" Y="1748" WIDTH="24" HEIGHT="95" CONF="0.751" />
+    <BLOCK TYPE="ルビ" X="2389" Y="1741" WIDTH="25" HEIGHT="46" CONF="0.277" />
+  </PAGE>
+</OCRDATASET>

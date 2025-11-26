@@ -1,0 +1,40 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000120.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.251">
+      <SHAPE>
+        <POLYGON POINTS="2785,625,2785,1977,2912,1977,2912,625" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.640">
+      <LINE TYPE="本文" X="2854" Y="626" WIDTH="59" HEIGHT="1349" CONF="0.841" ORDER="0" STRING="しづかなる晝の光りや。 〓水の地主の花散る徑 226" />
+      <LINE TYPE="本文" X="2779" Y="744" WIDTH="48" HEIGHT="337" CONF="0.670" ORDER="2" STRING="を 來にけり" />
+      <LINE TYPE="本文" X="2590" Y="740" WIDTH="56" HEIGHT="1244" CONF="0.891" ORDER="5" STRING="大空の鳥も あぐみて落ち來たる。 廣野にをる" />
+      <LINE TYPE="本文" X="2514" Y="743" WIDTH="49" HEIGHT="453" CONF="0.672" ORDER="8" STRING="が、 寂しくなりぬ" />
+      <LINE TYPE="本文" X="2325" Y="735" WIDTH="59" HEIGHT="1228" CONF="0.902" ORDER="10" STRING="中學の廊のかはらのふみごゝち むかしに似つ" />
+      <LINE TYPE="本文" X="2250" Y="742" WIDTH="46" HEIGHT="913" CONF="0.833" ORDER="13" STRING="ヽ ものゝすべなさ 卒 業 後五 年" />
+      <LINE TYPE="本文" X="2062" Y="729" WIDTH="62" HEIGHT="1231" CONF="0.871" ORDER="14" STRING="雪ふりて昏るゝ光りの 遠じろに、 小竹の祝部 シ ヌ" />
+      <LINE TYPE="本文" X="1987" Y="731" WIDTH="48" HEIGHT="843" CONF="0.850" ORDER="17" STRING="のはかどころ見ゆ 「紀伊國 日高」" />
+      <SHAPE>
+        <POLYGON POINTS="1985,692,1985,1979,2916,1979,2916,692" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.401">
+      <LINE TYPE="本文" X="1398" Y="912" WIDTH="53" HEIGHT="645" CONF="0.692" ORDER="18" STRING="焚きあましその二" />
+      <LINE TYPE="本文" X="1213" Y="723" WIDTH="50" HEIGHT="1236" CONF="0.882" ORDER="20" STRING="わがともがら 命にかへし戀ながら、 年來り行" />
+      <LINE TYPE="本文" X="1130" Y="722" WIDTH="44" HEIGHT="578" CONF="0.804" ORDER="22" STRING="けば、 なべてかなしも" />
+      <LINE TYPE="本文" X="948" Y="728" WIDTH="45" HEIGHT="1230" CONF="0.816" ORDER="24" STRING="いくさ君 武田がのちに、 はかなさよ。 わび歌" />
+      <LINE TYPE="本文" X="864" Y="723" WIDTH="44" HEIGHT="957" CONF="0.859" ORDER="26" STRING="多し。 あはれ わが友 「祐吉に」一首" />
+      <LINE TYPE="本文" X="681" Y="721" WIDTH="48" HEIGHT="1238" CONF="0.884" ORDER="28" STRING="君にわかれ ひとりとなりて入りたてば、 冬木" />
+      <LINE TYPE="本文" X="596" Y="603" WIDTH="60" HEIGHT="695" CONF="0.745" ORDER="29" STRING="がもとに、 淚わしりぬ 227" />
+      <SHAPE>
+        <POLYGON POINTS="595,590,595,1972,1457,1972,1457,590" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2859" Y="625" WIDTH="57" HEIGHT="25" CONF="0.341" />
+    <BLOCK TYPE="ルビ" X="2901" Y="1590" WIDTH="22" HEIGHT="88" CONF="0.599" />
+    <BLOCK TYPE="ルビ" X="2112" Y="1865" WIDTH="20" HEIGHT="90" CONF="0.323" />
+    <BLOCK TYPE="ルビ" X="2113" Y="1688" WIDTH="21" HEIGHT="265" CONF="0.309" />
+    <BLOCK TYPE="ルビ" X="1261" Y="1803" WIDTH="23" HEIGHT="16" CONF="0.272" />
+    <BLOCK TYPE="ルビ" X="1258" Y="815" WIDTH="25" HEIGHT="1002" CONF="0.263" />
+  </PAGE>
+</OCRDATASET>

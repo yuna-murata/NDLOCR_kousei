@@ -1,0 +1,46 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000046.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.421">
+      <LINE TYPE="本文" X="2804" Y="970" WIDTH="49" HEIGHT="281" CONF="0.552" ORDER="2" STRING="山 う ら" />
+      <SHAPE>
+        <POLYGON POINTS="2804,660,2804,1253,2944,1253,2944,660" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.650">
+      <LINE TYPE="本文" X="2599" Y="763" WIDTH="87" HEIGHT="1235" CONF="0.784" ORDER="6" STRING="御柱海道 凍てゝ眞直なり。 かじけつゝ 鶏は" />
+      <LINE TYPE="本文" X="2533" Y="774" WIDTH="47" HEIGHT="394" CONF="0.829" ORDER="7" STRING="かたまりて居る" />
+      <SHAPE>
+        <POLYGON POINTS="2533,768,2533,1996,2685,1996,2685,768" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.236">
+      <LINE TYPE="注" X="2385" Y="1120" WIDTH="31" HEIGHT="275" CONF="0.299" ORDER="11" STRING="オホヅミ ツ コ" />
+      <LINE TYPE="本文" X="2337" Y="766" WIDTH="68" HEIGHT="1226" CONF="0.840" ORDER="12" STRING="うちわたす 大泉 小泉 山なほ見え、 刈り田" />
+      <LINE TYPE="本文" X="2262" Y="770" WIDTH="55" HEIGHT="567" CONF="0.771" ORDER="14" STRING="の面は、 昏くなりたり" />
+      <LINE TYPE="本文" X="2107" Y="995" WIDTH="50" HEIGHT="914" CONF="0.858" ORDER="15" STRING="その山かげには、 赤彥さんの生家がある。" />
+      <SHAPE>
+        <POLYGON POINTS="2107,766,2107,1990,2411,1990,2411,766" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.267">
+      <LINE TYPE="本文" X="1516" Y="754" WIDTH="53" HEIGHT="1240" CONF="0.861" ORDER="17" STRING="嶺の その山竝みに、 蓼科の山の腹黄なり。 八" />
+      <LINE TYPE="本文" X="1430" Y="754" WIDTH="44" HEIGHT="332" CONF="0.830" ORDER="18" STRING="霧霽れ來れば" />
+      <LINE TYPE="本文" X="1251" Y="756" WIDTH="54" HEIGHT="1238" CONF="0.885" ORDER="21" STRING="八ヶ 嶽の山うらに吸ふ朝の汁 さびしみにけり。" />
+      <LINE TYPE="本文" X="1165" Y="756" WIDTH="43" HEIGHT="332" CONF="0.837" ORDER="23" STRING="魚のかをりを" />
+      <LINE TYPE="本文" X="987" Y="757" WIDTH="66" HEIGHT="1220" CONF="0.821" ORDER="26" STRING="諏訪びとは、 建御名方の後といへど、 心穩ひの" />
+      <LINE TYPE="本文" X="908" Y="818" WIDTH="39" HEIGHT="392" CONF="0.787" ORDER="27" STRING="あしくもあらず" />
+      <SHAPE>
+        <POLYGON POINTS="905,742,905,1994,1577,1994,1577,742" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.622">
+      <SHAPE>
+        <POLYGON POINTS="647,642,647,673,688,673,688,642" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="647" Y="642" WIDTH="41" HEIGHT="31" CONF="0.384" />
+    <BLOCK TYPE="ノンブル" X="2903" Y="659" WIDTH="42" HEIGHT="30" CONF="0.254" />
+    <BLOCK TYPE="ルビ" X="1560" Y="757" WIDTH="22" HEIGHT="148" CONF="0.482" />
+    <BLOCK TYPE="ルビ" X="1037" Y="1116" WIDTH="19" HEIGHT="212" CONF="0.387" />
+  </PAGE>
+</OCRDATASET>

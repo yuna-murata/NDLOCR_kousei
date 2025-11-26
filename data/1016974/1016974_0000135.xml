@@ -1,0 +1,39 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000135.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.931">
+      <LINE TYPE="本文" X="2900" Y="675" WIDTH="63" HEIGHT="1289" CONF="0.784" ORDER="1" STRING="年の分だけは、自由にしてもよいと言ふ考へから、直して" />
+      <LINE TYPE="本文" X="2822" Y="760" WIDTH="45" HEIGHT="558" CONF="0.880" ORDER="2" STRING="見たものも、可なリにある。" />
+      <LINE TYPE="本文" X="2715" Y="755" WIDTH="59" HEIGHT="1209" CONF="0.915" ORDER="3" STRING="こんなにしてまで、實は、古い頃無反省の口拍子で出來た" />
+      <LINE TYPE="本文" X="2623" Y="749" WIDTH="62" HEIGHT="1215" CONF="0.909" ORDER="4" STRING="樣な歌を、保存する必要はないのである。 純な文藝の動" />
+      <LINE TYPE="本文" X="2531" Y="746" WIDTH="60" HEIGHT="1203" CONF="0.912" ORDER="5" STRING="機からしては、勿論意味のない事である。 けれども、私一" />
+      <LINE TYPE="本文" X="2440" Y="743" WIDTH="62" HEIGHT="1232" CONF="0.924" ORDER="6" STRING="人の歌心の展開を示すのには、少しは役に立つかと思ふ。" />
+      <LINE TYPE="本文" X="2348" Y="749" WIDTH="59" HEIGHT="1207" CONF="0.906" ORDER="7" STRING="私如きの歌に、さう言ふ試みをする事々體が、ま コトジ タイ" />
+      <LINE TYPE="本文" X="2257" Y="742" WIDTH="59" HEIGHT="1208" CONF="0.915" ORDER="8" STRING="ちがひの樣な氣もするのだが、其にも一つの口實が伴う" />
+      <LINE TYPE="本文" X="2189" Y="747" WIDTH="34" HEIGHT="151" CONF="0.853" ORDER="9" STRING="て居た。" />
+      <LINE TYPE="本文" X="2072" Y="732" WIDTH="62" HEIGHT="1231" CONF="0.921" ORDER="10" STRING="眞實私ほど、他人の影響を受けたものは少からう、と思ふ。" />
+      <LINE TYPE="本文" X="1980" Y="737" WIDTH="64" HEIGHT="1210" CONF="0.907" ORDER="11" STRING="此海月の樣な歌心の漂ひまはつた澪のあとを見れば、自" />
+      <SHAPE>
+        <POLYGON POINTS="1987,693,1987,1970,2957,1970,2957,693" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.950">
+      <LINE TYPE="本文" X="1527" Y="724" WIDTH="54" HEIGHT="1213" CONF="0.915" ORDER="12" STRING="ら、所謂新派和歌の變遷の姿が見えるのである。 古い處" />
+      <LINE TYPE="本文" X="1434" Y="724" WIDTH="56" HEIGHT="1208" CONF="0.914" ORDER="13" STRING="では、躬治先生の口まねがはつきり見えるし、やゝ進んで" />
+      <LINE TYPE="本文" X="1345" Y="723" WIDTH="55" HEIGHT="1208" CONF="0.908" ORDER="14" STRING="子規居士のひようげた側ばかりを學んだところも殘つ" />
+      <LINE TYPE="本文" X="1256" Y="723" WIDTH="55" HEIGHT="1209" CONF="0.908" ORDER="15" STRING="て居る。 鐵幹さんに對する反感が却て、其技巧に近づけ" />
+      <LINE TYPE="本文" X="1163" Y="723" WIDTH="55" HEIGHT="1207" CONF="0.917" ORDER="16" STRING="た樣なところも、十分に見える。 だから、根岸派の人々の" />
+      <LINE TYPE="本文" X="1071" Y="723" WIDTH="58" HEIGHT="1210" CONF="0.915" ORDER="17" STRING="中、此點から見れば、私は蝙蝠の樣な形をとつて居る。 其" />
+      <LINE TYPE="本文" X="979" Y="719" WIDTH="57" HEIGHT="1211" CONF="0.921" ORDER="18" STRING="次に來たのは、千樫さんの若い時代の、しなやかな抒情の" />
+      <LINE TYPE="本文" X="889" Y="717" WIDTH="56" HEIGHT="1215" CONF="0.908" ORDER="19" STRING="境地であつた。 赤彥さんの「馬鈴薯の花」時代の歌も、此意" />
+      <LINE TYPE="本文" X="797" Y="720" WIDTH="57" HEIGHT="1176" CONF="0.908" ORDER="20" STRING="味から、ある時期の私の養ひになつた事を覺えて居る。" />
+      <LINE TYPE="本文" X="706" Y="718" WIDTH="55" HEIGHT="1213" CONF="0.914" ORDER="21" STRING="茂吉さんとはあまりに性格が違ひすぎてゐる爲か、其印" />
+      <LINE TYPE="本文" X="617" Y="630" WIDTH="53" HEIGHT="1300" CONF="0.879" ORDER="22" STRING="象は近年にぼつ〓〓 見えて、以前には、ちつとも出て來な 17" />
+      <SHAPE>
+        <POLYGON POINTS="621,622,621,1938,1579,1938,1579,622" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="柱" X="2927" Y="666" WIDTH="41" HEIGHT="26" CONF="0.203" />
+    <BLOCK TYPE="ノンブル" X="2927" Y="666" WIDTH="41" HEIGHT="26" CONF="0.492" />
+    <BLOCK TYPE="ルビ" X="2389" Y="1722" WIDTH="21" HEIGHT="150" CONF="0.756" />
+  </PAGE>
+</OCRDATASET>

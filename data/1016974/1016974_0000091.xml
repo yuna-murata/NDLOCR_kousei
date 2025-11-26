@@ -1,0 +1,55 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000091.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.257">
+      <LINE TYPE="タイトル本文" X="2819" Y="896" WIDTH="63" HEIGHT="396" CONF="0.742" ORDER="3" STRING="野 あ る き" />
+      <SHAPE>
+        <POLYGON POINTS="2824,582,2824,1293,2953,1293,2953,582" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.871">
+      <LINE TYPE="本文" X="2645" Y="700" WIDTH="45" HEIGHT="1231" CONF="0.879" ORDER="4" STRING="白じろと 經木眞田を編みためて、 うつゝなき" />
+      <LINE TYPE="本文" X="2560" Y="705" WIDTH="44" HEIGHT="569" CONF="0.788" ORDER="5" STRING="かも。 草の上のをとめ" />
+      <SHAPE>
+        <POLYGON POINTS="2561,701,2561,1932,2691,1932,2691,701" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.468">
+      <LINE TYPE="本文" X="2379" Y="699" WIDTH="47" HEIGHT="1182" CONF="0.887" ORDER="7" STRING="道なかの庚申塚に穗麥さし、 わが來て去ると、" />
+      <LINE TYPE="本文" X="2296" Y="700" WIDTH="42" HEIGHT="337" CONF="0.842" ORDER="8" STRING="誰知るらめや" />
+      <LINE TYPE="本文" X="2117" Y="697" WIDTH="45" HEIGHT="1185" CONF="0.896" ORDER="10" STRING="草の藪深く入り立ち、 火をもやす男もだせり。" />
+      <LINE TYPE="本文" X="2035" Y="701" WIDTH="41" HEIGHT="389" CONF="0.811" ORDER="11" STRING="さびしともなく" />
+      <SHAPE>
+        <POLYGON POINTS="2040,694,2040,1891,2429,1891,2429,694" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.725">
+      <LINE TYPE="タイトル本文" X="1430" Y="939" WIDTH="47" HEIGHT="45" CONF="0.607" ORDER="14" STRING="桑" />
+      <SHAPE>
+        <POLYGON POINTS="1430,940,1430,984,1477,984,1477,940" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.850">
+      <LINE TYPE="本文" X="1237" Y="702" WIDTH="77" HEIGHT="1228" CONF="0.919" ORDER="15" STRING="桑の畑 若枝のもろ葉うちゆすり、 とほり照り" />
+      <LINE TYPE="本文" X="1155" Y="712" WIDTH="55" HEIGHT="507" CONF="0.868" ORDER="16" STRING="1 光りしづけし つ" />
+      <SHAPE>
+        <POLYGON POINTS="1155,704,1155,1931,1312,1931,1312,704" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.858">
+      <LINE TYPE="本文" X="979" Y="710" WIDTH="73" HEIGHT="1225" CONF="0.921" ORDER="18" STRING="さ芽だちのみどりのいろひ にほはしき桑の若" />
+      <LINE TYPE="本文" X="892" Y="709" WIDTH="53" HEIGHT="515" CONF="0.884" ORDER="20" STRING="枝は 塵かうむれり" />
+      <SHAPE>
+        <POLYGON POINTS="896,708,896,1936,1051,1936,1051,708" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.883">
+      <LINE TYPE="本文" X="718" Y="715" WIDTH="70" HEIGHT="1225" CONF="0.906" ORDER="22" STRING="うちわたす窪田のなだれ ひとゝころ。 桑の若" />
+      <LINE TYPE="本文" X="624" Y="591" WIDTH="56" HEIGHT="693" CONF="0.855" ORDER="23" STRING="枝の、 日にかゞやけり 169" />
+      <SHAPE>
+        <POLYGON POINTS="625,589,625,1941,787,1941,787,589" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="柱" X="2900" Y="583" WIDTH="52" HEIGHT="30" CONF="0.217" />
+    <BLOCK TYPE="ノンブル" X="2900" Y="583" WIDTH="52" HEIGHT="30" CONF="0.380" />
+  </PAGE>
+</OCRDATASET>

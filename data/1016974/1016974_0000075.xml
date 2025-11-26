@@ -1,0 +1,46 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000075.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.296">
+      <LINE TYPE="タイトル本文" X="2754" Y="896" WIDTH="57" HEIGHT="396" CONF="0.695" ORDER="3" STRING="大つごもり" />
+      <SHAPE>
+        <POLYGON POINTS="2756,587,2756,1292,2884,1292,2884,587" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.216">
+      <LINE TYPE="本文" X="2570" Y="707" WIDTH="46" HEIGHT="1216" CONF="0.874" ORDER="4" STRING="この霜にいで來ることか。 大みそか 砂風かぶ" />
+      <LINE TYPE="本文" X="2489" Y="705" WIDTH="42" HEIGHT="448" CONF="0.808" ORDER="5" STRING="る。 阪のかしらに" />
+      <LINE TYPE="本文" X="2305" Y="699" WIDTH="58" HEIGHT="1237" CONF="0.789" ORDER="7" STRING="乾鮭のさがり しみゝに暗き軒 錢よみわたし、" />
+      <LINE TYPE="本文" X="2224" Y="697" WIDTH="46" HEIGHT="333" CONF="0.830" ORDER="9" STRING="大みそかなる" />
+      <LINE TYPE="本文" X="2044" Y="694" WIDTH="54" HEIGHT="1221" CONF="0.798" ORDER="11" STRING="病む母も、 明日は雜煮の座になほる 下ゑまし" />
+      <LINE TYPE="本文" X="1962" Y="697" WIDTH="50" HEIGHT="562" CONF="0.794" ORDER="12" STRING="さに、 臥ておはすらむ" />
+      <SHAPE>
+        <POLYGON POINTS="1954,693,1954,1935,2811,1935,2811,693" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.818">
+      <LINE TYPE="本文" X="1459" Y="696" WIDTH="79" HEIGHT="1215" CONF="0.903" ORDER="14" STRING="この部屋に、 日ねもすあたる日の光り 大つご" />
+      <LINE TYPE="本文" X="1375" Y="697" WIDTH="58" HEIGHT="743" CONF="0.868" ORDER="16" STRING="もりを、 とすれば まどろむ" />
+      <SHAPE>
+        <POLYGON POINTS="1374,693,1374,1913,1536,1913,1536,693" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.397">
+      <LINE TYPE="本文" X="1193" Y="698" WIDTH="80" HEIGHT="1222" CONF="0.902" ORDER="17" STRING="屋向ひの岩崎の門に、 大かど松たつるさわぎを" />
+      <LINE TYPE="本文" X="1108" Y="702" WIDTH="51" HEIGHT="453" CONF="0.873" ORDER="18" STRING="見おろす。 われは" />
+      <LINE TYPE="本文" X="925" Y="701" WIDTH="88" HEIGHT="1234" CONF="0.910" ORDER="20" STRING="鱈の魚 おも〓〓持ちて來る女の、 片手の菊は、" />
+      <LINE TYPE="本文" X="841" Y="707" WIDTH="49" HEIGHT="333" CONF="0.843" ORDER="22" STRING="雨に濡れたり" />
+      <SHAPE>
+        <POLYGON POINTS="843,696,843,1938,1271,1938,1271,696" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.390">
+      <SHAPE>
+        <POLYGON POINTS="586,593,586,626,636,626,636,593" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="図版" X="2829" Y="587" WIDTH="55" HEIGHT="33" CONF="0.207" />
+    <BLOCK TYPE="ノンブル" X="586" Y="594" WIDTH="50" HEIGHT="32" CONF="0.621" />
+    <BLOCK TYPE="ノンブル" X="2829" Y="587" WIDTH="55" HEIGHT="33" CONF="0.524" />
+    <BLOCK TYPE="ルビ" X="2091" Y="1168" WIDTH="22" HEIGHT="88" CONF="0.611" />
+  </PAGE>
+</OCRDATASET>

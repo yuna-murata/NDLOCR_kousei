@@ -1,0 +1,29 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000033.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.363">
+      <LINE TYPE="本文" X="2846" Y="627" WIDTH="64" HEIGHT="1337" CONF="0.837" ORDER="0" STRING="あかり來る橋場の水に、 あかときのあわ雪ふり 52" />
+      <LINE TYPE="本文" X="2769" Y="754" WIDTH="43" HEIGHT="506" CONF="0.816" ORDER="1" STRING="て、 消えにけるかも" />
+      <LINE TYPE="本文" X="2585" Y="889" WIDTH="45" HEIGHT="451" CONF="0.642" ORDER="4" STRING="夏になりゆく頃" />
+      <LINE TYPE="本文" X="2399" Y="637" WIDTH="50" HEIGHT="1322" CONF="0.783" ORDER="6" STRING="春山の靑葉たけつゝつやめける 日となりなが" />
+      <LINE TYPE="本文" X="2321" Y="744" WIDTH="41" HEIGHT="452" CONF="0.825" ORDER="7" STRING="ら、 畫のさびしさ" />
+      <LINE TYPE="本文" X="2137" Y="743" WIDTH="47" HEIGHT="1217" CONF="0.879" ORDER="10" STRING="はやち吹く 竝み木の原は、 なきみてる蟬より" />
+      <LINE TYPE="本文" X="2054" Y="743" WIDTH="43" HEIGHT="567" CONF="0.828" ORDER="11" STRING="ほかの聲 たゝずけり" />
+      <SHAPE>
+        <POLYGON POINTS="2049,621,2049,1969,2902,1969,2902,621" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.235">
+      <LINE TYPE="本文" X="1460" Y="881" WIDTH="48" HEIGHT="530" CONF="0.637" ORDER="14" STRING="かの二三子に寄す" />
+      <LINE TYPE="本文" X="1280" Y="625" WIDTH="53" HEIGHT="1331" CONF="0.837" ORDER="17" STRING="この日ごろ ことばけはしくなりたりけり。 さ" />
+      <LINE TYPE="本文" X="1199" Y="736" WIDTH="43" HEIGHT="568" CONF="0.811" ORDER="19" STRING="びしき心 人を叱るも" />
+      <LINE TYPE="本文" X="1017" Y="634" WIDTH="52" HEIGHT="1321" CONF="0.862" ORDER="22" STRING="若き人の怠りくらす心はさびし。 いましめ易き" />
+      <LINE TYPE="本文" X="935" Y="735" WIDTH="40" HEIGHT="567" CONF="0.789" ORDER="23" STRING="ことにあらず その一" />
+      <LINE TYPE="本文" X="780" Y="716" WIDTH="51" HEIGHT="1233" CONF="0.842" ORDER="27" STRING="うつそみの人はさびしも。 すさのをぞ 怒りつ" />
+      <LINE TYPE="本文" X="681" Y="610" WIDTH="60" HEIGHT="992" CONF="0.800" ORDER="32" STRING="國は成しけるものを その二 53" />
+      <SHAPE>
+        <POLYGON POINTS="688,608,688,1963,1497,1963,1497,608" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2524" Y="2448" WIDTH="29" HEIGHT="22" CONF="0.476" />
+  </PAGE>
+</OCRDATASET>

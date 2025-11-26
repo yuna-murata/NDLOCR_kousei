@@ -1,0 +1,57 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000006.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.489">
+      <SHAPE>
+        <POLYGON POINTS="2890,528,2890,554,2916,554,2916,528" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.583">
+      <LINE TYPE="本文" X="2852" Y="802" WIDTH="60" HEIGHT="1327" CONF="0.928" ORDER="1" STRING="夏相聞 (七 首) 一元" />
+      <LINE TYPE="本文" X="2772" Y="800" WIDTH="61" HEIGHT="1322" CONF="0.916" ORDER="2" STRING="鑚仰庵 (十八首) 一六" />
+      <LINE TYPE="本文" X="2694" Y="798" WIDTH="59" HEIGHT="1329" CONF="0.922" ORDER="3" STRING="朝の森暮の森 (六 首) ·一六六" />
+      <LINE TYPE="本文" X="2615" Y="796" WIDTH="56" HEIGHT="1326" CONF="0.919" ORDER="4" STRING="野あるき (二十三首) ·一六八" />
+      <LINE TYPE="本文" X="2532" Y="800" WIDTH="58" HEIGHT="1321" CONF="0.923" ORDER="5" STRING="いろものせき (七 首) ···一七五" />
+      <LINE TYPE="本文" X="2452" Y="789" WIDTH="61" HEIGHT="1331" CONF="0.912" ORDER="6" STRING="〓志に與へたる (四 首) ·一七七" />
+      <LINE TYPE="本文" X="2375" Y="787" WIDTH="56" HEIGHT="1331" CONF="0.919" ORDER="7" STRING="校正室 (二) 首)· 天" />
+      <LINE TYPE="本文" X="2297" Y="786" WIDTH="55" HEIGHT="1332" CONF="0.916" ORDER="8" STRING="新橋停車場 (五 首) 一九" />
+      <LINE TYPE="本文" X="2209" Y="732" WIDTH="51" HEIGHT="222" CONF="0.589" ORDER="9" STRING="大正五年" />
+      <LINE TYPE="本文" X="2100" Y="785" WIDTH="58" HEIGHT="1328" CONF="0.913" ORDER="11" STRING="火口原 (十一首) 一八" />
+      <LINE TYPE="本文" X="2021" Y="784" WIDTH="56" HEIGHT="1328" CONF="0.924" ORDER="12" STRING="森の二時間 (六 ·道 一天" />
+      <LINE TYPE="本文" X="1940" Y="781" WIDTH="56" HEIGHT="1328" CONF="0.923" ORDER="13" STRING="初七日 (六 首)· 一人" />
+      <LINE TYPE="本文" X="1860" Y="787" WIDTH="56" HEIGHT="1320" CONF="0.896" ORDER="14" STRING="いろは館 (二 首) 一八〇" />
+      <SHAPE>
+        <POLYGON POINTS="1867,752,1867,2121,2905,2121,2905,752" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.359">
+      <SHAPE>
+        <POLYGON POINTS="642,513,642,543,665,543,665,513" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.795">
+      <LINE TYPE="タイトル本文" X="1629" Y="735" WIDTH="51" HEIGHT="774" CONF="0.725" ORDER="17" STRING="大正四年以前明治四十四年まで" />
+      <SHAPE>
+        <POLYGON POINTS="1628,734,1628,1509,1680,1509,1680,734" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.912">
+      <LINE TYPE="本文" X="1538" Y="792" WIDTH="44" HEIGHT="1325" CONF="0.896" ORDER="18" STRING="おほとしの日 (五 首) 一八" />
+      <LINE TYPE="本文" X="1455" Y="788" WIDTH="45" HEIGHT="1327" CONF="0.900" ORDER="19" STRING="左千夫翁三周忌 (四 首) 一八七" />
+      <LINE TYPE="本文" X="1375" Y="788" WIDTH="44" HEIGHT="1329" CONF="0.904" ORDER="20" STRING="(七 首)· 一大、 苑 道" />
+      <LINE TYPE="本文" X="1294" Y="786" WIDTH="44" HEIGHT="1330" CONF="0.908" ORDER="21" STRING="(四 首)· 夾 錢" />
+      <LINE TYPE="本文" X="1213" Y="794" WIDTH="45" HEIGHT="1324" CONF="0.915" ORDER="22" STRING="三矢五郞氏を悼む (三) 首) 一六九" />
+      <LINE TYPE="本文" X="1134" Y="785" WIDTH="44" HEIGHT="1330" CONF="0.910" ORDER="23" STRING="家びとの消息來 て 〓 首) 二〇〇" />
+      <LINE TYPE="本文" X="1054" Y="786" WIDTH="45" HEIGHT="1311" CONF="0.900" ORDER="24" STRING="我孫子 (五 首 二〇" />
+      <LINE TYPE="本文" X="975" Y="789" WIDTH="44" HEIGHT="1343" CONF="0.893" ORDER="25" STRING="太秦寺 (五 首 ·二〇二" />
+      <LINE TYPE="本文" X="894" Y="787" WIDTH="43" HEIGHT="1332" CONF="0.903" ORDER="26" STRING="原 (六 首) 二〇四 鹽" />
+      <LINE TYPE="本文" X="813" Y="788" WIDTH="45" HEIGHT="1329" CONF="0.903" ORDER="27" STRING="(二十一首)· 10m 生 徒" />
+      <LINE TYPE="本文" X="734" Y="787" WIDTH="46" HEIGHT="1330" CONF="0.901" ORDER="28" STRING="阿蘇を越えて (三 首)· 三" />
+      <LINE TYPE="本文" X="653" Y="787" WIDTH="47" HEIGHT="1329" CONF="0.903" ORDER="29" STRING="奧熊野 (二十三首) 二" />
+      <SHAPE>
+        <POLYGON POINTS="655,782,655,2122,1625,2122,1625,782" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2890" Y="528" WIDTH="26" HEIGHT="26" CONF="0.563" />
+    <BLOCK TYPE="ノンブル" X="642" Y="513" WIDTH="22" HEIGHT="30" CONF="0.401" />
+  </PAGE>
+</OCRDATASET>

@@ -1,0 +1,36 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000093.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.508">
+      <LINE TYPE="本文" X="2835" Y="595" WIDTH="58" HEIGHT="1355" CONF="0.873" ORDER="0" STRING="麥の原の穗だち はるけくおしなみに、 照り白 172" />
+      <LINE TYPE="本文" X="2758" Y="718" WIDTH="45" HEIGHT="572" CONF="0.791" ORDER="2" STRING="む日は 光りしづめり" />
+      <LINE TYPE="本文" X="2576" Y="714" WIDTH="57" HEIGHT="1231" CONF="0.871" ORDER="5" STRING="黑土の畝に、 穗立ちのひたさ靑 に 端正しきか" />
+      <LINE TYPE="本文" X="2494" Y="717" WIDTH="44" HEIGHT="394" CONF="0.825" ORDER="6" STRING="も。 麥秀き並ぶ" />
+      <LINE TYPE="本文" X="2314" Y="713" WIDTH="48" HEIGHT="1230" CONF="0.904" ORDER="7" STRING="麥の花 ひそかなれども、 目につきて咲きゐる" />
+      <LINE TYPE="本文" X="2228" Y="714" WIDTH="48" HEIGHT="577" CONF="0.854" ORDER="8" STRING="暮れを 風のさびしさ" />
+      <LINE TYPE="本文" X="2051" Y="713" WIDTH="50" HEIGHT="1231" CONF="0.891" ORDER="10" STRING="山岸に 穗麥のあかり照りかへり、 あらはなる" />
+      <LINE TYPE="本文" X="1967" Y="716" WIDTH="45" HEIGHT="396" CONF="0.800" ORDER="12" STRING="か も。 赤松の幹" />
+      <SHAPE>
+        <POLYGON POINTS="1969,633,1969,1957,2896,1957,2896,633" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.255">
+      <LINE TYPE="本文" X="1501" Y="710" WIDTH="67" HEIGHT="1228" CONF="0.904" ORDER="15" STRING="夕畑や 黑穗の立ちの まざ〓〓と をちこち" />
+      <LINE TYPE="本文" X="1417" Y="708" WIDTH="54" HEIGHT="692" CONF="0.861" ORDER="17" STRING="見えて さびし。 入る日の" />
+      <LINE TYPE="本文" X="1237" Y="712" WIDTH="66" HEIGHT="1170" CONF="0.912" ORDER="18" STRING="夕かげる麥原中道おち窪に、 蹈み處をぐらく" />
+      <LINE TYPE="本文" X="1150" Y="716" WIDTH="47" HEIGHT="336" CONF="0.850" ORDER="19" STRING="日は洩り來る" />
+      <LINE TYPE="本文" X="981" Y="715" WIDTH="74" HEIGHT="1228" CONF="0.916" ORDER="20" STRING="草のうへに 蹈みためがたきわが歩み。 はだし" />
+      <LINE TYPE="本文" X="895" Y="724" WIDTH="59" HEIGHT="690" CONF="0.883" ORDER="21" STRING="になれど、 いたもすべなし" />
+      <LINE TYPE="本文" X="717" Y="717" WIDTH="70" HEIGHT="1186" CONF="0.894" ORDER="23" STRING="畫ぎらふ麥原めぐりて來たる音 車かたりと、" />
+      <LINE TYPE="本文" X="631" Y="601" WIDTH="50" HEIGHT="454" CONF="0.843" ORDER="25" STRING="土橋にかゝる 173" />
+      <SHAPE>
+        <POLYGON POINTS="631,603,631,1944,1562,1944,1562,603" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="1290" Y="1010" WIDTH="23" HEIGHT="15" CONF="0.467" />
+    <BLOCK TYPE="ルビ" X="2887" Y="841" WIDTH="21" HEIGHT="18" CONF="0.467" />
+    <BLOCK TYPE="ルビ" X="2539" Y="896" WIDTH="18" HEIGHT="20" CONF="0.447" />
+    <BLOCK TYPE="ルビ" X="1302" Y="1610" WIDTH="19" HEIGHT="23" CONF="0.444" />
+    <BLOCK TYPE="ルビ" X="2624" Y="1487" WIDTH="23" HEIGHT="27" CONF="0.250" />
+    <BLOCK TYPE="ルビ" X="2539" Y="896" WIDTH="18" HEIGHT="20" CONF="0.217" />
+  </PAGE>
+</OCRDATASET>

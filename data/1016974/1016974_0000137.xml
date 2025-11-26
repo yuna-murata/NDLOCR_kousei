@@ -1,0 +1,49 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000137.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.951">
+      <LINE TYPE="本文" X="2956" Y="675" WIDTH="40" HEIGHT="1291" CONF="0.845" ORDER="1" STRING="ば」や「すがた」の上から來るものである。 私はもつと本領" />
+      <LINE TYPE="本文" X="2862" Y="753" WIDTH="42" HEIGHT="1226" CONF="0.911" ORDER="2" STRING="がありさうな氣がする。 やつぱり前に言つた「これから」" />
+      <LINE TYPE="本文" X="2772" Y="753" WIDTH="42" HEIGHT="1207" CONF="0.922" ORDER="4" STRING="である。 だが、「これから」が いつまでも「これから」で ありさ" />
+      <LINE TYPE="本文" X="2683" Y="748" WIDTH="39" HEIGHT="459" CONF="0.893" ORDER="5" STRING="うな、心細い氣もする。" />
+      <LINE TYPE="本文" X="2589" Y="746" WIDTH="42" HEIGHT="1212" CONF="0.913" ORDER="6" STRING="私の歌を見ていたゞいて、第一に、かはつた感じのしよう" />
+      <LINE TYPE="本文" X="2497" Y="746" WIDTH="42" HEIGHT="1210" CONF="0.920" ORDER="7" STRING="と思ふのは、句讀法の上にあるだらう。 私の友だちはみ" />
+      <LINE TYPE="本文" X="2404" Y="745" WIDTH="43" HEIGHT="1213" CONF="0.924" ORDER="8" STRING="な、つまらない努力だ。 そんなにして、やつと訣る樣な歌" />
+      <LINE TYPE="本文" X="2311" Y="745" WIDTH="46" HEIGHT="1209" CONF="0.907" ORDER="9" STRING="なら、技巧が不完全なのだと言ふ。 けれども此點で は必" />
+      <LINE TYPE="本文" X="2219" Y="744" WIDTH="43" HEIGHT="1207" CONF="0.915" ORDER="10" STRING="は、極めて不遜である。 私が、歌にきれ目を入れる事は、そ" />
+      <LINE TYPE="本文" X="2127" Y="742" WIDTH="46" HEIGHT="1208" CONF="0.917" ORDER="11" STRING="んな事の爲ばかりではない。 文字に表される文學とし" />
+      <LINE TYPE="本文" X="2036" Y="740" WIDTH="44" HEIGHT="1208" CONF="0.911" ORDER="12" STRING="ては、當然とるべき形式として、皆で試みなければならぬ" />
+      <SHAPE>
+        <POLYGON POINTS="2038,651,2038,1972,2995,1972,2995,651" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.208">
+      <SHAPE>
+        <POLYGON POINTS="673,667,673,689,710,689,710,667" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.970">
+      <LINE TYPE="本文" X="1595" Y="737" WIDTH="77" HEIGHT="1210" CONF="0.934" ORDER="14" STRING="事を、人々が怠つて居るだけなのである。 短册·色紙には" />
+      <LINE TYPE="本文" X="1502" Y="739" WIDTH="77" HEIGHT="1210" CONF="0.919" ORDER="15" STRING="しり書きするのと、活字にするのとは別である。 だらし" />
+      <LINE TYPE="本文" X="1411" Y="746" WIDTH="78" HEIGHT="1208" CONF="0.936" ORDER="16" STRING="ない昔の優美をそのまゝついで、自身の呼吸や、思想の休" />
+      <LINE TYPE="本文" X="1318" Y="748" WIDTH="79" HEIGHT="1209" CONF="0.937" ORDER="17" STRING="止點を示す、必要を感じないのんきな心を持つて居て貰" />
+      <LINE TYPE="本文" X="1229" Y="746" WIDTH="76" HEIGHT="1209" CONF="0.936" ORDER="18" STRING="うては困る。 そればかりか、かうした試みを、輕い意味に" />
+      <LINE TYPE="本文" X="1134" Y="746" WIDTH="78" HEIGHT="1208" CONF="0.937" ORDER="19" STRING="考へ易いのは、文字表示法に對して、あまり恥しいなげや" />
+      <LINE TYPE="本文" X="1046" Y="751" WIDTH="75" HEIGHT="1210" CONF="0.928" ORDER="20" STRING="りではないか。 技巧に專念であればあるほど、字面の感" />
+      <LINE TYPE="本文" X="955" Y="752" WIDTH="76" HEIGHT="1211" CONF="0.934" ORDER="21" STRING="じにまで敏感になる。 漢字と假名との配合や、字畫の感" />
+      <LINE TYPE="本文" X="863" Y="753" WIDTH="77" HEIGHT="1208" CONF="0.933" ORDER="22" STRING="觸などにまで心を使ふのは、寧ろ誇るべき事である。" />
+      <LINE TYPE="本文" X="770" Y="756" WIDTH="78" HEIGHT="1206" CONF="0.938" ORDER="23" STRING="かも其よりも、一層內在して居る拍子を示すのに、出來る" />
+      <LINE TYPE="本文" X="678" Y="757" WIDTH="79" HEIGHT="1176" CONF="0.925" ORDER="24" STRING="だけ骨を折る事が、なぜ問題にもならないのであらう。" />
+      <SHAPE>
+        <POLYGON POINTS="681,736,681,1966,1668,1966,1668,736" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.221">
+      <SHAPE>
+        <POLYGON POINTS="1012,2202,1012,2228,1042,2228,1042,2202" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="673" Y="667" WIDTH="37" HEIGHT="22" CONF="0.643" />
+    <BLOCK TYPE="ノンブル" X="1012" Y="2202" WIDTH="29" HEIGHT="25" CONF="0.448" />
+    <BLOCK TYPE="ノンブル" X="2957" Y="665" WIDTH="37" HEIGHT="23" CONF="0.443" />
+  </PAGE>
+</OCRDATASET>

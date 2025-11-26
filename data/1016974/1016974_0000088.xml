@@ -1,0 +1,53 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000088.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.268">
+      <LINE TYPE="本文" X="2906" Y="635" WIDTH="47" HEIGHT="1346" CONF="0.873" ORDER="0" STRING="長き日の默の久しさ 堪へ來つゝ、 このさ夜な 162" />
+      <LINE TYPE="本文" X="2825" Y="758" WIDTH="42" HEIGHT="509" CONF="0.829" ORDER="1" STRING="かに、 一人もの言ふ" />
+      <LINE TYPE="本文" X="2643" Y="753" WIDTH="47" HEIGHT="1224" CONF="0.885" ORDER="6" STRING="十方の蟲 こぞり來る聲聞ゆ。 野に、 ひとつ燈" />
+      <LINE TYPE="本文" X="2562" Y="752" WIDTH="43" HEIGHT="513" CONF="0.829" ORDER="7" STRING="を守るは くるしゑ" />
+      <LINE TYPE="本文" X="2377" Y="750" WIDTH="49" HEIGHT="1225" CONF="0.891" ORDER="9" STRING="更けて戾る夜戶のたどりに 觸りつれば、 いち" />
+      <LINE TYPE="本文" X="2294" Y="752" WIDTH="46" HEIGHT="864" CONF="0.877" ORDER="10" STRING="じゅくの乳は、 ふくらみたりけり" />
+      <LINE TYPE="本文" X="2111" Y="746" WIDTH="50" HEIGHT="1226" CONF="0.900" ORDER="11" STRING="梅雨ふかく今はなりぬれ、 暫時の照りのあかり" />
+      <LINE TYPE="本文" X="2033" Y="746" WIDTH="43" HEIGHT="509" CONF="0.871" ORDER="12" STRING="を いみじがり居る" />
+      <SHAPE>
+        <POLYGON POINTS="2036,625,2036,1985,2962,1985,2962,625" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.807">
+      <LINE TYPE="本文" X="1513" Y="715" WIDTH="47" HEIGHT="1232" CONF="0.874" ORDER="14" STRING="刈りしほの麥の穗あかり昏れぬれど、 いよゝさ" />
+      <LINE TYPE="本文" X="1426" Y="715" WIDTH="43" HEIGHT="513" CONF="0.817" ORDER="15" STRING="やけく 蛙子は鳴く" />
+      <SHAPE>
+        <POLYGON POINTS="1427,712,1427,1946,1562,1946,1562,712" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.728">
+      <LINE TYPE="本文" X="1248" Y="710" WIDTH="51" HEIGHT="1171" CONF="0.885" ORDER="17" STRING="刈りしほの麥原のなかは 晝の如明り殘りて" />
+      <LINE TYPE="本文" X="1161" Y="714" WIDTH="41" HEIGHT="274" CONF="0.843" ORDER="18" STRING="蛙鳴きゐる" />
+      <SHAPE>
+        <POLYGON POINTS="1161,712,1161,1885,1306,1885,1306,712" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.205">
+      <LINE TYPE="本文" X="986" Y="716" WIDTH="48" HEIGHT="1246" CONF="0.892" ORDER="20" STRING="二三人 汽車おり來つる高聲の こゝにし響く。" />
+      <LINE TYPE="本文" X="902" Y="716" WIDTH="42" HEIGHT="337" CONF="0.751" ORDER="21" STRING="おし照る月夜" />
+      <LINE TYPE="本文" X="721" Y="716" WIDTH="52" HEIGHT="1243" CONF="0.888" ORDER="25" STRING="さ夜霽れのさみだれ空の底あかり。 沼田の濱 に、" />
+      <LINE TYPE="本文" X="636" Y="585" WIDTH="49" HEIGHT="406" CONF="0.679" ORDER="27" STRING="螢はすだく 163" />
+      <SHAPE>
+        <POLYGON POINTS="638,572,638,1964,1029,1964,1029,572" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="1468" Y="935" WIDTH="25" HEIGHT="102" CONF="0.741" />
+    <BLOCK TYPE="ルビ" X="2158" Y="1462" WIDTH="21" HEIGHT="91" CONF="0.647" />
+    <BLOCK TYPE="ルビ" X="2957" Y="991" WIDTH="21" HEIGHT="39" CONF="0.557" />
+    <BLOCK TYPE="ルビ" X="2338" Y="982" WIDTH="22" HEIGHT="20" CONF="0.550" />
+    <BLOCK TYPE="ルビ" X="2608" Y="806" WIDTH="21" HEIGHT="21" CONF="0.522" />
+    <BLOCK TYPE="ルビ" X="1299" Y="1545" WIDTH="21" HEIGHT="43" CONF="0.497" />
+    <BLOCK TYPE="ルビ" X="769" Y="817" WIDTH="26" HEIGHT="1123" CONF="0.485" />
+    <BLOCK TYPE="ルビ" X="768" Y="822" WIDTH="21" HEIGHT="22" CONF="0.455" />
+    <BLOCK TYPE="ルビ" X="773" Y="1851" WIDTH="24" HEIGHT="44" CONF="0.434" />
+    <BLOCK TYPE="ルビ" X="2339" Y="983" WIDTH="21" HEIGHT="18" CONF="0.329" />
+    <BLOCK TYPE="ルビ" X="1561" Y="1372" WIDTH="18" HEIGHT="23" CONF="0.305" />
+    <BLOCK TYPE="ルビ" X="763" Y="822" WIDTH="35" HEIGHT="1120" CONF="0.239" />
+    <BLOCK TYPE="ルビ" X="774" Y="1851" WIDTH="22" HEIGHT="109" CONF="0.222" />
+  </PAGE>
+</OCRDATASET>

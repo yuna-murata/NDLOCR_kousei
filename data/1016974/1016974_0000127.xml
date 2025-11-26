@@ -1,0 +1,42 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000127.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.374">
+      <SHAPE>
+        <POLYGON POINTS="2879,640,2879,1923,2984,1923,2984,640" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.544">
+      <LINE TYPE="本文" X="2885" Y="999" WIDTH="65" HEIGHT="924" CONF="0.731" ORDER="5" STRING="明治卅七年、 中學の卒業試驗に落第して、" />
+      <LINE TYPE="本文" X="2829" Y="998" WIDTH="39" HEIGHT="152" CONF="0.718" ORDER="6" STRING="その秋。" />
+      <LINE TYPE="注" X="2694" Y="1064" WIDTH="22" HEIGHT="103" CONF="0.226" ORDER="9" STRING="スゞロサム" />
+      <LINE TYPE="本文" X="2624" Y="752" WIDTH="79" HEIGHT="1225" CONF="0.837" ORDER="11" STRING="秋たけぬ。 荒涼さを 戶によれば、 枯れ野にお" />
+      <LINE TYPE="本文" X="2542" Y="755" WIDTH="81" HEIGHT="1130" CONF="0.792" ORDER="15" STRING="つる 鶸のひとむれ 「大和傍丘の洪一の家にやどる」" />
+      <SHAPE>
+        <POLYGON POINTS="2552,706,2552,1974,2969,1974,2969,706" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.872">
+      <LINE TYPE="タイトル本文" X="1464" Y="902" WIDTH="49" HEIGHT="380" CONF="0.834" ORDER="17" STRING="この集のすゑに" />
+      <SHAPE>
+        <POLYGON POINTS="1464,902,1464,1282,1513,1282,1513,902" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.926">
+      <LINE TYPE="本文" X="1287" Y="716" WIDTH="52" HEIGHT="1209" CONF="0.930" ORDER="18" STRING="鷗外博士の最後の文集は、確 か「蛙」と言うた樣に思ふ。 長" />
+      <LINE TYPE="本文" X="1196" Y="727" WIDTH="51" HEIGHT="1211" CONF="0.930" ORDER="19" STRING="い愛著をふりきつて、學問に立ち戾らうと言つた語氣を、" />
+      <LINE TYPE="本文" X="1104" Y="719" WIDTH="52" HEIGHT="1208" CONF="0.928" ORDER="20" STRING="その序文に見出して、寂しまずには居られなかつた。 所" />
+      <LINE TYPE="本文" X="1013" Y="719" WIDTH="50" HEIGHT="1204" CONF="0.918" ORDER="21" STRING="謂とんぼう。蝶々を烏のうちにかぞまへる態度からすれ" />
+      <LINE TYPE="本文" X="922" Y="722" WIDTH="51" HEIGHT="1201" CONF="0.925" ORDER="22" STRING="ば、私なども、蛙は蛙である。 其も、ほんのはかない、枝蛙で" />
+      <LINE TYPE="本文" X="833" Y="722" WIDTH="47" HEIGHT="1206" CONF="0.908" ORDER="23" STRING="ある。 しかも極めて、周圍に順應する事の拙い、蠢きを續" />
+      <LINE TYPE="本文" X="737" Y="722" WIDTH="52" HEIGHT="1204" CONF="0.911" ORDER="24" STRING="けて來た。 學者なかまに立ちまじると、文學者肌が目だ" />
+      <LINE TYPE="本文" X="645" Y="711" WIDTH="55" HEIGHT="1212" CONF="0.882" ORDER="25" STRING="つた。 文學者の群れにゆくと、あまり著しく、自在を失う" />
+      <SHAPE>
+        <POLYGON POINTS="646,657,646,1933,1335,1933,1335,657" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2929" Y="639" WIDTH="55" HEIGHT="25" CONF="0.480" />
+    <BLOCK TYPE="ノンブル" X="636" Y="633" WIDTH="30" HEIGHT="22" CONF="0.360" />
+    <BLOCK TYPE="ルビ" X="2694" Y="1064" WIDTH="22" HEIGHT="103" CONF="0.540" />
+    <BLOCK TYPE="ルビ" X="2614" Y="923" WIDTH="18" HEIGHT="37" CONF="0.384" />
+  </PAGE>
+</OCRDATASET>

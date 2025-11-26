@@ -1,0 +1,30 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000011.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.382">
+      <LINE TYPE="本文" X="2746" Y="644" WIDTH="54" HEIGHT="1344" CONF="0.806" ORDER="0" STRING="8 山の際の空ひた曇る さびしさよ。 四方 の木む" />
+      <LINE TYPE="本文" X="2669" Y="766" WIDTH="41" HEIGHT="513" CONF="0.763" ORDER="1" STRING="らは 音たえにけり" />
+      <LINE TYPE="本文" X="2488" Y="765" WIDTH="43" HEIGHT="1219" CONF="0.896" ORDER="4" STRING="この島に、 われを見知れる人はあらず。 やすし" />
+      <LINE TYPE="本文" X="2404" Y="761" WIDTH="43" HEIGHT="688" CONF="0.880" ORDER="5" STRING="と思ふあゆみの さびしさ" />
+      <LINE TYPE="本文" X="2226" Y="755" WIDTH="46" HEIGHT="1219" CONF="0.888" ORDER="6" STRING="わがあとに 步みゆるべずつゞき來る子にもの" />
+      <LINE TYPE="本文" X="2141" Y="755" WIDTH="46" HEIGHT="634" CONF="0.850" ORDER="7" STRING="言へば、 恥ぢてこたへず" />
+      <LINE TYPE="本文" X="1964" Y="755" WIDTH="46" HEIGHT="1221" CONF="0.894" ORDER="10" STRING="ひとりある心ゆるびに、 島山のさやけきに向き" />
+      <LINE TYPE="本文" X="1884" Y="765" WIDTH="41" HEIGHT="449" CONF="0.842" ORDER="12" STRING="て、 息つきにけり" />
+      <SHAPE>
+        <POLYGON POINTS="1886,680,1886,1988,2810,1988,2810,680" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.267">
+      <LINE TYPE="本文" X="1526" Y="748" WIDTH="50" HEIGHT="1219" CONF="0.907" ORDER="15" STRING="ゆき行きて、 ひそけさあまる山路かな。 ひとり" />
+      <LINE TYPE="本文" X="1440" Y="750" WIDTH="45" HEIGHT="688" CONF="0.854" ORDER="17" STRING="ごゝろは もの言ひにけり" />
+      <LINE TYPE="本文" X="1262" Y="745" WIDTH="53" HEIGHT="1224" CONF="0.911" ORDER="19" STRING="もの言はぬ日かさなれり。 稀に言ふことばつた" />
+      <LINE TYPE="本文" X="1176" Y="750" WIDTH="46" HEIGHT="391" CONF="0.830" ORDER="21" STRING="なく 足らふ心" />
+      <LINE TYPE="本文" X="1001" Y="754" WIDTH="51" HEIGHT="1214" CONF="0.908" ORDER="23" STRING="いきどほる心すべなし。 手にすゑて、 蟹のはさ" />
+      <LINE TYPE="本文" X="916" Y="748" WIDTH="43" HEIGHT="569" CONF="0.842" ORDER="24" STRING="みを もぎはなちたり" />
+      <LINE TYPE="本文" X="736" Y="748" WIDTH="56" HEIGHT="1220" CONF="0.897" ORDER="26" STRING="澤の道に、 こゝだ逃げ散る蟹のむれ 踏みつぶ" />
+      <LINE TYPE="本文" X="650" Y="634" WIDTH="61" HEIGHT="686" CONF="0.529" ORDER="29" STRING="しつゝ、 心むなしもよ" />
+      <SHAPE>
+        <POLYGON POINTS="656,641,656,1981,1581,1981,1581,641" />
+      </SHAPE>
+    </TEXTBLOCK>
+  </PAGE>
+</OCRDATASET>

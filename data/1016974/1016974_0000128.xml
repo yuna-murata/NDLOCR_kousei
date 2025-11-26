@@ -1,0 +1,40 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000128.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.949">
+      <LINE TYPE="本文" X="2890" Y="669" WIDTH="60" HEIGHT="1279" CONF="0.837" ORDER="5" STRING="た學究臭さが省みられた。 幾たの友だちも、長い携りか" />
+      <LINE TYPE="本文" X="2803" Y="744" WIDTH="54" HEIGHT="1219" CONF="0.918" ORDER="0" STRING="ら手をふりもいで、私の及ばぬ遠い處にのいてしまうた。" />
+      <LINE TYPE="本文" X="2707" Y="736" WIDTH="59" HEIGHT="1211" CONF="0.914" ORDER="6" STRING="先輩の多くは、私の、道草を嗜む事の甚しさを惡んで、めん" />
+      <LINE TYPE="本文" X="2618" Y="736" WIDTH="56" HEIGHT="1207" CONF="0.916" ORDER="7" STRING="どうを見てくれなくなつて行つた。 そんな中で、久しく" />
+      <LINE TYPE="本文" X="2526" Y="732" WIDTH="59" HEIGHT="1207" CONF="0.928" ORDER="8" STRING="私の上に、溫かい「まもり」を續けてゐて下されたのは、故三" />
+      <LINE TYPE="本文" X="2433" Y="729" WIDTH="62" HEIGHT="1207" CONF="0.916" ORDER="9" STRING="矢重松先生である。 血をおびた大きな先生の眼は、私に" />
+      <LINE TYPE="本文" X="2345" Y="728" WIDTH="57" HEIGHT="1224" CONF="0.920" ORDER="10" STRING="とつて、「かしこまリ」でもあり、「やすらひ」でもあつた。 併し、" />
+      <LINE TYPE="本文" X="2252" Y="725" WIDTH="57" HEIGHT="1207" CONF="0.918" ORDER="11" STRING="唯一つ私の上に臨んでゐたその溫い眼も、私を見棄てる" />
+      <LINE TYPE="本文" X="2166" Y="724" WIDTH="52" HEIGHT="864" CONF="0.917" ORDER="12" STRING="に到るほど、私は長く中道に悶えて居た。" />
+      <LINE TYPE="本文" X="2067" Y="720" WIDTH="57" HEIGHT="1206" CONF="0.901" ORDER="13" STRING="さうなる問、私の一作々々を、私の〓究を見るにひとしい" />
+      <LINE TYPE="本文" X="1975" Y="716" WIDTH="60" HEIGHT="1207" CONF="0.895" ORDER="14" STRING="歡びを以て、どんなに聽き入つて下された事であつたら" />
+      <SHAPE>
+        <POLYGON POINTS="1979,672,1979,1957,2947,1957,2947,672" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.972">
+      <LINE TYPE="本文" X="1563" Y="708" WIDTH="51" HEIGHT="1208" CONF="0.911" ORDER="15" STRING="5。 安倍ノ晴明とうち臥しの巫女との術くらべを中心に" />
+      <LINE TYPE="本文" X="1468" Y="706" WIDTH="55" HEIGHT="1229" CONF="0.931" ORDER="16" STRING="置いた脚本は、王朝文學〓究の具體化出來たものとして、" />
+      <LINE TYPE="本文" X="1376" Y="708" WIDTH="53" HEIGHT="1228" CONF="0.928" ORDER="17" STRING="過褒を賜つた。 水漬きつゝ敵愾を謠うた「おほやまもり」" />
+      <LINE TYPE="本文" X="1288" Y="716" WIDTH="53" HEIGHT="1220" CONF="0.935" ORDER="18" STRING="の死の叙事詩の構想は、國學の窮極地だとまでの保證を、" />
+      <LINE TYPE="本文" X="1195" Y="714" WIDTH="45" HEIGHT="609" CONF="0.922" ORDER="19" STRING="先生から受けた事であつた。" />
+      <LINE TYPE="本文" X="1102" Y="714" WIDTH="53" HEIGHT="1205" CONF="0.920" ORDER="20" STRING="更に又、茂吉さん·赤彥さん等のひき廻しで、「あらゝぎ」の 上" />
+      <LINE TYPE="本文" X="1011" Y="720" WIDTH="52" HEIGHT="1202" CONF="0.917" ORDER="21" STRING="に、自由に作物を發表する事の出來る樣になつた時、本氣" />
+      <LINE TYPE="本文" X="920" Y="722" WIDTH="53" HEIGHT="1202" CONF="0.921" ORDER="22" STRING="になつて喜んで下されたのは、東京では、先生が第一の人" />
+      <LINE TYPE="本文" X="829" Y="723" WIDTH="56" HEIGHT="1204" CONF="0.910" ORDER="23" STRING="であつたに違ひない。 其先生すらも、最後には、私の低回" />
+      <LINE TYPE="本文" X="736" Y="725" WIDTH="56" HEIGHT="1219" CONF="0.916" ORDER="24" STRING="を憐み、私の歌の、その鑑賞に入り難くなつた事を憎んで、" />
+      <LINE TYPE="本文" X="643" Y="627" WIDTH="56" HEIGHT="1300" CONF="0.826" ORDER="25" STRING="や ゝ、心を文學に斷つやうに漁められる傾きになつて來" />
+      <SHAPE>
+        <POLYGON POINTS="648,632,648,1942,1613,1942,1613,632" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2932" Y="657" WIDTH="20" HEIGHT="20" CONF="0.376" />
+    <BLOCK TYPE="ルビ" X="1423" Y="1071" WIDTH="17" HEIGHT="76" CONF="0.695" />
+    <BLOCK TYPE="ルビ" X="1424" Y="1122" WIDTH="19" HEIGHT="25" CONF="0.399" />
+    <BLOCK TYPE="ルビ" X="870" Y="903" WIDTH="15" HEIGHT="15" CONF="0.226" />
+  </PAGE>
+</OCRDATASET>

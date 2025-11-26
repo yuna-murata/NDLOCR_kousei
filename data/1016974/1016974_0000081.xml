@@ -1,0 +1,61 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000081.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.530">
+      <LINE TYPE="本文" X="2848" Y="588" WIDTH="56" HEIGHT="33" CONF="0.325" ORDER="0" STRING="148" />
+      <LINE TYPE="本文" X="2847" Y="647" WIDTH="66" HEIGHT="1268" CONF="0.625" ORDER="2" STRING="眉間に、 いまはのなやみ顯ち來たる 母が命を" />
+      <LINE TYPE="本文" X="2770" Y="714" WIDTH="42" HEIGHT="393" CONF="0.760" ORDER="3" STRING="死なせじとすも" />
+      <SHAPE>
+        <POLYGON POINTS="2770,596,2770,1919,2921,1919,2921,596" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.748">
+      <LINE TYPE="本文" X="2589" Y="709" WIDTH="48" HEIGHT="1241" CONF="0.893" ORDER="6" STRING="死にたまふ母の病ひに趨くと ゐやまひふかし。" />
+      <LINE TYPE="本文" X="2508" Y="707" WIDTH="45" HEIGHT="395" CONF="0.817" ORDER="7" STRING="汽車のとよみに" />
+      <SHAPE>
+        <POLYGON POINTS="2508,705,2508,1950,2636,1950,2636,705" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.652">
+      <LINE TYPE="本文" X="2325" Y="704" WIDTH="51" HEIGHT="1226" CONF="0.889" ORDER="9" STRING="汽車はしる 闇夜にしるき霜の照り。 この冷け" />
+      <LINE TYPE="本文" X="2249" Y="710" WIDTH="41" HEIGHT="508" CONF="0.816" ORDER="10" STRING="さに、 人は死なじも" />
+      <SHAPE>
+        <POLYGON POINTS="2249,705,2249,1934,2376,1934,2376,705" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.761">
+      <LINE TYPE="本文" X="2065" Y="702" WIDTH="52" HEIGHT="1224" CONF="0.895" ORDER="13" STRING="汽車の燈は、 片あかりをり。 をぐらき顏うつれ" />
+      <LINE TYPE="本文" X="1985" Y="707" WIDTH="47" HEIGHT="566" CONF="0.860" ORDER="14" STRING="る聰に、 夜深く對へり" />
+      <SHAPE>
+        <POLYGON POINTS="1987,701,1987,1927,2115,1927,2115,701" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.744">
+      <LINE TYPE="本文" X="1572" Y="694" WIDTH="64" HEIGHT="1223" CONF="0.884" ORDER="15" STRING="腮の外は 師走八日の朝の霜。 この夜のねぶり" />
+      <LINE TYPE="本文" X="1488" Y="757" WIDTH="46" HEIGHT="334" CONF="0.816" ORDER="16" STRING="難かりしかも" />
+      <SHAPE>
+        <POLYGON POINTS="1488,691,1488,1917,1635,1917,1635,691" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.325">
+      <LINE TYPE="本文" X="1312" Y="697" WIDTH="60" HEIGHT="1224" CONF="0.907" ORDER="19" STRING="汽車に明けて、 野山の霜の朝けぶり すがしき" />
+      <LINE TYPE="本文" X="1228" Y="698" WIDTH="45" HEIGHT="572" CONF="0.853" ORDER="20" STRING="今朝を 母死なめやも" />
+      <LINE TYPE="本文" X="1051" Y="700" WIDTH="61" HEIGHT="1222" CONF="0.902" ORDER="23" STRING="病む母の心 おろかになりぬらし。 わが名を呼" />
+      <LINE TYPE="本文" X="967" Y="702" WIDTH="48" HEIGHT="448" CONF="0.855" ORDER="24" STRING="べり。 幼名によび" />
+      <SHAPE>
+        <POLYGON POINTS="968,694,968,1927,1370,1927,1370,694" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.819">
+      <LINE TYPE="本文" X="790" Y="704" WIDTH="60" HEIGHT="1214" CONF="0.873" ORDER="26" STRING="いわけなき母をいさむるみとり女の 訛り語り" />
+      <LINE TYPE="本文" X="702" Y="578" WIDTH="53" HEIGHT="509" CONF="0.740" ORDER="28" STRING="憑しくあり 149 の" />
+      <SHAPE>
+        <POLYGON POINTS="706,581,706,1918,860,1918,860,581" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="1616" Y="813" WIDTH="21" HEIGHT="46" CONF="0.647" />
+    <BLOCK TYPE="ルビ" X="2370" Y="1831" WIDTH="20" HEIGHT="45" CONF="0.563" />
+    <BLOCK TYPE="ルビ" X="750" Y="792" WIDTH="22" HEIGHT="71" CONF="0.482" />
+    <BLOCK TYPE="ルビ" X="2902" Y="715" WIDTH="21" HEIGHT="679" CONF="0.374" />
+    <BLOCK TYPE="ルビ" X="2901" Y="1374" WIDTH="19" HEIGHT="16" CONF="0.215" />
+  </PAGE>
+</OCRDATASET>

@@ -1,0 +1,37 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000123.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.323">
+      <LINE TYPE="本文" X="2884" Y="587" WIDTH="60" HEIGHT="1347" CONF="0.827" ORDER="0" STRING="山のひだ さやかに見えて、 大空に、 昏れゆく 232" />
+      <LINE TYPE="本文" X="2808" Y="700" WIDTH="55" HEIGHT="516" CONF="0.668" ORDER="1" STRING="莵道の春をさびしむ" />
+      <LINE TYPE="本文" X="2620" Y="698" WIDTH="54" HEIGHT="1228" CONF="0.879" ORDER="3" STRING="ともしびの見ゆるをちこち 山くれて、 宇治の" />
+      <LINE TYPE="本文" X="2543" Y="696" WIDTH="48" HEIGHT="632" CONF="0.805" ORDER="4" STRING="瀨の音は 高まりにけり" />
+      <LINE TYPE="本文" X="2359" Y="693" WIDTH="54" HEIGHT="1237" CONF="0.897" ORDER="6" STRING="木ぶかく蜩なきて、 長岡のたそがれゆけば、 親" />
+      <LINE TYPE="本文" X="2280" Y="688" WIDTH="44" HEIGHT="277" CONF="0.776" ORDER="7" STRING="ぞこひしき" />
+      <LINE TYPE="本文" X="2090" Y="688" WIDTH="60" HEIGHT="1235" CONF="0.823" ORDER="14" STRING="春雨の古貂のころも ぬれとほり、 あひにし人" />
+      <LINE TYPE="本文" X="2013" Y="687" WIDTH="49" HEIGHT="513" CONF="0.807" ORDER="11" STRING="の、 しぬにおもほゆ" />
+      <SHAPE>
+        <POLYGON POINTS="2012,647,2012,1938,2939,1938,2939,647" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.221">
+      <LINE TYPE="本文" X="1447" Y="687" WIDTH="76" HEIGHT="1239" CONF="0.880" ORDER="17" STRING="杉むらを とをゝに雪のふりうづむ ふるさと" />
+      <LINE TYPE="本文" X="1359" Y="689" WIDTH="64" HEIGHT="641" CONF="0.829" ORDER="18" STRING="來れど、 おもひ出もなし" />
+      <LINE TYPE="本文" X="1179" Y="699" WIDTH="97" HEIGHT="1237" CONF="0.824" ORDER="19" STRING="明日香風 きのふや千年。 やぶ原も 靑菅山も" />
+      <LINE TYPE="本文" X="1096" Y="701" WIDTH="59" HEIGHT="792" CONF="0.838" ORDER="20" STRING="ひるがへし吹く 「高市 郡」三首" />
+      <LINE TYPE="本文" X="918" Y="710" WIDTH="79" HEIGHT="1235" CONF="0.868" ORDER="23" STRING="なつかしき故家の里の 飛鳥には、 千鳥なくら" />
+      <LINE TYPE="本文" X="835" Y="706" WIDTH="52" HEIGHT="497" CONF="0.845" ORDER="24" STRING="む このゆふべかも" />
+      <LINE TYPE="本文" X="651" Y="712" WIDTH="83" HEIGHT="1239" CONF="0.864" ORDER="27" STRING="山原の麻生の夏麻を ひくなべに、 けさの朝月" />
+      <LINE TYPE="本文" X="566" Y="597" WIDTH="54" HEIGHT="512" CONF="0.781" ORDER="29" STRING="秋とさえたり 233" />
+      <SHAPE>
+        <POLYGON POINTS="569,573,569,1964,1529,1964,1529,573" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2891" Y="586" WIDTH="55" HEIGHT="24" CONF="0.370" />
+    <BLOCK TYPE="ルビ" X="2145" Y="866" WIDTH="21" HEIGHT="78" CONF="0.707" />
+    <BLOCK TYPE="ルビ" X="2858" Y="702" WIDTH="20" HEIGHT="87" CONF="0.617" />
+    <BLOCK TYPE="ルビ" X="705" Y="890" WIDTH="25" HEIGHT="268" CONF="0.367" />
+    <BLOCK TYPE="ルビ" X="969" Y="1002" WIDTH="22" HEIGHT="74" CONF="0.356" />
+    <BLOCK TYPE="ルビ" X="2592" Y="817" WIDTH="19" HEIGHT="22" CONF="0.353" />
+    <BLOCK TYPE="ルビ" X="1255" Y="1723" WIDTH="27" HEIGHT="151" CONF="0.320" />
+  </PAGE>
+</OCRDATASET>

@@ -1,0 +1,57 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000004.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.511">
+      <SHAPE>
+        <POLYGON POINTS="2860,535,2860,565,2889,565,2889,535" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.491">
+      <SHAPE>
+        <POLYGON POINTS="717,511,717,541,741,541,741,511" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.489">
+      <LINE TYPE="本文" X="2843" Y="810" WIDTH="40" HEIGHT="1325" CONF="0.911" ORDER="5" STRING="木地屋の家 (十五首) 六" />
+      <LINE TYPE="本文" X="2762" Y="808" WIDTH="41" HEIGHT="1326" CONF="0.904" ORDER="7" STRING="供養塔 (五 首) 三三" />
+      <LINE TYPE="本文" X="2680" Y="808" WIDTH="42" HEIGHT="1326" CONF="0.893" ORDER="8" STRING="谷中〓水町 1/4 首)· 三五" />
+      <LINE TYPE="本文" X="2602" Y="808" WIDTH="40" HEIGHT="1326" CONF="0.894" ORDER="9" STRING="物 (三) 首)· 三六 靜" />
+      <LINE TYPE="本文" X="2525" Y="808" WIDTH="37" HEIGHT="1326" CONF="0.888" ORDER="10" STRING="風の日 (四 首 〓" />
+      <LINE TYPE="タイトル本文" X="2433" Y="749" WIDTH="50" HEIGHT="271" CONF="0.781" ORDER="12" STRING="大正十一年" />
+      <LINE TYPE="本文" X="2352" Y="808" WIDTH="39" HEIGHT="1321" CONF="0.906" ORDER="13" STRING="遠州奧領家 (八 首) 四" />
+      <LINE TYPE="本文" X="2275" Y="809" WIDTH="39" HEIGHT="1322" CONF="0.893" ORDER="14" STRING="(十一首) 四四 輕 塵" />
+      <LINE TYPE="本文" X="2194" Y="808" WIDTH="39" HEIGHT="1324" CONF="0.899" ORDER="16" STRING="雪のうへ (二十首)· 四七" />
+      <LINE TYPE="本文" X="2113" Y="808" WIDTH="40" HEIGHT="1323" CONF="0.899" ORDER="17" STRING="夏になりゆく頃 (二 首 五二" />
+      <LINE TYPE="本文" X="2032" Y="808" WIDTH="42" HEIGHT="1323" CONF="0.893" ORDER="18" STRING="かの二三子に寄す (三 首) 五三" />
+      <LINE TYPE="本文" X="1954" Y="804" WIDTH="40" HEIGHT="1326" CONF="0.902" ORDER="19" STRING="土佐へ歸る人に 〓 首)· 五四" />
+      <SHAPE>
+        <POLYGON POINTS="1954,767,1954,2134,2878,2134,2878,767" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.837">
+      <LINE TYPE="タイトル本文" X="1856" Y="748" WIDTH="48" HEIGHT="221" CONF="0.776" ORDER="21" STRING="大正十年" />
+      <SHAPE>
+        <POLYGON POINTS="1855,748,1855,969,1904,969,1904,748" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.205">
+      <LINE TYPE="本文" X="1716" Y="790" WIDTH="37" HEIGHT="1322" CONF="0.883" ORDER="22" STRING="をとめの島 (十三首) 五七" />
+      <LINE TYPE="本文" X="1637" Y="786" WIDTH="39" HEIGHT="1326" CONF="0.883" ORDER="24" STRING="(十三首) 六二 夜" />
+      <LINE TYPE="本文" X="1555" Y="787" WIDTH="42" HEIGHT="1328" CONF="0.894" ORDER="25" STRING="後 (一 首) 奏 午" />
+      <LINE TYPE="本文" X="1477" Y="788" WIDTH="38" HEIGHT="1327" CONF="0.895" ORDER="26" STRING="よ (七 首 〓 友" />
+      <LINE TYPE="タイトル本文" X="1387" Y="732" WIDTH="51" HEIGHT="226" CONF="0.690" ORDER="28" STRING="大正九年" />
+      <LINE TYPE="本文" X="1304" Y="786" WIDTH="42" HEIGHT="1324" CONF="0.893" ORDER="29" STRING="(九 首 一二 大 阪" />
+      <LINE TYPE="本文" X="1225" Y="715" WIDTH="39" HEIGHT="1402" CONF="0.890" ORDER="30" STRING="○ みぞれ (十五首) 七四" />
+      <LINE TYPE="本文" X="1148" Y="787" WIDTH="38" HEIGHT="1327" CONF="0.886" ORDER="32" STRING="山うら (五 首) 七八" />
+      <LINE TYPE="本文" X="1069" Y="787" WIDTH="39" HEIGHT="1327" CONF="0.872" ORDER="34" STRING="(十八首)· 合 母" />
+      <LINE TYPE="タイトル本文" X="963" Y="730" WIDTH="51" HEIGHT="222" CONF="0.707" ORDER="38" STRING="大正八年" />
+      <LINE TYPE="本文" X="881" Y="787" WIDTH="42" HEIGHT="1328" CONF="0.901" ORDER="39" STRING="(七 首)· 〓〓 霜 夜" />
+      <LINE TYPE="本文" X="806" Y="786" WIDTH="41" HEIGHT="1332" CONF="0.886" ORDER="41" STRING="の葉 (三十八首) 八九 蒜" />
+      <LINE TYPE="本文" X="724" Y="788" WIDTH="40" HEIGHT="1328" CONF="0.872" ORDER="42" STRING="(五 首) 100 め ひ" />
+      <SHAPE>
+        <POLYGON POINTS="726,729,726,2118,1770,2118,1770,729" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2860" Y="536" WIDTH="29" HEIGHT="29" CONF="0.529" />
+    <BLOCK TYPE="ノンブル" X="717" Y="511" WIDTH="24" HEIGHT="29" CONF="0.408" />
+  </PAGE>
+</OCRDATASET>

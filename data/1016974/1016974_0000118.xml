@@ -1,0 +1,42 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000118.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.286">
+      <LINE TYPE="本文" X="2813" Y="619" WIDTH="72" HEIGHT="1357" CONF="0.857" ORDER="0" STRING="かれあしに 心しばらくあつまりぬ。 みぎはに 222" />
+      <LINE TYPE="本文" X="2739" Y="740" WIDTH="55" HEIGHT="633" CONF="0.753" ORDER="1" STRING="ゐつゝ ものをおもへば" />
+      <LINE TYPE="本文" X="2548" Y="729" WIDTH="67" HEIGHT="1236" CONF="0.909" ORDER="4" STRING="ちまたびと ことばかはして行くにさへ 心ゆ" />
+      <LINE TYPE="本文" X="2472" Y="727" WIDTH="58" HEIGHT="1167" CONF="0.897" ORDER="5" STRING="らぎは すべなきものを 「所在なく暮した頃」五首" />
+      <LINE TYPE="本文" X="2281" Y="723" WIDTH="69" HEIGHT="1238" CONF="0.908" ORDER="6" STRING="夕波の 佃の島の方とへど、 こたへぬ人ぞ、 充" />
+      <LINE TYPE="本文" X="2221" Y="723" WIDTH="41" HEIGHT="333" CONF="0.739" ORDER="7" STRING="ち行きにける" />
+      <LINE TYPE="本文" X="2020" Y="714" WIDTH="65" HEIGHT="1240" CONF="0.888" ORDER="8" STRING="さびしげに 經木眞田の帽子著 て、 夕河岸たど" />
+      <LINE TYPE="本文" X="1948" Y="713" WIDTH="49" HEIGHT="516" CONF="0.830" ORDER="9" STRING="る人よ もの言はむ" />
+      <SHAPE>
+        <POLYGON POINTS="1947,661,1947,1976,2883,1976,2883,661" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.812">
+      <LINE TYPE="本文" X="1503" Y="699" WIDTH="76" HEIGHT="1236" CONF="0.891" ORDER="10" STRING="兩國の橋ゆくむれに、 われに似て、 後姿さびし" />
+      <LINE TYPE="本文" X="1419" Y="702" WIDTH="46" HEIGHT="399" CONF="0.855" ORDER="11" STRING="き人のまじれり" />
+      <SHAPE>
+        <POLYGON POINTS="1419,700,1419,1937,1587,1937,1587,700" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.666">
+      <LINE TYPE="本文" X="1240" Y="700" WIDTH="70" HEIGHT="1241" CONF="0.904" ORDER="12" STRING="町をゆく心安さもさびしかり。 家なる人のうれ" />
+      <LINE TYPE="本文" X="1156" Y="710" WIDTH="44" HEIGHT="333" CONF="0.822" ORDER="13" STRING="ひに さかる" />
+      <SHAPE>
+        <POLYGON POINTS="1157,701,1157,1944,1308,1944,1308,701" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.203">
+      <LINE TYPE="本文" X="974" Y="703" WIDTH="70" HEIGHT="1241" CONF="0.902" ORDER="16" STRING="春の日のかすめる時に、 つかれたる目をやしな" />
+      <LINE TYPE="本文" X="891" Y="710" WIDTH="51" HEIGHT="455" CONF="0.818" ORDER="18" STRING="ふと、 若草をふむ" />
+      <LINE TYPE="本文" X="715" Y="708" WIDTH="63" HEIGHT="1178" CONF="0.886" ORDER="20" STRING="戶を出でゝ、 百步に靑き山を見る。 日ねもす" />
+      <LINE TYPE="本文" X="624" Y="591" WIDTH="54" HEIGHT="700" CONF="0.834" ORDER="22" STRING="おもひつかれたる目に 223" />
+      <SHAPE>
+        <POLYGON POINTS="626,580,626,1940,1040,1940,1040,580" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2823" Y="620" WIDTH="61" HEIGHT="23" CONF="0.259" />
+    <BLOCK TYPE="ルビ" X="1570" Y="1661" WIDTH="23" HEIGHT="88" CONF="0.455" />
+  </PAGE>
+</OCRDATASET>

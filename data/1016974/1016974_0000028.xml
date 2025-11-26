@@ -1,0 +1,41 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000028.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.651">
+      <LINE TYPE="本文" X="2821" Y="657" WIDTH="68" HEIGHT="1335" CONF="0.866" ORDER="0" STRING="山深く こもりて響く風のおと。 夜の久しさを 42" />
+      <LINE TYPE="本文" X="2750" Y="772" WIDTH="47" HEIGHT="392" CONF="0.781" ORDER="2" STRING="堪へなむと思ふ" />
+      <SHAPE>
+        <POLYGON POINTS="2750,655,2750,1994,2885,1994,2885,655" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.227">
+      <LINE TYPE="本文" X="2557" Y="763" WIDTH="62" HEIGHT="1220" CONF="0.905" ORDER="6" STRING="山のうへに、 かそけく人は住みにけり。 道くだ" />
+      <LINE TYPE="本文" X="2488" Y="765" WIDTH="44" HEIGHT="505" CONF="0.840" ORDER="7" STRING="り來る心はなごめ り" />
+      <LINE TYPE="本文" X="2302" Y="755" WIDTH="58" HEIGHT="1222" CONF="0.896" ORDER="9" STRING="ほがらなる心の人にあひにけり。 うや〓〓しさ" />
+      <LINE TYPE="本文" X="2231" Y="759" WIDTH="44" HEIGHT="443" CONF="0.820" ORDER="10" STRING="息をつきたり の" />
+      <SHAPE>
+        <POLYGON POINTS="2219,755,2219,1986,2619,1986,2619,755" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.695">
+      <LINE TYPE="本文" X="2035" Y="751" WIDTH="66" HEIGHT="1214" CONF="0.876" ORDER="12" STRING="山なかに、 悸りつゝ はかなさよ。 遂げむ世知" />
+      <LINE TYPE="本文" X="1967" Y="752" WIDTH="49" HEIGHT="564" CONF="0.849" ORDER="13" STRING="らず ひとりをもれば" />
+      <SHAPE>
+        <POLYGON POINTS="1970,749,1970,1967,2102,1967,2102,749" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.779">
+      <LINE TYPE="本文" X="1557" Y="740" WIDTH="69" HEIGHT="1210" CONF="0.847" ORDER="15" STRING="山深く われは來にけり。 山深き木々のとよみ" />
+      <LINE TYPE="本文" X="1476" Y="733" WIDTH="47" HEIGHT="447" CONF="0.762" ORDER="18" STRING="は、 音やみにけり" />
+      <SHAPE>
+        <POLYGON POINTS="1479,729,1479,1949,1624,1949,1624,729" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.422">
+      <SHAPE>
+        <POLYGON POINTS="683,631,683,658,718,658,718,631" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="683" Y="631" WIDTH="35" HEIGHT="27" CONF="0.621" />
+    <BLOCK TYPE="ルビ" X="2096" Y="1021" WIDTH="21" HEIGHT="90" CONF="0.685" />
+  </PAGE>
+</OCRDATASET>

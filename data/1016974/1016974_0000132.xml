@@ -1,0 +1,40 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000132.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.931">
+      <LINE TYPE="本文" X="2937" Y="676" WIDTH="75" HEIGHT="1284" CONF="0.795" ORDER="0" STRING="態度としては、全體に認めて居ない物の、部分の價値に囚" />
+      <LINE TYPE="本文" X="2844" Y="747" WIDTH="71" HEIGHT="1208" CONF="0.905" ORDER="1" STRING="はれると言ふ事は、學問文學をふり分けにした蛙の、常に" />
+      <LINE TYPE="本文" X="2753" Y="742" WIDTH="73" HEIGHT="1211" CONF="0.908" ORDER="2" STRING="負ふところの罸である。 萬葉〓究に一生をつかひ果し" />
+      <LINE TYPE="本文" X="2660" Y="741" WIDTH="71" HEIGHT="1210" CONF="0.903" ORDER="3" STRING="た木村正辭先生の歌が、極めて低調な「おとつ代ぶり」で あ" />
+      <LINE TYPE="本文" X="2565" Y="738" WIDTH="75" HEIGHT="1225" CONF="0.901" ORDER="4" STRING="る事を罵りながら、私自身やつぱり、部分的に古今を認め、" />
+      <LINE TYPE="本文" X="2477" Y="734" WIDTH="76" HEIGHT="1208" CONF="0.908" ORDER="5" STRING="金葉·詞花を認め、新古今を容れ、玉葉·風雅を許してゐたの" />
+      <LINE TYPE="本文" X="2384" Y="734" WIDTH="75" HEIGHT="1224" CONF="0.886" ORDER="6" STRING="である。 ひたみち萬葉に進む人々よりは、誘惑や困憊を、" />
+      <LINE TYPE="本文" X="2292" Y="727" WIDTH="72" HEIGHT="1214" CONF="0.920" ORDER="7" STRING="多く凌がねばならぬ訣である。 私の歌の、年久くして、尙" />
+      <LINE TYPE="本文" X="2198" Y="725" WIDTH="78" HEIGHT="1209" CONF="0.903" ORDER="8" STRING="且、此位の「ゆきあし」を示してゐるに過ぎないのは、甘受せ" />
+      <LINE TYPE="本文" X="2132" Y="725" WIDTH="48" HEIGHT="568" CONF="0.904" ORDER="9" STRING="ねばならぬ應報であつた。" />
+      <LINE TYPE="本文" X="2014" Y="720" WIDTH="77" HEIGHT="1205" CONF="0.908" ORDER="10" STRING="大正三年の春、二年半をしへた生徒たちを卒業させた" />
+      <SHAPE>
+        <POLYGON POINTS="2019,675,2019,1961,3006,1961,3006,675" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.951">
+      <LINE TYPE="本文" X="1532" Y="706" WIDTH="63" HEIGHT="1215" CONF="0.903" ORDER="11" STRING="を吉祥 に、私は職を罷めて、東京に來た。 〓へた生徒十人" />
+      <LINE TYPE="本文" X="1440" Y="706" WIDTH="60" HEIGHT="1217" CONF="0.927" ORDER="12" STRING="ばかりと、本〓赤門前の下宿の三階に住んだ。 大正四年" />
+      <LINE TYPE="本文" X="1348" Y="709" WIDTH="62" HEIGHT="1214" CONF="0.924" ORDER="13" STRING="秋には、歸國せなければならないほどに窮しんだ。 が、と" />
+      <LINE TYPE="本文" X="1256" Y="712" WIDTH="61" HEIGHT="1210" CONF="0.921" ORDER="14" STRING="東京に留りをふせた。 小石川金富町のお針屋の" />
+      <LINE TYPE="本文" X="1163" Y="719" WIDTH="61" HEIGHT="1205" CONF="0.919" ORDER="15" STRING="二階の六疊に移つて居た金太郞の處に、いつ時と思うて" />
+      <LINE TYPE="本文" X="1073" Y="721" WIDTH="59" HEIGHT="1209" CONF="0.923" ORDER="16" STRING="かゝり人となつたのが、三年の間も其まゝで、居なリに居" />
+      <LINE TYPE="本文" X="981" Y="721" WIDTH="63" HEIGHT="1208" CONF="0.929" ORDER="17" STRING="た。 十餘人の生徒の中、私の近まはりに殘つた者は、高等" />
+      <LINE TYPE="本文" X="891" Y="724" WIDTH="60" HEIGHT="1209" CONF="0.918" ORDER="18" STRING="工業學校に通うた金太郞と、近所にたよって來て、高等 學校" />
+      <LINE TYPE="本文" X="796" Y="724" WIDTH="64" HEIGHT="1209" CONF="0.926" ORDER="19" STRING="入學試驗の用意をしてゐた〓志と、前年第一高等學校に" />
+      <LINE TYPE="本文" X="704" Y="726" WIDTH="64" HEIGHT="1208" CONF="0.925" ORDER="20" STRING="はひつた雄祐とになつてしまうた。 でも、後から後から" />
+      <LINE TYPE="本文" X="612" Y="717" WIDTH="64" HEIGHT="1219" CONF="0.857" ORDER="21" STRING="私をたよって來た生徒たちが、三四人は居たが、皆それ" />
+      <SHAPE>
+        <POLYGON POINTS="618,698,618,1938,1597,1938,1597,698" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="611" Y="636" WIDTH="36" HEIGHT="23" CONF="0.640" />
+    <BLOCK TYPE="ノンブル" X="2973" Y="661" WIDTH="42" HEIGHT="22" CONF="0.463" />
+    <BLOCK TYPE="ルビ" X="1572" Y="758" WIDTH="22" HEIGHT="90" CONF="0.742" />
+    <BLOCK TYPE="ルビ" X="2454" Y="940" WIDTH="14" HEIGHT="80" CONF="0.264" />
+  </PAGE>
+</OCRDATASET>

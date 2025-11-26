@@ -1,0 +1,52 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000058.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.247">
+      <LINE TYPE="タイトル本文" X="2768" Y="976" WIDTH="69" HEIGHT="400" CONF="0.740" ORDER="3" STRING="郡 上 八 幡" />
+      <SHAPE>
+        <POLYGON POINTS="2767,672,2767,1438,2912,1438,2912,672" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.908">
+      <LINE TYPE="注" X="2544" Y="1573" WIDTH="28" HEIGHT="81" CONF="0.272" ORDER="4" STRING="グジヤウ" />
+      <LINE TYPE="本文" X="2505" Y="1013" WIDTH="55" HEIGHT="917" CONF="0.868" ORDER="5" STRING="八月末、 長柄川の川上、 郡上の町に入る。" />
+      <LINE TYPE="本文" X="2424" Y="1011" WIDTH="54" HEIGHT="866" CONF="0.902" ORDER="6" STRING="この十二日の晝火事で、 目拔きの街々、" />
+      <LINE TYPE="本文" X="2352" Y="1008" WIDTH="50" HEIGHT="558" CONF="0.911" ORDER="7" STRING="家千二百軒が燒けてゐた。" />
+      <SHAPE>
+        <POLYGON POINTS="2357,1008,2357,1928,2564,1928,2564,1008" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.902">
+      <LINE TYPE="本文" X="2047" Y="764" WIDTH="71" HEIGHT="1224" CONF="0.878" ORDER="8" STRING="燒け原の町のもなかを行く水の せゝらき澄み" />
+      <LINE TYPE="本文" X="1983" Y="772" WIDTH="48" HEIGHT="383" CONF="0.779" ORDER="10" STRING="て、 秋近づけり" />
+      <SHAPE>
+        <POLYGON POINTS="1983,766,1983,1988,2116,1988,2116,766" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.873">
+      <LINE TYPE="本文" X="1503" Y="777" WIDTH="78" HEIGHT="1224" CONF="0.929" ORDER="13" STRING="ゆくりなき旅のひと日に、 見てあるけり、 家亡" />
+      <LINE TYPE="本文" X="1415" Y="780" WIDTH="58" HEIGHT="569" CONF="0.888" ORDER="14" STRING="びたる 山の町どころ" />
+      <SHAPE>
+        <POLYGON POINTS="1418,775,1418,2001,1579,2001,1579,775" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.805">
+      <LINE TYPE="本文" X="1235" Y="784" WIDTH="78" HEIGHT="1221" CONF="0.933" ORDER="16" STRING="町びとは、 いまだ愕くことやまず 家建ていそ" />
+      <LINE TYPE="本文" X="1154" Y="784" WIDTH="55" HEIGHT="514" CONF="0.865" ORDER="17" STRING="げり。 燒け原の土に" />
+      <SHAPE>
+        <POLYGON POINTS="1156,782,1156,2006,1312,2006,1312,782" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.229">
+      <LINE TYPE="本文" X="975" Y="789" WIDTH="80" HEIGHT="1222" CONF="0.923" ORDER="19" STRING="燒け原の町の庭木は、 幹焦げて 立ちさびしも" />
+      <LINE TYPE="本文" X="894" Y="794" WIDTH="48" HEIGHT="392" CONF="0.874" ORDER="21" STRING="よ。 山風吹くに" />
+      <LINE TYPE="本文" X="717" Y="795" WIDTH="79" HEIGHT="1223" CONF="0.885" ORDER="23" STRING="夕されば、 丘根吹きくだる山颪の靑葉 散りわ" />
+      <LINE TYPE="本文" X="625" Y="685" WIDTH="61" HEIGHT="568" CONF="0.800" ORDER="27" STRING="たる。 燒け土の原 103" />
+      <SHAPE>
+        <POLYGON POINTS="626,679,626,2025,1051,2025,1051,679" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2862" Y="672" WIDTH="50" HEIGHT="23" CONF="0.329" />
+    <BLOCK TYPE="ルビ" X="769" Y="1097" WIDTH="20" HEIGHT="85" CONF="0.652" />
+    <BLOCK TYPE="ルビ" X="2544" Y="1573" WIDTH="28" HEIGHT="81" CONF="0.226" />
+  </PAGE>
+</OCRDATASET>

@@ -1,0 +1,47 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000104.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.263">
+      <LINE TYPE="本文" X="2840" Y="613" WIDTH="53" HEIGHT="1347" CONF="0.880" ORDER="0" STRING="どこの子のあぐらむ凧ぞ。 大みそか むなしき 194" />
+      <LINE TYPE="本文" X="2756" Y="728" WIDTH="43" HEIGHT="514" CONF="0.775" ORDER="1" STRING="空の たゞ中に鳴る" />
+      <LINE TYPE="本文" X="2575" Y="726" WIDTH="53" HEIGHT="1234" CONF="0.888" ORDER="4" STRING="机一つ 本箱ひとつ わが憑む これの世のく" />
+      <LINE TYPE="本文" X="2490" Y="727" WIDTH="43" HEIGHT="574" CONF="0.847" ORDER="5" STRING="まと、 目つぶりて居り" />
+      <LINE TYPE="タイトル本文" X="2269" Y="964" WIDTH="51" HEIGHT="455" CONF="0.641" ORDER="7" STRING="左千夫翁三周忌" />
+      <LINE TYPE="本文" X="2053" Y="722" WIDTH="53" HEIGHT="1237" CONF="0.890" ORDER="8" STRING="牛の乳のにほひつきたる著る物を、 胸毛あらは" />
+      <LINE TYPE="本文" X="1969" Y="727" WIDTH="46" HEIGHT="453" CONF="0.824" ORDER="9" STRING="坐し人あはれ に" />
+      <SHAPE>
+        <POLYGON POINTS="1969,615,1969,1970,2872,1970,2872,615" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.841">
+      <LINE TYPE="本文" X="1510" Y="710" WIDTH="52" HEIGHT="1239" CONF="0.899" ORDER="11" STRING="あぢきなき死にをせしかと、 片おひのうなゐを" />
+      <LINE TYPE="本文" X="1431" Y="708" WIDTH="44" HEIGHT="575" CONF="0.842" ORDER="12" STRING="哭きし その父もなし" />
+      <SHAPE>
+        <POLYGON POINTS="1432,706,1432,1949,1560,1949,1560,706" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.712">
+      <LINE TYPE="本文" X="1245" Y="700" WIDTH="53" HEIGHT="1235" CONF="0.886" ORDER="15" STRING="裏だなを 背戶ゆ見とほし 夏の日の照りしづ" />
+      <LINE TYPE="本文" X="1164" Y="702" WIDTH="44" HEIGHT="579" CONF="0.873" ORDER="16" STRING="まりに けどほき墓原" />
+      <SHAPE>
+        <POLYGON POINTS="1166,698,1166,1936,1294,1936,1294,698" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.793">
+      <LINE TYPE="本文" X="981" Y="697" WIDTH="48" HEIGHT="1180" CONF="0.893" ORDER="18" STRING="あわたゞしく 世はありければ、 たま〓〓も" />
+      <LINE TYPE="本文" X="899" Y="697" WIDTH="48" HEIGHT="698" CONF="0.876" ORDER="19" STRING="忘れむとする墓をとぶらふ" />
+      <SHAPE>
+        <POLYGON POINTS="901,695,901,1878,1029,1878,1029,695" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.417">
+      <SHAPE>
+        <POLYGON POINTS="646,573,646,605,698,605,698,573" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="646" Y="573" WIDTH="52" HEIGHT="32" CONF="0.343" />
+    <BLOCK TYPE="ノンブル" X="2835" Y="613" WIDTH="58" HEIGHT="28" CONF="0.237" />
+    <BLOCK TYPE="ルビ" X="2097" Y="849" WIDTH="22" HEIGHT="29" CONF="0.251" />
+    <BLOCK TYPE="ルビ" X="2014" Y="846" WIDTH="19" HEIGHT="24" CONF="0.235" />
+    <BLOCK TYPE="ルビ" X="2011" Y="845" WIDTH="19" HEIGHT="330" CONF="0.203" />
+  </PAGE>
+</OCRDATASET>

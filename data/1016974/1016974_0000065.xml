@@ -1,0 +1,52 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000065.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.330">
+      <LINE TYPE="タイトル本文" X="2694" Y="856" WIDTH="61" HEIGHT="287" CONF="0.744" ORDER="3" STRING="冬 木 原" />
+      <SHAPE>
+        <POLYGON POINTS="2693,543,2693,1144,2837,1144,2837,543" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.213">
+      <LINE TYPE="本文" X="2503" Y="657" WIDTH="78" HEIGHT="1251" CONF="0.821" ORDER="4" STRING="梢高き椚が原に、 朝日さし、 仰げは 目につく。" />
+      <LINE TYPE="本文" X="2434" Y="659" WIDTH="45" HEIGHT="278" CONF="0.724" ORDER="5" STRING="山繭のから" />
+      <LINE TYPE="本文" X="2245" Y="655" WIDTH="57" HEIGHT="1168" CONF="0.878" ORDER="8" STRING="森の木のほつ枝にのこる山繭のから ひとり" />
+      <LINE TYPE="本文" X="2168" Y="650" WIDTH="50" HEIGHT="510" CONF="0.835" ORDER="9" STRING="すべなき心を持てり" />
+      <LINE TYPE="本文" X="1977" Y="645" WIDTH="66" HEIGHT="1254" CONF="0.835" ORDER="11" STRING="默ゆく心たへがたし。 下向きて その孔見ゆれ。" />
+      <LINE TYPE="本文" X="1911" Y="646" WIDTH="46" HEIGHT="277" CONF="0.817" ORDER="12" STRING="山繭のから" />
+      <SHAPE>
+        <POLYGON POINTS="1908,635,1908,1910,2765,1910,2765,635" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.240">
+      <LINE TYPE="本文" X="1560" Y="645" WIDTH="71" HEIGHT="1225" CONF="0.889" ORDER="15" STRING="まだ暮れぬ檜原をゆする風のおと、 あゆみをと" />
+      <LINE TYPE="本文" X="1476" Y="649" WIDTH="55" HEIGHT="572" CONF="0.844" ORDER="17" STRING="めて、 ひとりと知れり" />
+      <LINE TYPE="本文" X="1298" Y="650" WIDTH="75" HEIGHT="1228" CONF="0.914" ORDER="18" STRING="風の音は 暮れしに似たる檜原のなか。 梢を見" />
+      <LINE TYPE="本文" X="1213" Y="653" WIDTH="56" HEIGHT="573" CONF="0.868" ORDER="19" STRING="れ ば、 まだあかりあり" />
+      <SHAPE>
+        <POLYGON POINTS="1213,645,1213,1883,1631,1883,1631,645" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.735">
+      <LINE TYPE="本文" X="1035" Y="653" WIDTH="78" HEIGHT="1229" CONF="0.918" ORDER="21" STRING="枯れ茅の 見おろし遠きどてのもと 穴に吸は" />
+      <LINE TYPE="本文" X="953" Y="661" WIDTH="50" HEIGHT="452" CONF="0.834" ORDER="22" STRING="るゝ 水の音すも" />
+      <SHAPE>
+        <POLYGON POINTS="956,652,956,1884,1111,1884,1111,652" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.796">
+      <LINE TYPE="本文" X="774" Y="663" WIDTH="79" HEIGHT="1224" CONF="0.880" ORDER="25" STRING="かれ茅のなづさふ川の雪消の水 靑みふかくし" />
+      <LINE TYPE="本文" X="685" Y="543" WIDTH="58" HEIGHT="573" CONF="0.791" ORDER="26" STRING="て、 上にごりをり 117" />
+      <SHAPE>
+        <POLYGON POINTS="685,540,685,1887,854,1887,854,540" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2777" Y="543" WIDTH="59" HEIGHT="31" CONF="0.365" />
+    <BLOCK TYPE="ルビ" X="1612" Y="948" WIDTH="21" HEIGHT="85" CONF="0.546" />
+    <BLOCK TYPE="ルビ" X="734" Y="785" WIDTH="25" HEIGHT="44" CONF="0.497" />
+    <BLOCK TYPE="ルビ" X="2043" Y="644" WIDTH="43" HEIGHT="545" CONF="0.473" />
+    <BLOCK TYPE="ルビ" X="2560" Y="825" WIDTH="25" HEIGHT="64" CONF="0.304" />
+    <BLOCK TYPE="ルビ" X="1612" Y="948" WIDTH="21" HEIGHT="85" CONF="0.287" />
+    <BLOCK TYPE="ルビ" X="2041" Y="643" WIDTH="24" HEIGHT="39" CONF="0.284" />
+    <BLOCK TYPE="ルビ" X="2563" Y="714" WIDTH="22" HEIGHT="176" CONF="0.265" />
+  </PAGE>
+</OCRDATASET>

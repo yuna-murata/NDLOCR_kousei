@@ -1,0 +1,39 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000126.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.263">
+      <LINE TYPE="本文" X="2864" Y="650" WIDTH="88" HEIGHT="1356" CONF="0.848" ORDER="0" STRING="こちよれば、 こちにとをより なづさひ來、 238" />
+      <LINE TYPE="本文" X="2798" Y="779" WIDTH="66" HEIGHT="693" CONF="0.721" ORDER="2" STRING="のに人香の。 身をつゝむ闇" />
+      <LINE TYPE="本文" X="2621" Y="763" WIDTH="88" HEIGHT="1235" CONF="0.889" ORDER="3" STRING="車きぬ。 すぐる日我により來にし。 今あぢきな" />
+      <LINE TYPE="本文" X="2565" Y="765" WIDTH="51" HEIGHT="458" CONF="0.762" ORDER="4" STRING="くわがゝどをゆく" />
+      <LINE TYPE="本文" X="2330" Y="757" WIDTH="87" HEIGHT="1234" CONF="0.908" ORDER="6" STRING="おもふことしば〓〓たがひ、 おきどころなき身" />
+      <LINE TYPE="本文" X="2274" Y="755" WIDTH="55" HEIGHT="576" CONF="0.802" ORDER="7" STRING="暫らく- 君にひたさる" />
+      <LINE TYPE="本文" X="2066" Y="749" WIDTH="89" HEIGHT="1236" CONF="0.867" ORDER="8" STRING="夕山路 こよひまろ寢むわがふしどの うさ思" />
+      <LINE TYPE="本文" X="2014" Y="751" WIDTH="54" HEIGHT="453" CONF="0.752" ORDER="10" STRING="はする 鶯のこゑ" />
+      <SHAPE>
+        <POLYGON POINTS="2009,630,2009,2004,2947,2004,2947,630" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.519">
+      <LINE TYPE="本文" X="1484" Y="750" WIDTH="67" HEIGHT="1228" CONF="0.898" ORDER="14" STRING="この里のをとめらねり來。 みなづきの 夕かげ" />
+      <LINE TYPE="本文" X="1397" Y="746" WIDTH="51" HEIGHT="573" CONF="0.838" ORDER="16" STRING="草の ほの〓〓として" />
+      <LINE TYPE="本文" X="1221" Y="752" WIDTH="64" HEIGHT="1233" CONF="0.919" ORDER="19" STRING="おもひでの家は つぎ〓〓亡びゆく。 長谷の寺" />
+      <LINE TYPE="本文" X="1134" Y="754" WIDTH="61" HEIGHT="1058" CONF="0.877" ORDER="21" STRING="のみ さやは なげかむ 初瀬寺炎上」" />
+      <LINE TYPE="本文" X="955" Y="752" WIDTH="68" HEIGHT="1239" CONF="0.904" ORDER="22" STRING="牧に追ふ馬のかず〓〓 何ならぬ 目うるみた" />
+      <LINE TYPE="本文" X="875" Y="758" WIDTH="48" HEIGHT="395" CONF="0.729" ORDER="23" STRING="りし後も忘れず" />
+      <LINE TYPE="本文" X="696" Y="760" WIDTH="59" HEIGHT="1210" CONF="0.234" ORDER="27" STRING="ほうとつく息のしたより、 槌とりて うてば、" />
+      <SHAPE>
+        <POLYGON POINTS="603,710,603,1989,1541,1989,1541,710" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.221">
+      <LINE TYPE="本文" X="611" Y="642" WIDTH="60" HEIGHT="698" CONF="0.768" ORDER="30" STRING="火の散る 馬のあし金 239" />
+      <SHAPE>
+        <POLYGON POINTS="616,644,616,1985,1035,1985,1035,644" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="2857" Y="896" WIDTH="24" HEIGHT="78" CONF="0.611" />
+    <BLOCK TYPE="ルビ" X="918" Y="762" WIDTH="22" HEIGHT="143" CONF="0.585" />
+    <BLOCK TYPE="ルビ" X="2148" Y="875" WIDTH="27" HEIGHT="28" CONF="0.311" />
+    <BLOCK TYPE="ルビ" X="919" Y="863" WIDTH="23" HEIGHT="41" CONF="0.257" />
+  </PAGE>
+</OCRDATASET>

@@ -1,0 +1,35 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000111.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.241">
+      <LINE TYPE="本文" X="2866" Y="628" WIDTH="63" HEIGHT="1360" CONF="0.869" ORDER="0" STRING="くづれふす若きけものを なよ草の牀に見いで 208" />
+      <LINE TYPE="本文" X="2793" Y="754" WIDTH="47" HEIGHT="512" CONF="0.768" ORDER="1" STRING="て、 かなしみにけり" />
+      <LINE TYPE="本文" X="2606" Y="743" WIDTH="60" HEIGHT="1240" CONF="0.886" ORDER="3" STRING="倦みつかれ わかきけものゝ寢むさぼる さま" />
+      <LINE TYPE="本文" X="2528" Y="743" WIDTH="51" HEIGHT="757" CONF="0.845" ORDER="4" STRING="はわりなし。 かすかにいびく" />
+      <LINE TYPE="本文" X="2337" Y="737" WIDTH="64" HEIGHT="1228" CONF="0.898" ORDER="5" STRING="やせ〓〓て、 若きけものゝ わが前にほと息づき" />
+      <LINE TYPE="本文" X="2266" Y="737" WIDTH="51" HEIGHT="517" CONF="0.780" ORDER="6" STRING="ぬ かなしからずや" />
+      <LINE TYPE="本文" X="2071" Y="728" WIDTH="60" HEIGHT="1234" CONF="0.871" ORDER="8" STRING="すく〓〓と のびとゝのほりゆく子らに、 しづ" />
+      <LINE TYPE="本文" X="1996" Y="733" WIDTH="51" HEIGHT="754" CONF="0.839" ORDER="10" STRING="ごゝろなき わがさかりかも" />
+      <SHAPE>
+        <POLYGON POINTS="1998,637,1998,1988,2926,1988,2926,637" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.893">
+      <LINE TYPE="タイトル本文" X="1403" Y="897" WIDTH="51" HEIGHT="332" CONF="0.827" ORDER="12" STRING="徒 生 三" />
+      <SHAPE>
+        <POLYGON POINTS="1403,897,1403,1230,1453,1230,1453,897" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.354">
+      <LINE TYPE="本文" X="1214" Y="706" WIDTH="44" HEIGHT="1232" CONF="0.888" ORDER="13" STRING="二三尺 藜のびたるくさむらの 秋をよろこび" />
+      <LINE TYPE="本文" X="1130" Y="706" WIDTH="41" HEIGHT="334" CONF="0.784" ORDER="15" STRING="なく蟲のあり" />
+      <LINE TYPE="本文" X="949" Y="700" WIDTH="48" HEIGHT="1239" CONF="0.873" ORDER="18" STRING="沓とれば、 すあしにふるゝ砂原の しめりうれ" />
+      <LINE TYPE="本文" X="866" Y="706" WIDTH="42" HEIGHT="513" CONF="0.806" ORDER="19" STRING="しみ、 草ぬきてをり" />
+      <LINE TYPE="本文" X="687" Y="704" WIDTH="47" HEIGHT="1230" CONF="0.876" ORDER="22" STRING="わが病ひ やゝこゝろよし。 なにごとかした や" />
+      <LINE TYPE="本文" X="600" Y="590" WIDTH="51" HEIGHT="807" CONF="0.810" ORDER="23" STRING="すからず やめる子のある 209" />
+      <SHAPE>
+        <POLYGON POINTS="598,592,598,1945,1257,1945,1257,592" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2467" Y="148" WIDTH="19" HEIGHT="18" CONF="0.360" />
+  </PAGE>
+</OCRDATASET>

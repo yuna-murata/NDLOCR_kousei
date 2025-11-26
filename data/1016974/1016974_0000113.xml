@@ -1,0 +1,52 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000113.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.319">
+      <LINE TYPE="タイトル本文" X="2845" Y="879" WIDTH="57" HEIGHT="415" CONF="0.702" ORDER="3" STRING="阿蘇をこえて" />
+      <SHAPE>
+        <POLYGON POINTS="2845,570,2845,1295,2976,1295,2976,570" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.322">
+      <LINE TYPE="本文" X="2664" Y="689" WIDTH="46" HEIGHT="1235" CONF="0.880" ORDER="4" STRING="よすがなき心 あやぶくゆられゐ つ。 馬車たそ" />
+      <LINE TYPE="本文" X="2571" Y="688" WIDTH="53" HEIGHT="574" CONF="0.790" ORDER="5" STRING="がれて、 町をはなれつ" />
+      <LINE TYPE="本文" X="2399" Y="691" WIDTH="44" HEIGHT="1234" CONF="0.893" ORDER="7" STRING="つまづきの この石にしもあひけるよ。 遠のぼ" />
+      <LINE TYPE="本文" X="2312" Y="686" WIDTH="46" HEIGHT="633" CONF="0.837" ORDER="8" STRING="り來て、 阿蘇のたむけに" />
+      <LINE TYPE="本文" X="2135" Y="682" WIDTH="43" HEIGHT="1240" CONF="0.889" ORDER="11" STRING="盆すぎて をどりつかふる里のあり。 阿蘇の山" />
+      <LINE TYPE="本文" X="2049" Y="683" WIDTH="42" HEIGHT="578" CONF="0.866" ORDER="13" STRING="家に、 われもをどらむ" />
+      <SHAPE>
+        <POLYGON POINTS="2047,676,2047,1930,2712,1930,2712,676" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.893">
+      <LINE TYPE="タイトル本文" X="1337" Y="909" WIDTH="60" HEIGHT="289" CONF="0.839" ORDER="16" STRING="奧 熊 野" />
+      <SHAPE>
+        <POLYGON POINTS="1337,909,1337,1198,1397,1198,1397,909" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.777">
+      <LINE TYPE="本文" X="1155" Y="722" WIDTH="73" HEIGHT="1236" CONF="0.847" ORDER="17" STRING="たびごゝろもろくなり來ぬ。 志摩のはて 安乘" />
+      <LINE TYPE="本文" X="1070" Y="727" WIDTH="46" HEIGHT="570" CONF="0.876" ORDER="18" STRING="の崎に、 燈の明り見ゆ" />
+      <SHAPE>
+        <POLYGON POINTS="1069,720,1069,1961,1232,1961,1232,720" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.741">
+      <LINE TYPE="本文" X="892" Y="724" WIDTH="56" HEIGHT="1233" CONF="0.909" ORDER="20" STRING="わたつみの豐はた雲と あはれなる浮き寢の晝" />
+      <LINE TYPE="本文" X="807" Y="727" WIDTH="45" HEIGHT="452" CONF="0.872" ORDER="21" STRING="の夢と たゆたふ" />
+      <SHAPE>
+        <POLYGON POINTS="808,723,808,1957,947,1957,947,723" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.707">
+      <LINE TYPE="本文" X="627" Y="720" WIDTH="60" HEIGHT="1236" CONF="0.874" ORDER="23" STRING="闇 に 聲してあはれなり。 志摩の海 相 差の迫" />
+      <LINE TYPE="本文" X="540" Y="598" WIDTH="51" HEIGHT="578" CONF="0.843" ORDER="24" STRING="門 に、 盆の貝吹く 213" />
+      <SHAPE>
+        <POLYGON POINTS="542,597,542,1955,701,1955,701,597" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="柱" X="2920" Y="572" WIDTH="57" HEIGHT="23" CONF="0.205" />
+    <BLOCK TYPE="ノンブル" X="2920" Y="572" WIDTH="57" HEIGHT="23" CONF="0.438" />
+    <BLOCK TYPE="ルビ" X="1116" Y="958" WIDTH="20" HEIGHT="24" CONF="0.397" />
+    <BLOCK TYPE="ルビ" X="685" Y="1925" WIDTH="20" HEIGHT="26" CONF="0.354" />
+  </PAGE>
+</OCRDATASET>

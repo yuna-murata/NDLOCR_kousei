@@ -1,0 +1,41 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000130.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.947">
+      <LINE TYPE="本文" X="2912" Y="644" WIDTH="68" HEIGHT="1298" CONF="0.795" ORDER="0" STRING="も、競爭意識の卑しさを知つた私は、一方ぼつ〓〓兄に學" />
+      <LINE TYPE="本文" X="2822" Y="733" WIDTH="62" HEIGHT="1203" CONF="0.907" ORDER="1" STRING="んで行く氣にもなれた。 兄の投書にまぜてくれた私の" />
+      <LINE TYPE="本文" X="2732" Y="740" WIDTH="63" HEIGHT="1199" CONF="0.909" ORDER="2" STRING="首も、拔かれて居たのを見て、天に昇る樣な氣のした事" />
+      <LINE TYPE="本文" X="2641" Y="728" WIDTH="61" HEIGHT="1209" CONF="0.917" ORDER="3" STRING="もある。 兄が遊學に出て後、創作動機の薄い私は、歌らし" />
+      <LINE TYPE="本文" X="2548" Y="731" WIDTH="62" HEIGHT="1205" CONF="0.922" ORDER="4" STRING="い物を作つた覺えもない。 そのあくる年、明治丗五年に" />
+      <LINE TYPE="本文" X="2455" Y="727" WIDTH="63" HEIGHT="1207" CONF="0.916" ORDER="5" STRING="は、武田祐吉·吉村洪一·淺沼直之助·宮崎信三·岩橋小彌太·西" />
+      <LINE TYPE="本文" X="2365" Y="723" WIDTH="64" HEIGHT="1209" CONF="0.911" ORDER="6" STRING="田直二郞と詩社樣のものを組んだ。 律氣な武田にはた" />
+      <LINE TYPE="本文" X="2275" Y="716" WIDTH="70" HEIGHT="1209" CONF="0.842" ORDER="7" STRING="られるのを常の事として、でも、每週間二三首·五首と作つ" />
+      <LINE TYPE="本文" X="2181" Y="717" WIDTH="65" HEIGHT="1215" CONF="0.917" ORDER="8" STRING="て居た。 其頃のものは、武田が保存して居てくれたが、今" />
+      <LINE TYPE="本文" X="2090" Y="712" WIDTH="62" HEIGHT="1218" CONF="0.916" ORDER="9" STRING="度の選集に、一首も採れるのはなかつた。躬治先生の影響" />
+      <LINE TYPE="本文" X="1997" Y="714" WIDTH="64" HEIGHT="1208" CONF="0.895" ORDER="10" STRING="をばわるく受けた我執の姿が、どれにもこれにも、現れて" />
+      <SHAPE>
+        <POLYGON POINTS="2000,658,2000,1942,2976,1942,2976,658" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.953">
+      <LINE TYPE="本文" X="1559" Y="720" WIDTH="65" HEIGHT="1227" CONF="0.919" ORDER="11" STRING="居た。 其上、鐵幹さん風の、發想を拗らすよみぶりまでも、" />
+      <LINE TYPE="本文" X="1478" Y="721" WIDTH="66" HEIGHT="1210" CONF="0.924" ORDER="12" STRING="小賢しくうつして居た痕が見出される。 新詩社に對す" />
+      <LINE TYPE="本文" X="1401" Y="725" WIDTH="67" HEIGHT="1205" CONF="0.921" ORDER="13" STRING="る反感は、旣に激しく心に動いて居たに拘らず、歌の上に" />
+      <LINE TYPE="本文" X="1321" Y="726" WIDTH="66" HEIGHT="1205" CONF="0.919" ORDER="14" STRING="は、其印象らしいものが、今日からは紛れなく見えすいて" />
+      <LINE TYPE="本文" X="1241" Y="723" WIDTH="38" HEIGHT="98" CONF="0.840" ORDER="15" STRING="居る。" />
+      <LINE TYPE="本文" X="1160" Y="723" WIDTH="66" HEIGHT="1211" CONF="0.928" ORDER="16" STRING="卒業試驗に、劣等生としてふり殘された私は、とり集めた" />
+      <LINE TYPE="本文" X="1080" Y="726" WIDTH="67" HEIGHT="1176" CONF="0.909" ORDER="17" STRING="寂しさを知つた。 感傷にあまえもし、うち羸ちもした。" />
+      <LINE TYPE="本文" X="1001" Y="728" WIDTH="65" HEIGHT="1206" CONF="0.922" ORDER="18" STRING="焚きあまし「その 一」·「その二」は、年の順序に竝べられなか" />
+      <LINE TYPE="本文" X="920" Y="734" WIDTH="68" HEIGHT="1206" CONF="0.920" ORDER="19" STRING="つた科、製作時の印象の乏しい卽興歌が多い。 國學院大" />
+      <LINE TYPE="本文" X="829" Y="731" WIDTH="69" HEIGHT="1224" CONF="0.925" ORDER="20" STRING="學に學生として、氣ずゐな生活をして居た間のものは、殆、" />
+      <LINE TYPE="本文" X="737" Y="732" WIDTH="68" HEIGHT="1206" CONF="0.915" ORDER="21" STRING="實生活を無視 し、實感を疎外した歌ばかりである。 四十" />
+      <LINE TYPE="本文" X="645" Y="645" WIDTH="70" HEIGHT="1297" CONF="0.902" ORDER="22" STRING="三年に卒業して、翌年秋、大阪府今宮中學校〓員となるま" />
+      <SHAPE>
+        <POLYGON POINTS="647,643,647,1959,1624,1959,1624,643" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2958" Y="639" WIDTH="23" HEIGHT="28" CONF="0.269" />
+    <BLOCK TYPE="ノンブル" X="1585" Y="2191" WIDTH="20" HEIGHT="20" CONF="0.216" />
+    <BLOCK TYPE="ルビ" X="2402" Y="1853" WIDTH="16" HEIGHT="67" CONF="0.539" />
+    <BLOCK TYPE="ルビ" X="2335" Y="722" WIDTH="19" HEIGHT="117" CONF="0.537" />
+  </PAGE>
+</OCRDATASET>

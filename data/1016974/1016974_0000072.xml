@@ -1,0 +1,43 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000072.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.237">
+      <LINE TYPE="タイトル本文" X="2728" Y="917" WIDTH="58" HEIGHT="288" CONF="0.719" ORDER="3" STRING="村 の 子" />
+      <SHAPE>
+        <POLYGON POINTS="2728,600,2728,1206,2862,1206,2862,600" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.584">
+      <LINE TYPE="本文" X="2542" Y="718" WIDTH="55" HEIGHT="1245" CONF="0.856" ORDER="4" STRING="笹の葉を喰みつゝ 口に泡はけり。 愛しき馬や。" />
+      <LINE TYPE="本文" X="2463" Y="724" WIDTH="43" HEIGHT="391" CONF="0.864" ORDER="5" STRING="馬になれる子や" />
+      <LINE TYPE="本文" X="2278" Y="715" WIDTH="53" HEIGHT="1225" CONF="0.886" ORDER="8" STRING="麥芽たつ丘べの村の土ぼこりに 子どもだく踏" />
+      <LINE TYPE="本文" X="2199" Y="719" WIDTH="46" HEIGHT="451" CONF="0.867" ORDER="11" STRING="む。 馬のまねして" />
+      <SHAPE>
+        <POLYGON POINTS="2202,711,2202,1959,2598,1959,2598,711" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.220">
+      <LINE TYPE="タイトル本文" X="1385" Y="885" WIDTH="66" HEIGHT="58" CONF="0.556" ORDER="14" STRING="雪" />
+      <SHAPE>
+        <POLYGON POINTS="1116,696,1116,1922,1438,1922,1438,696" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.283">
+      <LINE TYPE="本文" X="1205" Y="699" WIDTH="59" HEIGHT="1221" CONF="0.889" ORDER="15" STRING="さ夜なかに 覺めておどろく。 夜はの雪 ふり" />
+      <LINE TYPE="本文" X="1120" Y="697" WIDTH="51" HEIGHT="694" CONF="0.851" ORDER="17" STRING="うづむとも 人は知らじな" />
+      <LINE TYPE="本文" X="945" Y="700" WIDTH="57" HEIGHT="1224" CONF="0.901" ORDER="19" STRING="ひそやかに あゆみをとゞむ。 夜はの雪踏み行" />
+      <LINE TYPE="本文" X="861" Y="700" WIDTH="47" HEIGHT="631" CONF="0.861" ORDER="20" STRING="くわれと 人知らめやも" />
+      <SHAPE>
+        <POLYGON POINTS="596,665,596,1927,1265,1927,1265,665" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.669">
+      <LINE TYPE="本文" X="678" Y="699" WIDTH="67" HEIGHT="1221" CONF="0.858" ORDER="23" STRING="鴉なくお濱離宮の松のうれ つら〓〓 白き 雪" />
+      <LINE TYPE="本文" X="593" Y="586" WIDTH="53" HEIGHT="389" CONF="0.757" ORDER="31" STRING="のふりはも 131" />
+      <SHAPE>
+        <POLYGON POINTS="597,583,597,1920,742,1920,742,583" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2809" Y="600" WIDTH="54" HEIGHT="26" CONF="0.479" />
+    <BLOCK TYPE="ルビ" X="2595" Y="1663" WIDTH="18" HEIGHT="36" CONF="0.389" />
+  </PAGE>
+</OCRDATASET>

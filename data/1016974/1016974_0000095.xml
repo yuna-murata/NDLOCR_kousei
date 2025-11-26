@@ -1,0 +1,45 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000095.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.470">
+      <LINE TYPE="本文" X="2780" Y="621" WIDTH="63" HEIGHT="1372" CONF="0.813" ORDER="0" STRING="誰一人 客はわらはぬはなしかの工 さびしさ。 176" />
+      <LINE TYPE="本文" X="2698" Y="746" WIDTH="44" HEIGHT="331" CONF="0.747" ORDER="1" STRING="われも笑はず" />
+      <LINE TYPE="本文" X="2522" Y="743" WIDTH="51" HEIGHT="1224" CONF="0.888" ORDER="4" STRING="高座にあがるすなはち 處女ふたり 扇ひらき" />
+      <LINE TYPE="本文" X="2435" Y="743" WIDTH="46" HEIGHT="453" CONF="0.803" ORDER="6" STRING="ぬ。 大きなる扇を" />
+      <LINE TYPE="本文" X="2254" Y="736" WIDTH="60" HEIGHT="1206" CONF="0.646" ORDER="8" STRING="新內の語りのとぎれ おどろけば、 座頭紫朝" />
+      <LINE TYPE="本文" X="2175" Y="739" WIDTH="42" HEIGHT="393" CONF="0.817" ORDER="10" STRING="目をあかずをり" />
+      <LINE TYPE="本文" X="1994" Y="742" WIDTH="52" HEIGHT="1220" CONF="0.888" ORDER="12" STRING="「富久」のはなしなかばに トミキウ 立ちくるは、 笑ふに" />
+      <LINE TYPE="本文" X="1910" Y="737" WIDTH="42" HEIGHT="455" CONF="0.799" ORDER="13" STRING="堪へむ心にあらず" />
+      <SHAPE>
+        <POLYGON POINTS="1910,582,1910,1982,2845,1982,2845,582" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.829">
+      <LINE TYPE="タイトル本文" X="1407" Y="962" WIDTH="48" HEIGHT="449" CONF="0.723" ORDER="17" STRING="〓志に與へたる" />
+      <SHAPE>
+        <POLYGON POINTS="1407,962,1407,1411,1455,1411,1455,962" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.232">
+      <LINE TYPE="本文" X="1230" Y="728" WIDTH="51" HEIGHT="1225" CONF="0.906" ORDER="18" STRING="臥たる胸しづまりゆけば、 天さかるひなの薩摩" />
+      <LINE TYPE="本文" X="1146" Y="730" WIDTH="42" HEIGHT="512" CONF="0.814" ORDER="19" STRING="し さやに見え來も" />
+      <LINE TYPE="本文" X="969" Y="729" WIDTH="51" HEIGHT="1225" CONF="0.878" ORDER="23" STRING="告げやらば 若き心に歎かめど、 汝が思ひ得む" />
+      <LINE TYPE="本文" X="882" Y="735" WIDTH="43" HEIGHT="394" CONF="0.777" ORDER="24" STRING="わびしさならず" />
+      <SHAPE>
+        <POLYGON POINTS="623,670,623,1964,1295,1964,1295,670" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.306">
+      <LINE TYPE="本文" X="704" Y="735" WIDTH="53" HEIGHT="1224" CONF="0.850" ORDER="27" STRING="しごとより疲れ歸りて、 うつゝなく我は寢れど" />
+      <LINE TYPE="本文" X="613" Y="615" WIDTH="50" HEIGHT="638" CONF="0.774" ORDER="29" STRING="も、 明日さめにけり 177" />
+      <SHAPE>
+        <POLYGON POINTS="614,612,614,1958,763,1958,763,612" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2771" Y="621" WIDTH="53" HEIGHT="29" CONF="0.308" />
+    <BLOCK TYPE="ルビ" X="2310" Y="1818" WIDTH="23" HEIGHT="104" CONF="0.420" />
+    <BLOCK TYPE="ルビ" X="2839" Y="1628" WIDTH="18" HEIGHT="68" CONF="0.374" />
+    <BLOCK TYPE="ルビ" X="2036" Y="776" WIDTH="23" HEIGHT="87" CONF="0.335" />
+    <BLOCK TYPE="ルビ" X="1019" Y="1632" WIDTH="20" HEIGHT="18" CONF="0.241" />
+    <BLOCK TYPE="ルビ" X="755" Y="1814" WIDTH="21" HEIGHT="21" CONF="0.235" />
+  </PAGE>
+</OCRDATASET>

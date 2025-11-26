@@ -1,0 +1,38 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000124.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.294">
+      <LINE TYPE="本文" X="2903" Y="612" WIDTH="75" HEIGHT="1349" CONF="0.823" ORDER="0" STRING="あるひまよ。 心ふとしもなごみ來ぬ。 頰をたゞ 234" />
+      <LINE TYPE="本文" X="2841" Y="727" WIDTH="52" HEIGHT="516" CONF="0.712" ORDER="1" STRING="よはす 淚のなかに" />
+      <LINE TYPE="本文" X="2639" Y="718" WIDTH="74" HEIGHT="1236" CONF="0.882" ORDER="4" STRING="天つ日の照れる岡びに ひとりゐて、 ものをし" />
+      <LINE TYPE="本文" X="2574" Y="716" WIDTH="53" HEIGHT="516" CONF="0.787" ORDER="5" STRING="もへば、 淚ぐましも" />
+      <LINE TYPE="本文" X="2366" Y="709" WIDTH="79" HEIGHT="1230" CONF="0.887" ORDER="9" STRING="冬がれのうるし木立ちのひま〓〓に 積み藁つ" />
+      <LINE TYPE="本文" X="2305" Y="711" WIDTH="51" HEIGHT="513" CONF="0.825" ORDER="10" STRING="ゞく 國分寺のさと" />
+      <LINE TYPE="本文" X="2103" Y="699" WIDTH="74" HEIGHT="1235" CONF="0.892" ORDER="13" STRING="遠ながき伏し越えみちや。 うら〓〓に 照れる" />
+      <LINE TYPE="本文" X="2023" Y="702" WIDTH="69" HEIGHT="1043" CONF="0.866" ORDER="14" STRING="春日を、 こしなづむかも 「伏越峠」地" />
+      <SHAPE>
+        <POLYGON POINTS="2018,613,2018,1963,2980,1963,2980,613" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.211">
+      <LINE TYPE="本文" X="1467" Y="700" WIDTH="87" HEIGHT="1238" CONF="0.874" ORDER="15" STRING="庭の面にかり乾す藁の 香もほのに、 西日のひ" />
+      <LINE TYPE="本文" X="1383" Y="708" WIDTH="58" HEIGHT="575" CONF="0.836" ORDER="17" STRING="かり あたゝかくさす" />
+      <LINE TYPE="本文" X="1206" Y="712" WIDTH="78" HEIGHT="1237" CONF="0.900" ORDER="18" STRING="目をわたる白帆見る間に、 ふと さびし。 やを" />
+      <LINE TYPE="本文" X="1120" Y="715" WIDTH="62" HEIGHT="813" CONF="0.828" ORDER="19" STRING="ら 見かへり、 目のあひにけり" />
+      <LINE TYPE="本文" X="940" Y="716" WIDTH="76" HEIGHT="1235" CONF="0.884" ORDER="22" STRING="をり〓〓は かなしく心かたよるを、 なけばゆ" />
+      <LINE TYPE="本文" X="853" Y="726" WIDTH="58" HEIGHT="575" CONF="0.856" ORDER="23" STRING="たけし。 天ぞ來むかふ" />
+      <SHAPE>
+        <POLYGON POINTS="588,682,588,1968,1577,1968,1577,682" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.715">
+      <LINE TYPE="本文" X="671" Y="717" WIDTH="81" HEIGHT="1244" CONF="0.883" ORDER="26" STRING="見のさびし。 そともの雪の朝かげの ほのあか" />
+      <LINE TYPE="本文" X="581" Y="612" WIDTH="64" HEIGHT="693" CONF="0.826" ORDER="27" STRING="るみに、 人のかよへる 235" />
+      <SHAPE>
+        <POLYGON POINTS="585,610,585,1962,750,1962,750,610" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="1546" Y="1729" WIDTH="23" HEIGHT="78" CONF="0.535" />
+    <BLOCK TYPE="ルビ" X="713" Y="731" WIDTH="20" HEIGHT="29" CONF="0.209" />
+    <BLOCK TYPE="ルビ" X="1516" Y="825" WIDTH="23" HEIGHT="20" CONF="0.203" />
+  </PAGE>
+</OCRDATASET>

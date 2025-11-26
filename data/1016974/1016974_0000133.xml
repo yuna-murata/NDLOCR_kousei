@@ -1,0 +1,40 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000133.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.979">
+      <LINE TYPE="本文" X="2946" Y="761" WIDTH="60" HEIGHT="859" CONF="0.834" ORDER="0" STRING="の方角が開けて、あちこちへ散らばつた。" />
+      <LINE TYPE="本文" X="2845" Y="744" WIDTH="70" HEIGHT="1216" CONF="0.921" ORDER="1" STRING="自分では、さまでにも思はなかつたが、やっぱり「身は境涯に" />
+      <LINE TYPE="本文" X="2752" Y="740" WIDTH="74" HEIGHT="1208" CONF="0.886" ORDER="2" STRING="伴れる」ものと見えて、敏感な〓志から、私の動作の、以前の" />
+      <LINE TYPE="本文" X="2662" Y="736" WIDTH="69" HEIGHT="1200" CONF="0.922" ORDER="3" STRING="「なごやかさ」を失うた事を指摘せられた事も、幾度かあつ" />
+      <LINE TYPE="本文" X="2567" Y="731" WIDTH="73" HEIGHT="1214" CONF="0.917" ORDER="4" STRING="층 不自由を知らずに育つた金太郞も、私と一つ處に住" />
+      <LINE TYPE="本文" X="2476" Y="727" WIDTH="72" HEIGHT="1214" CONF="0.919" ORDER="5" STRING="む爲に、共に苦しいめを見る樣な事があつた。 其でも、默" />
+      <LINE TYPE="本文" X="2388" Y="728" WIDTH="67" HEIGHT="1176" CONF="0.917" ORDER="6" STRING="々と私のあるく道を、專門こそ違へ、ついて來てくれた。" />
+      <LINE TYPE="本文" X="2295" Y="722" WIDTH="72" HEIGHT="1229" CONF="0.921" ORDER="7" STRING="五年の夏、〓志を、强ひて鹿兒島の造士館に入らせて後は、" />
+      <LINE TYPE="本文" X="2217" Y="716" WIDTH="61" HEIGHT="820" CONF="0.907" ORDER="8" STRING="金太郞一人を、話相手にしてくらした。" />
+      <LINE TYPE="本文" X="2110" Y="709" WIDTH="73" HEIGHT="1216" CONF="0.914" ORDER="9" STRING="「あらゝぎ」にはひつたのは、この年であつた。 赤彥さんが" />
+      <LINE TYPE="本文" X="2023" Y="708" WIDTH="67" HEIGHT="1212" CONF="0.923" ORDER="10" STRING="富阪のいろは館に居た都合から、しげ〓〓と出入りをし" />
+      <SHAPE>
+        <POLYGON POINTS="2023,709,2023,1962,3006,1962,3006,709" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.972">
+      <LINE TYPE="本文" X="1510" Y="714" WIDTH="71" HEIGHT="1207" CONF="0.929" ORDER="11" STRING="た。 其間に、「あらゝぎ」の 同人の方々から、數へきれない程" />
+      <LINE TYPE="本文" X="1417" Y="717" WIDTH="48" HEIGHT="406" CONF="0.914" ORDER="12" STRING="よい影響をうけた。" />
+      <LINE TYPE="本文" X="1325" Y="719" WIDTH="74" HEIGHT="1204" CONF="0.932" ORDER="13" STRING="けれども、かうした實生活から來るものを、歌に表さうと" />
+      <LINE TYPE="本文" X="1233" Y="721" WIDTH="74" HEIGHT="1206" CONF="0.927" ORDER="14" STRING="して、認識の熟せないうちに、表現不足のまゝではふり出" />
+      <LINE TYPE="本文" X="1137" Y="722" WIDTH="78" HEIGHT="1202" CONF="0.915" ORDER="15" STRING="す事が多かつた。 今見ても、さもしい氣のする歌が限リ" />
+      <LINE TYPE="本文" X="1046" Y="726" WIDTH="76" HEIGHT="1198" CONF="0.928" ORDER="16" STRING="なく出來た。 しかも、此集にさう言ふ歌を、すつかり删つ" />
+      <LINE TYPE="本文" X="958" Y="723" WIDTH="66" HEIGHT="971" CONF="0.927" ORDER="17" STRING="てしまふ事の出來なかつた執著が恥かしい。" />
+      <LINE TYPE="本文" X="862" Y="722" WIDTH="80" HEIGHT="1211" CONF="0.934" ORDER="18" STRING="推敲に迷ふ事があると、赤彥さんの處に馳けつけた。 赤" />
+      <LINE TYPE="本文" X="768" Y="723" WIDTH="79" HEIGHT="1209" CONF="0.933" ORDER="19" STRING="彥さんが、「こゝはかう。 そこはあゝ」と言ふ風に、決斷して" />
+      <LINE TYPE="本文" X="678" Y="728" WIDTH="77" HEIGHT="1204" CONF="0.932" ORDER="20" STRING="と、安心した。 「あらゝぎ」同人の中、殊に赤彥さんの" />
+      <LINE TYPE="本文" X="586" Y="641" WIDTH="77" HEIGHT="1294" CONF="0.920" ORDER="21" STRING="かげを蒙つて居る事は、とりわけ書いて置かねばなら 13" />
+      <SHAPE>
+        <POLYGON POINTS="588,639,588,1938,1576,1938,1576,639" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2969" Y="663" WIDTH="40" HEIGHT="23" CONF="0.666" />
+    <BLOCK TYPE="ノンブル" X="585" Y="641" WIDTH="38" HEIGHT="28" CONF="0.301" />
+    <BLOCK TYPE="ルビ" X="2887" Y="1859" WIDTH="19" HEIGHT="15" CONF="0.491" />
+    <BLOCK TYPE="ルビ" X="2827" Y="756" WIDTH="17" HEIGHT="15" CONF="0.253" />
+  </PAGE>
+</OCRDATASET>

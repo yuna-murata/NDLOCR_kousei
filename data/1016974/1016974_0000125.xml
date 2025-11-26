@@ -1,0 +1,39 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000125.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.515">
+      <LINE TYPE="本文" X="2887" Y="617" WIDTH="81" HEIGHT="1362" CONF="0.866" ORDER="1" STRING="ねたる胸 いともやすけし。 日ねもすにむかひ 236" />
+      <LINE TYPE="本文" X="2820" Y="739" WIDTH="63" HEIGHT="635" CONF="0.785" ORDER="2" STRING="し山は、 わきにそゝれど" />
+      <LINE TYPE="本文" X="2625" Y="728" WIDTH="76" HEIGHT="1240" CONF="0.888" ORDER="3" STRING="わがさかり おとろへぬらし。 月よみの夜ぞら" />
+      <LINE TYPE="本文" X="2560" Y="729" WIDTH="54" HEIGHT="574" CONF="0.807" ORDER="4" STRING="を見れば、 淚おち來も" />
+      <LINE TYPE="本文" X="2352" Y="720" WIDTH="83" HEIGHT="1239" CONF="0.905" ORDER="6" STRING="わが戀をちかふにたてし 天つ日の、 まのあた" />
+      <LINE TYPE="本文" X="2288" Y="719" WIDTH="59" HEIGHT="695" CONF="0.849" ORDER="7" STRING="りにし おとろふる 見よ" />
+      <LINE TYPE="本文" X="2089" Y="713" WIDTH="78" HEIGHT="1236" CONF="0.886" ORDER="9" STRING="いにしへびと あるは來逢はむ。 神南備の萩ち" />
+      <LINE TYPE="本文" X="2022" Y="706" WIDTH="59" HEIGHT="862" CONF="0.864" ORDER="12" STRING="る風に、 山下ゆけば 「飛島の村」" />
+      <SHAPE>
+        <POLYGON POINTS="2012,632,2012,1979,2963,1979,2963,632" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.629">
+      <LINE TYPE="本文" X="1469" Y="739" WIDTH="73" HEIGHT="1235" CONF="0.904" ORDER="13" STRING="むさし野は ゆき行く道のはてもなし。 かへれ" />
+      <LINE TYPE="本文" X="1383" Y="742" WIDTH="76" HEIGHT="1150" CONF="0.913" ORDER="15" STRING="と言へど、 遠く來にけり 「親の心にそはないで、 國學院に" />
+      <LINE TYPE="本文" X="1215" Y="741" WIDTH="72" HEIGHT="1237" CONF="0.901" ORDER="16" STRING="夕づく日 雁のゆくへをゆびざして、 いなれぬ" />
+      <LINE TYPE="本文" X="1129" Y="743" WIDTH="59" HEIGHT="581" CONF="0.805" ORDER="21" STRING="國を また言ふか。 君" />
+      <LINE TYPE="本文" X="950" Y="753" WIDTH="77" HEIGHT="1229" CONF="0.901" ORDER="22" STRING="わがゝづく朽葉ごろもの袖 たわに、 ゆたかに" />
+      <LINE TYPE="本文" X="864" Y="813" WIDTH="55" HEIGHT="458" CONF="0.804" ORDER="24" STRING="春の雪ながれ來ぬ" />
+      <SHAPE>
+        <POLYGON POINTS="595,719,595,1998,1539,1998,1539,719" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.225">
+      <LINE TYPE="本文" X="683" Y="762" WIDTH="81" HEIGHT="1228" CONF="0.896" ORDER="27" STRING="いふことのすこし殘ると 立ち戾り、 寂しく笑" />
+      <LINE TYPE="本文" X="594" Y="638" WIDTH="60" HEIGHT="635" CONF="0.826" ORDER="28" STRING="みて、 いにし人はも 237" />
+      <SHAPE>
+        <POLYGON POINTS="595,635,595,1990,752,1990,752,635" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2904" Y="619" WIDTH="61" HEIGHT="32" CONF="0.291" />
+    <BLOCK TYPE="ルビ" X="2140" Y="1610" WIDTH="21" HEIGHT="147" CONF="0.466" />
+    <BLOCK TYPE="ルビ" X="1398" Y="1440" WIDTH="22" HEIGHT="285" CONF="0.302" />
+    <BLOCK TYPE="ルビ" X="2903" Y="624" WIDTH="23" HEIGHT="25" CONF="0.203" />
+  </PAGE>
+</OCRDATASET>

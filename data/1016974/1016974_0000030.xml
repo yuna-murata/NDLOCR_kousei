@@ -1,0 +1,36 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000030.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.333">
+      <LINE TYPE="本文" X="2821" Y="655" WIDTH="54" HEIGHT="1348" CONF="0.845" ORDER="0" STRING="人の言ふことばを聞けば、 山川のおもかげたち 16" />
+      <LINE TYPE="本文" X="2743" Y="775" WIDTH="50" HEIGHT="572" CONF="0.762" ORDER="1" STRING="來ること 多くなれり" />
+      <LINE TYPE="本文" X="2561" Y="768" WIDTH="53" HEIGHT="1226" CONF="0.888" ORDER="5" STRING="人來れば さびしかりけり。 かならず 我をた" />
+      <LINE TYPE="本文" X="2484" Y="767" WIDTH="45" HEIGHT="571" CONF="0.820" ORDER="7" STRING="ばかるもの言ひにけり" />
+      <LINE TYPE="本文" X="2297" Y="762" WIDTH="56" HEIGHT="1225" CONF="0.870" ORDER="8" STRING="ほがらに 心たもたむ。 人みな はかなきこと" />
+      <LINE TYPE="本文" X="2221" Y="759" WIDTH="43" HEIGHT="455" CONF="0.829" ORDER="9" STRING="を言ひに來にけり" />
+      <LINE TYPE="本文" X="2034" Y="754" WIDTH="53" HEIGHT="1223" CONF="0.851" ORDER="13" STRING="かたくなにまもるひとりを 堪へさせよ。 さび" />
+      <LINE TYPE="本文" X="1953" Y="754" WIDTH="50" HEIGHT="631" CONF="0.832" ORDER="15" STRING="しき心 遂げむと思ふに" />
+      <SHAPE>
+        <POLYGON POINTS="1958,603,1958,1998,2872,1998,2872,603" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.815">
+      <LINE TYPE="タイトル本文" X="1500" Y="933" WIDTH="64" HEIGHT="301" CONF="0.770" ORDER="17" STRING="雪のうへ" />
+      <SHAPE>
+        <POLYGON POINTS="1500,934,1500,1234,1563,1234,1563,934" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.201">
+      <LINE TYPE="本文" X="1320" Y="750" WIDTH="70" HEIGHT="1214" CONF="0.918" ORDER="18" STRING="雨のゝちに 雪ふりにけり。 雪のうへに 沓あ" />
+      <LINE TYPE="本文" X="1236" Y="752" WIDTH="49" HEIGHT="628" CONF="0.865" ORDER="19" STRING="とつくる我は ひとりを" />
+      <LINE TYPE="本文" X="1058" Y="749" WIDTH="69" HEIGHT="1223" CONF="0.908" ORDER="22" STRING="十年あまり七とせを經つ。 たもち難くなり來る" />
+      <LINE TYPE="本文" X="974" Y="757" WIDTH="49" HEIGHT="627" CONF="0.864" ORDER="24" STRING="心の さびしくありけり" />
+      <LINE TYPE="本文" X="795" Y="757" WIDTH="70" HEIGHT="1240" CONF="0.903" ORDER="26" STRING="新しき年のはじめの春駒の をどりさびしもよ。" />
+      <LINE TYPE="本文" X="707" Y="640" WIDTH="53" HEIGHT="454" CONF="0.846" ORDER="27" STRING="年さかりたり 47" />
+      <SHAPE>
+        <POLYGON POINTS="710,617,710,1999,1389,1999,1389,617" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="2274" Y="1232" WIDTH="18" HEIGHT="16" CONF="0.296" />
+    <BLOCK TYPE="ルビ" X="2016" Y="1183" WIDTH="22" HEIGHT="13" CONF="0.216" />
+  </PAGE>
+</OCRDATASET>

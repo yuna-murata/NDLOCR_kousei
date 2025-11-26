@@ -1,0 +1,41 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000059.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.555">
+      <LINE TYPE="本文" X="2862" Y="715" WIDTH="79" HEIGHT="1363" CONF="0.816" ORDER="0" STRING="靑山の山ふところにほこり立ち、 夕日かすめり。 104" />
+      <LINE TYPE="本文" X="2802" Y="828" WIDTH="49" HEIGHT="328" CONF="0.737" ORDER="2" STRING="燒け原のうへ" />
+      <LINE TYPE="本文" X="2599" Y="822" WIDTH="73" HEIGHT="1221" CONF="0.843" ORDER="8" STRING="山の際にほこりたなびき うらがなし。 夕日あ" />
+      <LINE TYPE="本文" X="2532" Y="821" WIDTH="53" HEIGHT="569" CONF="0.811" ORDER="9" STRING="らはに、 町どころ見ゆ" />
+      <SHAPE>
+        <POLYGON POINTS="2535,717,2535,2080,2936,2080,2936,717" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.898">
+      <LINE TYPE="タイトル本文" X="1428" Y="977" WIDTH="66" HEIGHT="401" CONF="0.807" ORDER="13" STRING="始 羅 の 山" />
+      <SHAPE>
+        <POLYGON POINTS="1428,977,1428,1377,1494,1377,1494,977" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.369">
+      <LINE TYPE="本文" X="1245" Y="791" WIDTH="69" HEIGHT="1222" CONF="0.915" ORDER="14" STRING="もの言ひて さびしさ殘れり。 大野らに、 行き" />
+      <LINE TYPE="本文" X="1161" Y="795" WIDTH="54" HEIGHT="687" CONF="0.876" ORDER="16" STRING="あひし人 遙けくなりたり" />
+      <LINE TYPE="本文" X="981" Y="796" WIDTH="73" HEIGHT="1222" CONF="0.921" ORDER="18" STRING="はろ〓〓に 埃をあぐる晝の道。 ひとり目つぶ" />
+      <LINE TYPE="本文" X="899" Y="801" WIDTH="48" HEIGHT="510" CONF="0.848" ORDER="19" STRING="る。 草むらに向きて" />
+      <LINE TYPE="本文" X="720" Y="799" WIDTH="77" HEIGHT="1236" CONF="0.912" ORDER="21" STRING="遂げがたく 心は思へど、 夏山のいきれの道に、" />
+      <LINE TYPE="本文" X="636" Y="690" WIDTH="59" HEIGHT="444" CONF="0.692" ORDER="23" STRING="歎息しまさる 105" />
+      <SHAPE>
+        <POLYGON POINTS="638,740,638,2037,1315,2037,1315,740" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.330">
+      <SHAPE>
+        <POLYGON POINTS="635,683,635,1134,696,1134,696,683" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="637" Y="684" WIDTH="51" HEIGHT="27" CONF="0.339" />
+    <BLOCK TYPE="ノンブル" X="2888" Y="715" WIDTH="52" HEIGHT="26" CONF="0.201" />
+    <BLOCK TYPE="ルビ" X="1207" Y="1094" WIDTH="21" HEIGHT="36" CONF="0.615" />
+    <BLOCK TYPE="ルビ" X="2677" Y="945" WIDTH="20" HEIGHT="20" CONF="0.563" />
+    <BLOCK TYPE="ルビ" X="776" Y="1274" WIDTH="23" HEIGHT="20" CONF="0.507" />
+    <BLOCK TYPE="ルビ" X="682" Y="797" WIDTH="22" HEIGHT="93" CONF="0.444" />
+  </PAGE>
+</OCRDATASET>

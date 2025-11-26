@@ -1,0 +1,38 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000115.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.224">
+      <LINE TYPE="本文" X="2911" Y="630" WIDTH="58" HEIGHT="1352" CONF="0.860" ORDER="0" STRING="大海にたゞにむかへる 志摩の崎 波切の村に ナキリ 216" />
+      <LINE TYPE="本文" X="2836" Y="750" WIDTH="43" HEIGHT="392" CONF="0.749" ORDER="1" STRING="あひし子らはも" />
+      <LINE TYPE="本文" X="2644" Y="744" WIDTH="55" HEIGHT="1260" CONF="0.888" ORDER="4" STRING="ちぎりあれや 山路のを草莢さき て、 種とばす。" />
+      <LINE TYPE="本文" X="2565" Y="745" WIDTH="47" HEIGHT="631" CONF="0.844" ORDER="5" STRING="ときに 來あふものかも" />
+      <LINE TYPE="本文" X="2377" Y="735" WIDTH="59" HEIGHT="1233" CONF="0.894" ORDER="9" STRING="旅ごゝろ ものなつかしも。 夜まつりをつかふ" />
+      <LINE TYPE="本文" X="2301" Y="737" WIDTH="45" HEIGHT="572" CONF="0.829" ORDER="11" STRING="る浦の 人出にまじる" />
+      <LINE TYPE="本文" X="2110" Y="731" WIDTH="57" HEIGHT="1230" CONF="0.898" ORDER="13" STRING="にはかにも この日は昏れぬ。 高山の崖路 ホキ 風 ヂ" />
+      <LINE TYPE="本文" X="2036" Y="726" WIDTH="45" HEIGHT="400" CONF="0.813" ORDER="14" STRING="吹き、 鶯のなく" />
+      <SHAPE>
+        <POLYGON POINTS="2033,614,2033,1988,2977,1988,2977,614" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.220">
+      <LINE TYPE="本文" X="1483" Y="718" WIDTH="69" HEIGHT="1235" CONF="0.875" ORDER="18" STRING="那智に來ぬ。 竹柏 樟の古き夢 そよ ひるが" />
+      <LINE TYPE="本文" X="1394" Y="729" WIDTH="56" HEIGHT="510" CONF="0.805" ORDER="19" STRING="へし、 風とよみ吹く" />
+      <LINE TYPE="本文" X="1219" Y="723" WIDTH="72" HEIGHT="1234" CONF="0.875" ORDER="22" STRING="靑うみにまかゞやく日や。 とほ〓〓し 妣が國" />
+      <LINE TYPE="本文" X="1133" Y="728" WIDTH="52" HEIGHT="515" CONF="0.840" ORDER="23" STRING="べゆ 舟かへるらし" />
+      <LINE TYPE="本文" X="952" Y="724" WIDTH="67" HEIGHT="1237" CONF="0.914" ORDER="26" STRING="波ゆたにあそべり。 牟婁の磯にゐて、 たゆたふ" />
+      <LINE TYPE="本文" X="866" Y="728" WIDTH="52" HEIGHT="459" CONF="0.812" ORDER="28" STRING="命 しばし息づく" />
+      <LINE TYPE="本文" X="689" Y="734" WIDTH="68" HEIGHT="1233" CONF="0.871" ORDER="32" STRING="わが乘るや天の鳥船 海ざかの空拍つ浪に、 高" />
+      <LINE TYPE="本文" X="599" Y="612" WIDTH="51" HEIGHT="393" CONF="0.795" ORDER="35" STRING="くあがれり 217" />
+      <SHAPE>
+        <POLYGON POINTS="606,626,606,1977,1560,1977,1560,626" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2912" Y="629" WIDTH="56" HEIGHT="27" CONF="0.235" />
+    <BLOCK TYPE="ルビ" X="2157" Y="1744" WIDTH="21" HEIGHT="93" CONF="0.513" />
+    <BLOCK TYPE="ルビ" X="1539" Y="1088" WIDTH="20" HEIGHT="77" CONF="0.501" />
+    <BLOCK TYPE="ルビ" X="1288" Y="1809" WIDTH="23" HEIGHT="45" CONF="0.495" />
+    <BLOCK TYPE="ルビ" X="741" Y="1032" WIDTH="22" HEIGHT="336" CONF="0.491" />
+    <BLOCK TYPE="ルビ" X="2958" Y="1710" WIDTH="20" HEIGHT="94" CONF="0.314" />
+    <BLOCK TYPE="ルビ" X="2958" Y="1710" WIDTH="21" HEIGHT="94" CONF="0.262" />
+    <BLOCK TYPE="ルビ" X="2563" Y="989" WIDTH="15" HEIGHT="32" CONF="0.200" />
+  </PAGE>
+</OCRDATASET>

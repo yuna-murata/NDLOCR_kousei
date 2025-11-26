@@ -1,0 +1,43 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000086.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.379">
+      <LINE TYPE="本文" X="2887" Y="603" WIDTH="70" HEIGHT="1351" CONF="0.798" ORDER="0" STRING="さかりゐし松葉牡丹 へりにけり。 み墓さやか 158" />
+      <LINE TYPE="本文" X="2816" Y="732" WIDTH="41" HEIGHT="453" CONF="0.747" ORDER="1" STRING="になりにて 寂し" />
+      <LINE TYPE="本文" X="2621" Y="721" WIDTH="60" HEIGHT="1170" CONF="0.864" ORDER="4" STRING="たゞひと言 ほめくれたりと思ふ翁がことば ヲヂ" />
+      <LINE TYPE="本文" X="2540" Y="719" WIDTH="55" HEIGHT="989" CONF="0.887" ORDER="6" STRING="うや〓〓しけれど、 思ひ出でず。 今は" />
+      <LINE TYPE="本文" X="2358" Y="719" WIDTH="56" HEIGHT="1227" CONF="0.884" ORDER="7" STRING="おくれ來て 寺の廣間にとほる茂吉 あつさ暑" />
+      <LINE TYPE="本文" X="2283" Y="718" WIDTH="43" HEIGHT="452" CONF="0.799" ORDER="9" STRING="さと 扇ならすも" />
+      <LINE TYPE="本文" X="2120" Y="710" WIDTH="54" HEIGHT="1228" CONF="0.902" ORDER="10" STRING="大川のさつきの水の濁り波。 秀がしら光る。 そ" />
+      <LINE TYPE="本文" X="2040" Y="715" WIDTH="48" HEIGHT="276" CONF="0.715" ORDER="11" STRING="のくづれ波" />
+      <SHAPE>
+        <POLYGON POINTS="2037,603,2037,1967,2951,1967,2951,603" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.857">
+      <LINE TYPE="タイトル本文" X="1405" Y="920" WIDTH="65" HEIGHT="402" CONF="0.787" ORDER="15" STRING="聞 夏 相" />
+      <SHAPE>
+        <POLYGON POINTS="1405,920,1405,1322,1469,1322,1469,920" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.355">
+      <LINE TYPE="本文" X="1230" Y="726" WIDTH="52" HEIGHT="1224" CONF="0.897" ORDER="16" STRING="ま晝の照りきはまりに 白む日の、 大地あかる" />
+      <LINE TYPE="本文" X="1146" Y="728" WIDTH="43" HEIGHT="456" CONF="0.825" ORDER="18" STRING="く 月夜のごとし" />
+      <LINE TYPE="本文" X="969" Y="728" WIDTH="52" HEIGHT="1227" CONF="0.862" ORDER="21" STRING="ま晝の照りみなぎらふ道なかに、 ひそかに 會" />
+      <LINE TYPE="本文" X="884" Y="731" WIDTH="46" HEIGHT="510" CONF="0.740" ORDER="25" STRING="ひて、 いきづき瞻る" />
+      <SHAPE>
+        <POLYGON POINTS="889,722,889,1959,1281,1959,1281,722" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.232">
+      <LINE TYPE="本文" X="707" Y="727" WIDTH="50" HEIGHT="1168" CONF="0.848" ORDER="28" STRING="靑ぞらは、 暫時曇る。 軒ふかくこもらふ人の" />
+      <LINE TYPE="本文" X="621" Y="611" WIDTH="53" HEIGHT="455" CONF="0.773" ORDER="29" STRING="息のかそけさ 159" />
+      <SHAPE>
+        <POLYGON POINTS="627,577,627,1948,1017,1948,1017,577" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="931" Y="1150" WIDTH="20" HEIGHT="41" CONF="0.601" />
+    <BLOCK TYPE="ルビ" X="2667" Y="1623" WIDTH="24" HEIGHT="39" CONF="0.491" />
+    <BLOCK TYPE="ルビ" X="752" Y="1031" WIDTH="21" HEIGHT="100" CONF="0.474" />
+    <BLOCK TYPE="ルビ" X="2168" Y="1494" WIDTH="20" HEIGHT="25" CONF="0.445" />
+  </PAGE>
+</OCRDATASET>

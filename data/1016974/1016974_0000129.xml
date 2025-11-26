@@ -1,0 +1,39 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000129.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.899">
+      <LINE TYPE="本文" X="2921" Y="663" WIDTH="39" HEIGHT="236" CONF="0.629" ORDER="0" STRING="4 られた。" />
+      <LINE TYPE="本文" X="2815" Y="750" WIDTH="50" HEIGHT="1203" CONF="0.917" ORDER="4" STRING="かうして、人に惡まれ、飽かれても尙、文學の結界を踏み出" />
+      <LINE TYPE="本文" X="2723" Y="742" WIDTH="48" HEIGHT="1208" CONF="0.918" ORDER="5" STRING="す事は、えせなかつた私である。 其間に俄かに、一筋の 白" />
+      <LINE TYPE="本文" X="2631" Y="741" WIDTH="49" HEIGHT="1208" CONF="0.914" ORDER="6" STRING="道が、水火の二河の眞中に通じて居るのを見た。 柳田國" />
+      <LINE TYPE="本文" X="2540" Y="738" WIDTH="47" HEIGHT="1210" CONF="0.910" ORDER="7" STRING="男先生の歩まれた道である。 私はまっしぐらに其道を驅" />
+      <LINE TYPE="本文" X="2449" Y="733" WIDTH="46" HEIGHT="1230" CONF="0.888" ORDER="8" STRING="け出した。 けれども、白道を行きつゝも、二河のしぶきは、" />
+      <LINE TYPE="本文" X="2362" Y="734" WIDTH="42" HEIGHT="766" CONF="0.902" ORDER="9" STRING="しきりなく私の身にふりかゝつた。" />
+      <LINE TYPE="本文" X="2266" Y="730" WIDTH="47" HEIGHT="1228" CONF="0.909" ORDER="10" STRING="鷗外博士は、「蛙」一 部を以て、その兩棲生活のとぢめとして、" />
+      <LINE TYPE="本文" X="2174" Y="728" WIDTH="47" HEIGHT="1210" CONF="0.911" ORDER="11" STRING="文壇から鞘晦した。 愚かな枝蛙は、最後の目を見つめる" />
+      <LINE TYPE="本文" X="2082" Y="727" WIDTH="48" HEIGHT="1208" CONF="0.916" ORDER="12" STRING="まで、往生ぎはのわるい妄執に、ひきずられて行くことか" />
+      <LINE TYPE="本文" X="1997" Y="728" WIDTH="37" HEIGHT="253" CONF="0.889" ORDER="13" STRING="も知れない。" />
+      <SHAPE>
+        <POLYGON POINTS="2002,683,2002,1957,2959,1957,2959,683" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.950">
+      <LINE TYPE="本文" X="1558" Y="715" WIDTH="58" HEIGHT="1206" CONF="0.929" ORDER="14" STRING="八九歲の頃一首。 十一歲一首。 ひき續いて作リ出した" />
+      <LINE TYPE="本文" X="1465" Y="719" WIDTH="61" HEIGHT="1201" CONF="0.933" ORDER="15" STRING="のは、十五位からの事と思ふ。 二つ年がさの兄は、當時「少" />
+      <LINE TYPE="本文" X="1375" Y="715" WIDTH="59" HEIGHT="1205" CONF="0.933" ORDER="16" STRING="年園」から、文庫」と名を易へたばかりの雜誌を讀み耽つて" />
+      <LINE TYPE="本文" X="1286" Y="715" WIDTH="57" HEIGHT="1209" CONF="0.933" ORDER="17" STRING="居た。 與謝野鐵幹さんが、暫らく歌の選者をして後、服部" />
+      <LINE TYPE="本文" X="1193" Y="717" WIDTH="58" HEIGHT="1210" CONF="0.918" ORDER="18" STRING="躬治先生が、替つて歌を選ばれた。 此頃になつて漸く、歌" />
+      <LINE TYPE="本文" X="1101" Y="722" WIDTH="58" HEIGHT="1204" CONF="0.931" ORDER="19" STRING="に睦しみを感じかけた兄は、一足先きに、ある文學意識を" />
+      <LINE TYPE="本文" X="1008" Y="720" WIDTH="58" HEIGHT="1205" CONF="0.929" ORDER="20" STRING="持つた歌を作り出した。 兄を凌ぐ事を爲事にして居た" />
+      <LINE TYPE="本文" X="918" Y="720" WIDTH="57" HEIGHT="1222" CONF="0.933" ORDER="21" STRING="弟は、すぐ、その跡をつけた。 けれども、僅かな年齡の差も、" />
+      <LINE TYPE="本文" X="824" Y="724" WIDTH="59" HEIGHT="1206" CONF="0.927" ORDER="22" STRING="文學動機の飽和の度に於いて、著しく、一方には强め、一方" />
+      <LINE TYPE="本文" X="735" Y="728" WIDTH="58" HEIGHT="1199" CONF="0.917" ORDER="23" STRING="には弱めた。 私は何時も、兄にまかされて居た。 子ども" />
+      <LINE TYPE="本文" X="642" Y="661" WIDTH="62" HEIGHT="1265" CONF="0.820" ORDER="26" STRING="ながら、自ら鑑賞を晦ます事の出來なかつた寂しさ。 で" />
+      <SHAPE>
+        <POLYGON POINTS="647,653,647,1936,1612,1936,1612,653" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="639" Y="637" WIDTH="23" HEIGHT="30" CONF="0.261" />
+    <BLOCK TYPE="ルビ" X="1234" Y="716" WIDTH="20" HEIGHT="87" CONF="0.785" />
+    <BLOCK TYPE="ルビ" X="2484" Y="1820" WIDTH="18" HEIGHT="60" CONF="0.263" />
+  </PAGE>
+</OCRDATASET>

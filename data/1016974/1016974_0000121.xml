@@ -1,0 +1,34 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000121.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.633">
+      <LINE TYPE="本文" X="2870" Y="622" WIDTH="53" HEIGHT="1359" CONF="0.767" ORDER="0" STRING="はつくさに 雪ちりかゝる錦部の 山の入り日 228" />
+      <LINE TYPE="本文" X="2789" Y="748" WIDTH="42" HEIGHT="450" CONF="0.712" ORDER="2" STRING="に、 人ふりかへる" />
+      <LINE TYPE="本文" X="2602" Y="739" WIDTH="47" HEIGHT="1194" CONF="0.866" ORDER="5" STRING="牟婁の溫泉の とこなめらなる岩牀に、 枕す。" />
+      <LINE TYPE="本文" X="2521" Y="739" WIDTH="44" HEIGHT="1024" CONF="0.841" ORDER="6" STRING="しばし 人をわすれむ 「紀州鉛山温 泉" />
+      <LINE TYPE="本文" X="2338" Y="733" WIDTH="50" HEIGHT="1233" CONF="0.881" ORDER="8" STRING="月にむき、 ながき心は見もはてず わかれし人" />
+      <LINE TYPE="本文" X="2258" Y="735" WIDTH="42" HEIGHT="517" CONF="0.764" ORDER="11" STRING="のおとろへをおも ふ" />
+      <LINE TYPE="本文" X="2071" Y="728" WIDTH="51" HEIGHT="1232" CONF="0.895" ORDER="12" STRING="木がらしの吹く日來まさず。 わがゝどの冬木が" />
+      <LINE TYPE="本文" X="1993" Y="725" WIDTH="43" HEIGHT="518" CONF="0.803" ORDER="15" STRING="うれの 心うく鳴る" />
+      <SHAPE>
+        <POLYGON POINTS="1997,591,1997,1978,2935,1978,2935,591" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.240">
+      <LINE TYPE="本文" X="1492" Y="675" WIDTH="48" HEIGHT="1235" CONF="0.888" ORDER="18" STRING="そのかみの 心なき子も、 世を經つゝ、 淚もよ" />
+      <LINE TYPE="本文" X="1406" Y="678" WIDTH="46" HEIGHT="516" CONF="0.811" ORDER="19" STRING="ほすことを告げ來る" />
+      <LINE TYPE="本文" X="1230" Y="679" WIDTH="47" HEIGHT="1233" CONF="0.893" ORDER="22" STRING="ひたすらに、 荒山みちは越えて來つ。 〓きなぎ" />
+      <LINE TYPE="本文" X="1145" Y="677" WIDTH="44" HEIGHT="970" CONF="0.872" ORDER="23" STRING="さ に、 身さへ死ぬべし 「紀州由良浦」" />
+      <LINE TYPE="本文" X="966" Y="674" WIDTH="51" HEIGHT="1236" CONF="0.894" ORDER="24" STRING="十年へつ。 なほよろしくは見えながら、 かの心" />
+      <LINE TYPE="本文" X="881" Y="679" WIDTH="42" HEIGHT="513" CONF="0.822" ORDER="25" STRING="ひくことのはのなき" />
+      <LINE TYPE="本文" X="701" Y="674" WIDTH="51" HEIGHT="1234" CONF="0.887" ORDER="28" STRING="このわかれ いく世かけてはおぼつかな。 身さ" />
+      <LINE TYPE="本文" X="615" Y="559" WIDTH="50" HEIGHT="1305" CONF="0.835" ORDER="30" STRING="へ賴まぬ はかなさにして 「出羽に歸り住む友に」 229" />
+      <SHAPE>
+        <POLYGON POINTS="616,588,616,1921,1544,1921,1544,588" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2861" Y="621" WIDTH="56" HEIGHT="30" CONF="0.222" />
+    <BLOCK TYPE="ルビ" X="2648" Y="1566" WIDTH="22" HEIGHT="104" CONF="0.678" />
+    <BLOCK TYPE="ルビ" X="2647" Y="960" WIDTH="24" HEIGHT="711" CONF="0.536" />
+    <BLOCK TYPE="ルビ" X="2648" Y="962" WIDTH="20" HEIGHT="19" CONF="0.280" />
+  </PAGE>
+</OCRDATASET>

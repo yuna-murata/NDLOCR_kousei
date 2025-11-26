@@ -1,0 +1,41 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000018.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.416">
+      <LINE TYPE="タイトル本文" X="2765" Y="964" WIDTH="61" HEIGHT="279" CONF="0.802" ORDER="4" STRING="山 住 み" />
+      <SHAPE>
+        <POLYGON POINTS="2763,657,2763,1243,2901,1243,2901,657" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.552">
+      <LINE TYPE="本文" X="2575" Y="734" WIDTH="60" HEIGHT="1263" CONF="0.882" ORDER="5" STRING="、夕かげのあかりにうかぶ土の色。 ほのかに 靄" />
+      <LINE TYPE="本文" X="2503" Y="775" WIDTH="45" HEIGHT="450" CONF="0.816" ORDER="6" STRING="は這ひにけるかも" />
+      <LINE TYPE="本文" X="2312" Y="771" WIDTH="56" HEIGHT="1218" CONF="0.877" ORDER="9" STRING="ほの〓〓と 道はをぐらし。 土ぼこり踏みしづ" />
+      <LINE TYPE="本文" X="2235" Y="770" WIDTH="48" HEIGHT="628" CONF="0.845" ORDER="11" STRING="めつゝ われは來にけり" />
+      <LINE TYPE="本文" X="2052" Y="766" WIDTH="53" HEIGHT="1208" CONF="0.882" ORDER="13" STRING="靑々と 山の梢のまだ昏れず。 遠きこだまは、」" />
+      <LINE TYPE="本文" X="1978" Y="768" WIDTH="42" HEIGHT="337" CONF="0.725" ORDER="15" STRING="岩たゝくらし" />
+      <SHAPE>
+        <POLYGON POINTS="1977,724,1977,1995,2634,1995,2634,724" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.205">
+      <SHAPE>
+        <POLYGON POINTS="1876,1689,1876,1705,1894,1705,1894,1689" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.867">
+      <LINE TYPE="本文" X="1496" Y="757" WIDTH="68" HEIGHT="1216" CONF="0.881" ORDER="19" STRING="はたごの土間に 餌をかふつばくらめの 聲ひ" />
+      <LINE TYPE="本文" X="1413" Y="759" WIDTH="54" HEIGHT="630" CONF="0.694" ORDER="22" STRING="そけさや。 人おとはせず" />
+      <SHAPE>
+        <POLYGON POINTS="1414,757,1414,1976,1561,1976,1561,757" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.910">
+      <LINE TYPE="本文" X="1234" Y="759" WIDTH="64" HEIGHT="1223" CONF="0.871" ORDER="27" STRING="をとめ一人 まびろき土間に立つならし。 くら" />
+      <LINE TYPE="本文" X="1148" Y="763" WIDTH="53" HEIGHT="629" CONF="0.832" ORDER="25" STRING="き聲にて、 宿せむと言ふ" />
+      <SHAPE>
+        <POLYGON POINTS="1149,759,1149,1983,1297,1983,1297,759" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="2861" Y="659" WIDTH="40" HEIGHT="20" CONF="0.229" />
+  </PAGE>
+</OCRDATASET>

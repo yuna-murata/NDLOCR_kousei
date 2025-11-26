@@ -1,0 +1,43 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000100.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.202">
+      <LINE TYPE="本文" X="2848" Y="602" WIDTH="49" HEIGHT="30" CONF="0.452" ORDER="0" STRING="186" />
+      <LINE TYPE="タイトル本文" X="2764" Y="913" WIDTH="64" HEIGHT="400" CONF="0.774" ORDER="5" STRING="森の二時間" />
+      <LINE TYPE="本文" X="2573" Y="713" WIDTH="62" HEIGHT="1233" CONF="0.897" ORDER="6" STRING="森ふかく 入り坐てさびし。 汽笛鳴る湊の村に" />
+      <LINE TYPE="本文" X="2502" Y="776" WIDTH="45" HEIGHT="275" CONF="0.785" ORDER="7" STRING="さかれる心" />
+      <LINE TYPE="本文" X="2312" Y="713" WIDTH="57" HEIGHT="1230" CONF="0.892" ORDER="10" STRING="この森の一方に はなしごゑすなり。 しばらく" />
+      <LINE TYPE="本文" X="2234" Y="710" WIDTH="49" HEIGHT="573" CONF="0.863" ORDER="11" STRING="聽けば、 女夫 草刈る" />
+      <LINE TYPE="本文" X="2042" Y="711" WIDTH="58" HEIGHT="1225" CONF="0.896" ORDER="13" STRING="この森のなかに 誰やら寢て居ると、 はなし聲" />
+      <LINE TYPE="本文" X="1967" Y="707" WIDTH="47" HEIGHT="512" CONF="0.880" ORDER="14" STRING="して、 四五人とほる" />
+      <SHAPE>
+        <POLYGON POINTS="1965,608,1965,1945,2888,1945,2888,608" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.383">
+      <LINE TYPE="本文" X="1471" Y="695" WIDTH="62" HEIGHT="1227" CONF="0.868" ORDER="16" STRING="此は 一八 童兒坐にけり。 ヰ ゆくりなく 森の" />
+      <LINE TYPE="本文" X="1386" Y="697" WIDTH="52" HEIGHT="695" CONF="0.847" ORDER="18" STRING="うま睡ゆ さめしわが目に" />
+      <LINE TYPE="本文" X="1206" Y="700" WIDTH="63" HEIGHT="1235" CONF="0.847" ORDER="20" STRING="まのあたり 幹疎木々の幹あまた 夕日久しく" />
+      <LINE TYPE="本文" X="1122" Y="704" WIDTH="44" HEIGHT="395" CONF="0.837" ORDER="21" STRING="さして居にけり" />
+      <LINE TYPE="本文" X="941" Y="703" WIDTH="61" HEIGHT="1235" CONF="0.889" ORDER="25" STRING="楢の木の乏しき葉むら かさ〓〓と 落ちず久" />
+      <LINE TYPE="本文" X="860" Y="710" WIDTH="46" HEIGHT="573" CONF="0.843" ORDER="26" STRING="しみ、 たそがれにつゝ" />
+      <SHAPE>
+        <POLYGON POINTS="861,691,861,1944,1537,1944,1537,691" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.524">
+      <SHAPE>
+        <POLYGON POINTS="599,589,599,620,647,620,647,589" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ノンブル" X="599" Y="589" WIDTH="48" HEIGHT="31" CONF="0.630" />
+    <BLOCK TYPE="ノンブル" X="1159" Y="2363" WIDTH="24" HEIGHT="33" CONF="0.453" />
+    <BLOCK TYPE="ルビ" X="2280" Y="949" WIDTH="20" HEIGHT="94" CONF="0.637" />
+    <BLOCK TYPE="ルビ" X="1516" Y="701" WIDTH="21" HEIGHT="493" CONF="0.578" />
+    <BLOCK TYPE="ルビ" X="1254" Y="1067" WIDTH="24" HEIGHT="98" CONF="0.497" />
+    <BLOCK TYPE="ルビ" X="2630" Y="1133" WIDTH="21" HEIGHT="25" CONF="0.434" />
+    <BLOCK TYPE="ルビ" X="1430" Y="815" WIDTH="21" HEIGHT="27" CONF="0.402" />
+    <BLOCK TYPE="ルビ" X="1514" Y="702" WIDTH="22" HEIGHT="19" CONF="0.320" />
+    <BLOCK TYPE="ルビ" X="1522" Y="1172" WIDTH="21" HEIGHT="24" CONF="0.308" />
+    <BLOCK TYPE="ルビ" X="1514" Y="700" WIDTH="23" HEIGHT="1200" CONF="0.280" />
+  </PAGE>
+</OCRDATASET>

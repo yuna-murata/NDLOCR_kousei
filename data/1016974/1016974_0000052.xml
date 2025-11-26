@@ -1,0 +1,57 @@
+<OCRDATASET>
+  <PAGE IMAGENAME="1016974_R0000052.jp2" WIDTH="3621" HEIGHT="2575">
+    <TEXTBLOCK CONF="0.767">
+      <LINE TYPE="本文" X="2878" Y="686" WIDTH="50" HEIGHT="1333" CONF="0.861" ORDER="0" STRING="雪間にかゞふ蒜の葉 若ければ、 我にそむきて 90" />
+      <LINE TYPE="本文" X="2798" Y="798" WIDTH="43" HEIGHT="276" CONF="0.770" ORDER="1" STRING="行く心はも" />
+      <SHAPE>
+        <POLYGON POINTS="2800,685,2800,2019,2931,2019,2931,685" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.379">
+      <LINE TYPE="本文" X="2615" Y="797" WIDTH="50" HEIGHT="1215" CONF="0.872" ORDER="4" STRING="おのづから 步みとゞまる。 雪のうへに なげ" />
+      <LINE TYPE="本文" X="2533" Y="792" WIDTH="46" HEIGHT="690" CONF="0.839" ORDER="5" STRING="く心を、 汝は 知らざらむ" />
+      <LINE TYPE="本文" X="2350" Y="788" WIDTH="52" HEIGHT="1164" CONF="0.876" ORDER="7" STRING="朝風に、 粉雪けぶれるひとたひら 會津の櫻" />
+      <LINE TYPE="本文" X="2275" Y="789" WIDTH="41" HEIGHT="333" CONF="0.824" ORDER="8" STRING="固くふゝめり" />
+      <LINE TYPE="本文" X="2090" Y="789" WIDTH="53" HEIGHT="1235" CONF="0.797" ORDER="10" STRING="雪のこる會津の澤に、 赤きもの 根延ふ野植は、 シド" />
+      <LINE TYPE="本文" X="2011" Y="786" WIDTH="44" HEIGHT="399" CONF="0.789" ORDER="12" STRING="かたまり咲けり" />
+      <SHAPE>
+        <POLYGON POINTS="2010,768,2010,2027,2938,2027,2938,768" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.647">
+      <LINE TYPE="本文" X="1498" Y="763" WIDTH="65" HEIGHT="1224" CONF="0.866" ORDER="14" STRING="踏みわたる山高原の斑れ雪 心さびしも。 ひと" />
+      <LINE TYPE="本文" X="1413" Y="769" WIDTH="41" HEIGHT="272" CONF="0.814" ORDER="16" STRING="りし行けり" />
+      <SHAPE>
+        <POLYGON POINTS="1416,762,1416,1986,1567,1986,1567,762" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.797">
+      <LINE TYPE="本文" X="1233" Y="771" WIDTH="68" HEIGHT="1214" CONF="0.880" ORDER="18" STRING="會津嶺に ふりさけゝぶる雪おろしを 見つゝ" />
+      <LINE TYPE="本文" X="1150" Y="772" WIDTH="51" HEIGHT="510" CONF="0.850" ORDER="19" STRING="呆れたる心とつげむ" />
+      <SHAPE>
+        <POLYGON POINTS="1152,770,1152,1985,1297,1985,1297,770" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.718">
+      <LINE TYPE="本文" X="973" Y="772" WIDTH="67" HEIGHT="1218" CONF="0.886" ORDER="21" STRING="榛の木の若芽つやめく晝の道。 ほと〓〓 心く" />
+      <LINE TYPE="本文" X="885" Y="777" WIDTH="46" HEIGHT="272" CONF="0.756" ORDER="22" STRING="づほれ來る" />
+      <SHAPE>
+        <POLYGON POINTS="887,770,887,1990,1040,1990,1040,770" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <TEXTBLOCK CONF="0.202">
+      <LINE TYPE="本文" X="710" Y="779" WIDTH="69" HEIGHT="1210" CONF="0.889" ORDER="25" STRING="屋の上は、 霜ふかゝらむ。 會津の山 思ひたへ" />
+      <LINE TYPE="本文" X="618" Y="663" WIDTH="59" HEIGHT="627" CONF="0.794" ORDER="28" STRING="居り。 夜はの湯槽に 91" />
+      <SHAPE>
+        <POLYGON POINTS="619,661,619,1988,776,1988,776,661" />
+      </SHAPE>
+    </TEXTBLOCK>
+    <BLOCK TYPE="ルビ" X="2930" Y="1151" WIDTH="23" HEIGHT="43" CONF="0.438" />
+    <BLOCK TYPE="ルビ" X="1281" Y="891" WIDTH="18" HEIGHT="25" CONF="0.313" />
+    <BLOCK TYPE="ルビ" X="1551" Y="1058" WIDTH="21" HEIGHT="271" CONF="0.288" />
+    <BLOCK TYPE="ルビ" X="2138" Y="1739" WIDTH="17" HEIGHT="171" CONF="0.281" />
+    <BLOCK TYPE="ルビ" X="1196" Y="777" WIDTH="17" HEIGHT="17" CONF="0.256" />
+    <BLOCK TYPE="ルビ" X="2580" Y="1032" WIDTH="19" HEIGHT="18" CONF="0.241" />
+    <BLOCK TYPE="ルビ" X="2137" Y="1739" WIDTH="18" HEIGHT="204" CONF="0.203" />
+  </PAGE>
+</OCRDATASET>
